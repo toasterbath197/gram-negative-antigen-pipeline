@@ -1,0 +1,8 @@
+results/
+*.pyc
+__pycache__/
+*.embl
+*.faa
+*.zip
+*.gz
+.DS_Store

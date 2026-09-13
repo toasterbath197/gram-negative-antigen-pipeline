@@ -1,0 +1,764 @@
+entry	product	length	accession	identity	coverage	ortholog_source	tier	uniprot_name	uniprot_gene	uniprot_reviewed	annotation_class
+STMMW_00041	conserved hypothetical protein	257	Q8ZS17	100.0	100.0	02_blast_hits	strong_ortholog	UPF0246 protein YaaA	yaaA STM0005	reviewed	CHARACTERIZED_reviewed
+STMMW_00091	conserved hypothetical protein	237	Q7CRA1	100.0	100.0	02_blast_hits	strong_ortholog	Positive sigma H regulator	htgA STM0010	unreviewed	NAMED_function_unreviewed
+STMMW_00151	conserved hypothetical protein	177	Q8ZS11	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	STM0016	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_00191	conserved hypothetical protein	234	Q8ZS07	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0020	unreviewed	GENERIC_localization_only
+STMMW_00381	conserved hypothetical protein	417	Q8ZRZ5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0037	unreviewed	GENERIC_localization_only
+STMMW_00451	conserved hypothetical protein	71	Q7CR94	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yaaY STM0044	unreviewed	GENERIC_localization_only
+STMMW_00511	conserved hypothetical protein	400	Q8ZRY8	100.0	100.0	02_blast_hits	strong_ortholog	Nitrite reductase	STM0050	unreviewed	NAMED_function_unreviewed
+STMMW_01061	hypothetical protein	139	Q8ZRV4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0100	unreviewed	GENERIC_localization_only
+STMMW_01121	hypothetical ABC transporter	235	Q8ZRV2	100.0	100.0	02_blast_hits	strong_ortholog	Thiamine import ATP-binding protein ThiQ (EC 7.6.2.15)	thiQ STM0106	reviewed	CHARACTERIZED_reviewed
+STMMW_01251	conserved hypothetical protein	152	Q8ZRU9	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator MraZ	mraZ STM0119	reviewed	CHARACTERIZED_reviewed
+STMMW_01411	conserved hypothetical protein	142	Q8ZRT8	100.0	100.0	02_blast_hits	strong_ortholog	Secretion monitor	secM STM0135	reviewed	CHARACTERIZED_reviewed
+STMMW_01441	conserved hypothetical protein	63	P67481	100.0	100.0	02_blast_hits	strong_ortholog	DNA gyrase inhibitor YacG	yacG STM0138	reviewed	CHARACTERIZED_reviewed
+STMMW_01451	conserved hypothetical protein	247	P67693	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein ZapD (Z ring-associated protein D)	zapD STM0139	reviewed	CHARACTERIZED_reviewed
+STMMW_01661	conserved hypothetical protein	120	Q8ZRS6	100.0	100.0	02_blast_hits	strong_ortholog	UPF0231 protein YacL	yacL STM0160	reviewed	CHARACTERIZED_reviewed
+STMMW_01681	conserved hypothetical protein	423	Q8ZRS5	100.0	100.0	02_blast_hits	strong_ortholog	D-threonate kinase (EC 2.7.1.219)	dtnK STM0162	reviewed	CHARACTERIZED_reviewed
+STMMW_01781	hypothetical ABC transporter ATP-binding protein	308	Q8ZRR9	100.0	100.0	02_blast_hits	strong_ortholog	ABC-type multidrug transport system, ATPase component	yadG STM0172	unreviewed	NAMED_function_unreviewed
+STMMW_02101	conserved hypothetical protein	129	Q7CR66	100.0	88.4	02_blast_hits	strong_ortholog	Iron-sulfur cluster insertion protein ErpA	erpA STM0204	reviewed	CHARACTERIZED_reviewed
+STMMW_02161	conserved hypothetical protein	385	Q8ZRP6	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	cdaR STM0210	unreviewed	GENERIC_localization_only
+STMMW_02171	conserved hypothetical protein	128	Q7CR64	100.0	100.0	02_blast_hits	strong_ortholog	UPF0325 protein YaeH	yaeH STM0211	reviewed	CHARACTERIZED_reviewed
+STMMW_02411	conserved hypothetical protein	129	Q8ZRN6	100.0	100.0	02_blast_hits	strong_ortholog	Lactoylglutathione lyase	yaeR STM0235	unreviewed	NAMED_function_unreviewed
+STMMW_02441	conserved hypothetical protein	72	P67551	98.5	91.7	02_blast_hits	strong_ortholog	UPF0253 protein YaeP	yaeP STM0238	reviewed	CHARACTERIZED_reviewed
+STMMW_02451	conserved hypothetical protein	181	P0A1S6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YaeQ	yaeQ STM0239	reviewed	TRULY_UNCHARACTERIZED
+STMMW_02491	conserved hypothetical protein	235	Q8ZRN2	100.0	100.0	02_blast_hits	strong_ortholog	tRNA (adenine(37)-N6)-methyltransferase (tRNA (m6t6A37) methyltransferase) (tRNA methyltransferase O)	yaeB STM0243	unreviewed	NAMED_function_unreviewed
+STMMW_02541	hypothetical oxidoreductase	267	Q8ZRM7	99.6	100.0	02_blast_hits	strong_ortholog	Methylglyoxal reductase DkgB (EC 1.1.1.-)	dkgB STM0255	reviewed	CHARACTERIZED_reviewed
+STMMW_02551	hypothetical transcriptional regulator	304	Q8ZRM6	99.7	100.0	02_blast_hits	strong_ortholog	LysR family transcriptional regulator	yafC STM0256	unreviewed	NAMED_function_unreviewed
+STMMW_02571	conserved hypothetical protein	259	Q8ZRM4	100.0	100.0	02_blast_hits	strong_ortholog	UPF0294 protein YafD	yafD STM0258	reviewed	CHARACTERIZED_reviewed
+STMMW_02611	conserved hypothetical protein	240	Q8ZRM1	99.6	100.0	02_blast_hits	strong_ortholog	SAM-dependent methyltransferase	yafS STM0262	unreviewed	NAMED_function_unreviewed
+STMMW_02641	conserved hypothetical pathogenicity islandprotein	351	Q93IT5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0266	unreviewed	GENERIC_localization_only
+STMMW_02701	conserved hypothetical protein	300	Q93IT0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0271	unreviewed	GENERIC_localization_only
+STMMW_02811	conserved hypothetical protein	161	Q93IS4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0277	unreviewed	GENERIC_localization_only
+STMMW_02911	conserved hypothetical protein	262	Q93IR6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0286	unreviewed	GENERIC_localization_only
+STMMW_02921	conserved hypothetical periplasmic protein	138	Q93IR5	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM0287	unreviewed	GENERIC_localization_only
+STMMW_02931	conserved hypothetical pathogenicity islandprotein	173	Q93IR4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0288	unreviewed	GENERIC_localization_only
+STMMW_02951	conserved hypothetical protein	148	Q7CR57	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0290	unreviewed	GENERIC_localization_only
+STMMW_02971	conserved hypothetical protein	87	A0A0H3TET1	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	AAB27_16245 AU613_26795 B1P38_21655 CE70_17375 CFF59_23420 DD95_17770 DMO92_25405 DPF41_22985 DPS76_24805 DU071_23735 E0935_15085 EER35_24745 F3R12_08905 FGZ46_23375 G0A58_24565 GBV53_19000	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_02991	conserved hypothetical cytoplasmic protein	148	Q93IQ9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0293	unreviewed	GENERIC_localization_only
+STMMW_03011	conserved hypothetical protein	43	A0A0F6AX97	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_0343	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_03041	hypothetical protein	91	Q8ZJY9	42.1	62.6	02_blast_hits	weak_ortholog	Endoribonuclease SymE (EC 3.1.-.-)	symE STM4523	reviewed	CHARACTERIZED_reviewed
+STMMW_03051	conserved hypothetical pathogenicity islandprotein	102	Q8ZRK8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0295	unreviewed	GENERIC_localization_only
+STMMW_03131	conserved hypothetical protein	273	Q8ZRK1	100.0	100.0	02_blast_hits	strong_ortholog	Xylanase/chitin deacetylase	ybeJ STM0303	unreviewed	NAMED_function_unreviewed
+STMMW_03132	conserved hypothetical protein	71	A0A4Z0PG69	98.6	100.0	02_blast_hits_species	strong_ortholog	Transcriptional activator PerC	C9F07_06015	unreviewed	NAMED_function_unreviewed
+STMMW_03161	conserved hypothetical protein	71	Q8ZRK0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0305	unreviewed	GENERIC_localization_only
+STMMW_03221	conserved hypothetical protein	255	Q8ZRJ6	100.0	100.0	02_blast_hits	strong_ortholog	Glutamine amidotransferase	yafJ STM0311	unreviewed	NAMED_function_unreviewed
+STMMW_03291	conserved hypothetical protein	414	P37722	100.0	100.0	02_blast_hits	strong_ortholog	Esterase FrsA (EC 3.1.1.1)	frsA STM0318	reviewed	CHARACTERIZED_reviewed
+STMMW_03971	conserved hypothetical protein	107	Q8ZRJ2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0327	unreviewed	GENERIC_localization_only
+STMMW_04041	conserved hypothetical protein	90	Q8ZRI5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0334	unreviewed	GENERIC_localization_only
+STMMW_04291	hypothetical protein	33	Q7CR50	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0359	unreviewed	GENERIC_localization_only
+STMMW_04321	hypothetical protein	74	Q8ZRG1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0362	unreviewed	GENERIC_localization_only
+STMMW_04441	conserved hypothetical protein	207	Q8ZRF7	100.0	100.0	02_blast_hits	strong_ortholog	Inhibitor of hydrogen peroxide resistance	iprA yaiV STM0374	reviewed	CHARACTERIZED_reviewed
+STMMW_04511	hypothetical protein	237	Q8ZRF2	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM0381	unreviewed	GENERIC_localization_only
+STMMW_04531	conserved hypothetical protein	88	Q7CR46	100.0	97.7	02_blast_hits	strong_ortholog	Anti-adapter protein IraP	iraP STM0383	reviewed	CHARACTERIZED_reviewed
+STMMW_04571	conserved hypothetical protein	151	P67334	100.0	100.0	02_blast_hits	strong_ortholog	UPF0178 protein YaiI	yaiI STM0387	reviewed	CHARACTERIZED_reviewed
+STMMW_04591	conserved hypothetical protein	63	Q8ZRE9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yaiA STM0389	unreviewed	GENERIC_localization_only
+STMMW_04611	conserved hypothetical protein	94	Q8ZRE7	100.0	100.0	02_blast_hits	strong_ortholog	Pyrimidine/purine nucleoside phosphorylase (EC 2.4.2.1) (EC 2.4.2.2) (Adenosine phosphorylase) (Cytidine phosphorylase) (Guanosine phosphorylase) (Inosine phosphorylase) (Thymidine phosphorylase) (Uridine phosphorylase) (Xanthosine phosphorylase)	ppnP STM0391	reviewed	CHARACTERIZED_reviewed
+STMMW_04631	hypothetical ROK-family protein	302	Q8ZRE5	100.0	100.0	02_blast_hits	strong_ortholog	Sugar kinase/putative transcriptional regulator (NagC/XylR family)	yajF STM0393	unreviewed	NAMED_function_unreviewed
+STMMW_04731	conserved hypothetical protein	193	Q7CR41	100.0	100.0	02_blast_hits	strong_ortholog	Acyl carrier protein phosphodiesterase (ACP phosphodiesterase) (EC 3.1.4.14)	acpH STM0403	reviewed	CHARACTERIZED_reviewed
+STMMW_04791	conserved hypothetical protein	121	Q7CR38	100.0	100.0	02_blast_hits	strong_ortholog	VOC domain-containing protein	STM0409	unreviewed	NAMED_function_unreviewed
+STMMW_04811	conserved hypothetical protein	115	P0A1S8	100.0	100.0	02_blast_hits	strong_ortholog	Putative HNH nuclease YajD (EC 3.1.-.-)	yajD STM0411	reviewed	CHARACTERIZED_reviewed
+STMMW_04821	conserved hypothetical protein	108	Q7CR36	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM0412	unreviewed	GENERIC_localization_only
+STMMW_04851	conserved hypothetical protein	149	P0A2M1	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional repressor NrdR	nrdR STM0415	reviewed	CHARACTERIZED_reviewed
+STMMW_05051	conserved hypothetical protein	169	Q8ZRC9	100.0	96.4	02_blast_hits	strong_ortholog	Cyclic di-GMP-binding protein YajQ	yajQ STM0435	reviewed	CHARACTERIZED_reviewed
+STMMW_05091	conserved hypothetical protein	427	Q8ZRC5	99.8	100.0	02_blast_hits	strong_ortholog	TPR repeat protein	STM0438	unreviewed	NAMED_function_unreviewed
+STMMW_05251	conserved hypothetical protein	132	Q7CR23	100.0	100.0	02_blast_hits	strong_ortholog	Esterase	ybaW STM0454	unreviewed	NAMED_function_unreviewed
+STMMW_05261	conserved hypothetical protein	231	Q7CR22	100.0	100.0	02_blast_hits	strong_ortholog	7-cyano-7-deazaguanine synthase (EC 6.3.4.20) (7-cyano-7-carbaguanine synthase) (PreQ(0) synthase) (Queuosine biosynthesis protein QueC)	queC STM0455	reviewed	CHARACTERIZED_reviewed
+STMMW_05281	conserved hypothetical protein	272	Q8ZRB6	100.0	100.0	02_blast_hits	strong_ortholog	HMP-PP phosphatase (EC 3.6.1.-)	cof STM0457	reviewed	CHARACTERIZED_reviewed
+STMMW_05301	hypothetical transcriptional regulator	152	Q7CR21	100.0	100.0	02_blast_hits	strong_ortholog	DNA-binding transcriptional activator DecR	ybaO STM0459	unreviewed	NAMED_function_unreviewed
+STMMW_05361	conserved hypothetical lipoprotein	189	Q8ZRB1	100.0	100.0	02_blast_hits	strong_ortholog	Glycoprotein/polysaccharide metabolism	ybaY STM0465	unreviewed	NAMED_function_unreviewed
+STMMW_05441	conserved hypothetical protein	124	Q7CR16	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybaJ STM0474	unreviewed	GENERIC_localization_only
+STMMW_05491	conserved hypothetical protein	311	Q8ZRA4	100.0	100.0	02_blast_hits	strong_ortholog	Transposase	STM0479	unreviewed	NAMED_function_unreviewed
+STMMW_05501	conserved hypothetical protein	55	Q7CR14	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	ybaM STM0480	unreviewed	GENERIC_localization_only
+STMMW_05551	conserved hypothetical protein	117	P0A8B8	100.0	93.2	02_blast_hits	strong_ortholog	Nucleoid-associated protein YbaB	ybaB STM0485	reviewed	CHARACTERIZED_reviewed
+STMMW_05651	conserved hypothetical protein	159	P37174	100.0	100.0	02_blast_hits	strong_ortholog	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK (EC 4.2.-.-)	ybaK STM0495	reviewed	CHARACTERIZED_reviewed
+STMMW_05661	conserved hypothetical protein	264	Q8ZR97	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybaP STM0496	unreviewed	GENERIC_localization_only
+STMMW_05751	hypothetical oxidoreductase	256	Q7CR11	100.0	100.0	02_blast_hits	strong_ortholog	Oxidoreductase (EC 1.-.-.-)	ybbO STM0505	unreviewed	NAMED_function_unreviewed
+STMMW_05771	hypothetical ABC transporter ATP-binding protein	228	Q7CR10	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized ABC transporter ATP-binding protein YbbA	ybbA STM0507	unreviewed	NAMED_function_unreviewed
+STMMW_05831	hypothetical ATP-binding protein	364	Q8ZR88	100.0	100.0	02_blast_hits	strong_ortholog	tRNA 2-selenouridine synthase (EC 2.9.1.3) (Selenophosphate-dependent tRNA 2-selenouridine synthase)	selU mnmH STM0513	reviewed	CHARACTERIZED_reviewed
+STMMW_05841	hypothetical lysR-family transcriptionalregulator	308	Q9S4Y7	100.0	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional activator AllS	allS STM0514	reviewed	CHARACTERIZED_reviewed
+STMMW_05981	conserved hypothetical protein	419	Q8ZR74	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ylbE STM0530	unreviewed	GENERIC_localization_only
+STMMW_05991	conserved hypothetical protein	269	Q8ZR73	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ylbF STM0531	unreviewed	GENERIC_localization_only
+STMMW_06031	conserved hypothetical protein	240	Q8ZR69	100.0	100.0	02_blast_hits	strong_ortholog	UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) (UDP-2,3-diacylglucosamine diphosphatase)	lpxH STM0535	reviewed	CHARACTERIZED_reviewed
+STMMW_06091	conserved hypothetical protein	70	Q7CR06	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybcJ STM0541	unreviewed	GENERIC_localization_only
+STMMW_06191	hypothetical protein	103	Q8ZR64	100.0	100.0	02_blast_hits	strong_ortholog	Probable cyclic di-GMP phosphodiesterase STM0551 (c-di-GMP PDE) (EC 3.1.4.52)	STM0551	reviewed	CHARACTERIZED_reviewed
+STMMW_06281	hypothetical araC-family transcriptionalregulator	284	Q8ZR57	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator (AraC/XylS family)	STM0563	unreviewed	NAMED_function_unreviewed
+STMMW_06301	hypothetical secreted protein	78	Q7CR04	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM0565	unreviewed	GENERIC_localization_only
+STMMW_06321	conserved hypothetical protein	391	Q8ZR54	100.0	100.0	02_blast_hits	strong_ortholog	ATPase involved in DNA repair	STM0567	unreviewed	NAMED_function_unreviewed
+STMMW_06441	conserved hypothetical protein	122	Q8ZR44	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybdF STM0579	unreviewed	GENERIC_localization_only
+STMMW_06481	conserved hypothetical protein	372	Q8ZR41	100.0	100.0	02_blast_hits	strong_ortholog	Putative glutamate--cysteine ligase 2 (EC 6.3.2.2) (Gamma-glutamylcysteine synthetase 2) (GCS 2) (Gamma-GCS 2)	ybdK STM0583	reviewed	CHARACTERIZED_reviewed
+STMMW_06521	conserved hypothetical protein	72	Q8ZR38	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybdZ STM0587	unreviewed	GENERIC_localization_only
+STMMW_06581	hypothetical membrane protein p43	414	Q8ZR35	100.0	100.0	02_blast_hits	strong_ortholog	Enterobactin exporter EntS	entS STM0593	reviewed	CHARACTERIZED_reviewed
+STMMW_06641	conserved hypothetical protein	137	Q8ZR29	100.0	100.0	02_blast_hits	strong_ortholog	Proofreading thioesterase EntH (EC 3.1.2.-) (Enterobactin synthase component H)	entH STM0599	reviewed	CHARACTERIZED_reviewed
+STMMW_06661	conserved hypothetical protein	65	Q7CQZ8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybdD STM0601	unreviewed	GENERIC_localization_only
+STMMW_06691	conserved hypothetical protein	205	Q8ZR25	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	ybdM STM0604	unreviewed	NAMED_function_unreviewed
+STMMW_06701	conserved hypothetical protein	411	Q8ZR24	100.0	100.0	02_blast_hits	strong_ortholog	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase	ybdN STM0605	unreviewed	NAMED_function_unreviewed
+STMMW_06751	conserved hypothetical protein	186	Q8ZR21	100.0	100.0	02_blast_hits	strong_ortholog	Component of anaerobic dehydrogenases	STM0610	unreviewed	NAMED_function_unreviewed
+STMMW_06791	conserved hypothetical protein	142	P67093	100.0	100.0	02_blast_hits	strong_ortholog	Universal stress protein G	uspG STM0614	reviewed	CHARACTERIZED_reviewed
+STMMW_06801	hypothetical zinc-dependant alcoholdehydrogenase	412	Q8ZR17	100.0	100.0	02_blast_hits	strong_ortholog	Dehydrogenase	ybdR STM0615	unreviewed	NAMED_function_unreviewed
+STMMW_07011	conserved hypothetical protein	87	P67537	100.0	100.0	02_blast_hits	strong_ortholog	UPF0250 protein YbeD	ybeD STM0636	reviewed	CHARACTERIZED_reviewed
+STMMW_07061	conserved hypothetical protein	155	P67520	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase H (EC 2.1.1.177) (23S rRNA (pseudouridine1915-N3)-methyltransferase) (23S rRNA m3Psi1915 methyltransferase) (rRNA (pseudouridine-N3-)-methyltransferase RlmH)	rlmH STM0641	reviewed	CHARACTERIZED_reviewed
+STMMW_07071	conserved hypothetical protein	105	Q7CQZ2	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal silencing factor RsfS	ybeB rsfS STM0642	unreviewed	NAMED_function_unreviewed
+STMMW_07101	conserved hypothetical protein	213	Q8ZQZ8	100.0	100.0	02_blast_hits	strong_ortholog	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) (Deamido-NAD(+) diphosphorylase) (Deamido-NAD(+) pyrophosphorylase) (Nicotinate mononucleotide adenylyltransferase) (NaMN adenylyltransferase)	nadD STM0645	reviewed	CHARACTERIZED_reviewed
+STMMW_07181	conserved hypothetical protein	157	Q8ZQZ2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybeL STM0653	unreviewed	GENERIC_localization_only
+STMMW_07191	conserved hypothetical protein	331	Q8ZQZ1	100.0	100.0	02_blast_hits	strong_ortholog	TPR repeat protein	ybeQ STM0654	unreviewed	NAMED_function_unreviewed
+STMMW_07201	conserved hypothetical protein	235	Q8ZQZ0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybeR STM0655	unreviewed	GENERIC_localization_only
+STMMW_07251	putative conserved hypothetical protein	412	Q8ZQY5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0660	unreviewed	GENERIC_localization_only
+STMMW_07331	conserved hypothetical protein	157	O87574	100.0	100.0	02_blast_hits	strong_ortholog	Endoribonuclease YbeY (EC 3.1.-.-)	ybeY STM0668	reviewed	CHARACTERIZED_reviewed
+STMMW_07491	conserved hypothetical protein	467	Q8ZQX3	100.0	100.0	02_blast_hits	strong_ortholog	Tricarballylate dehydrogenase (EC 1.3.8.-)	tcuA STM0691	reviewed	CHARACTERIZED_reviewed
+STMMW_07531	conserved hypothetical protein	93	Q7CQY2	100.0	100.0	02_blast_hits	strong_ortholog	LexA regulated, putative SOS response	ybfE STM0695	unreviewed	NAMED_function_unreviewed
+STMMW_07681	conserved hypothetical protein	247	P67270	100.0	100.0	02_blast_hits	strong_ortholog	NIF3-like metal-binding protein YbgI	ybgI STM0711	reviewed	CHARACTERIZED_reviewed
+STMMW_07691	conserved hypothetical protein	218	Q8ZQV8	100.0	100.0	02_blast_hits	strong_ortholog	Carboxylase	ybgJ STM0712	unreviewed	NAMED_function_unreviewed
+STMMW_07701	conserved hypothetical protein	310	Q8ZQV7	100.0	100.0	02_blast_hits	strong_ortholog	Carboxylase	ybgK STM0713	unreviewed	NAMED_function_unreviewed
+STMMW_07711	conserved hypothetical protein	244	Q8ZQV6	100.0	100.0	02_blast_hits	strong_ortholog	5-oxoprolinase subunit A (5-OPase subunit A) (EC 3.5.2.9) (5-oxoprolinase (ATP-hydrolyzing) subunit A)	pxpA ybgL STM0714	reviewed	CHARACTERIZED_reviewed
+STMMW_08011	conserved hypothetical protein	134	Q8ZQT7	100.0	100.0	02_blast_hits	strong_ortholog	4-hydroxybenzoyl-CoA thioesterase (EC 3.1.2.23)	ybgC STM0744	unreviewed	NAMED_function_unreviewed
+STMMW_08211	conserved hypothetical protein	232	Q8ZQS5	99.6	100.0	02_blast_hits	strong_ortholog	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase (EC 2.4.2.52)	STM0769	unreviewed	NAMED_function_unreviewed
+STMMW_08361	conserved hypothetical protein	272	Q8ZQR5	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase of the HAD superfamily	ybhA STM0784	unreviewed	NAMED_function_unreviewed
+STMMW_08371	conserved hypothetical protein	331	Q8ZQR4	100.0	100.0	02_blast_hits	strong_ortholog	6-phosphogluconolactonase (6-P-gluconolactonase) (EC 3.1.1.31)	pgl STM0785	reviewed	CHARACTERIZED_reviewed
+STMMW_08441	conserved hypothetical protein	158	Q8ZQQ8	100.0	100.0	02_blast_hits	strong_ortholog	Phospholipid-binding protein	ybhB STM0792	unreviewed	NAMED_function_unreviewed
+STMMW_08531	conserved hypothetical protein	302	P58586	100.0	100.0	02_blast_hits	strong_ortholog	Putative gluconeogenesis factor	ybhK STM0801	reviewed	CHARACTERIZED_reviewed
+STMMW_08651	conserved hypothetical protein	252	Q8ZQP3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YbhP	ybhP STM0813	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_08691	hypothetical ABC transporter ATP-binding protein	578	Q8ZQP1	100.0	100.0	02_blast_hits	strong_ortholog	Probable multidrug ABC transporter ATP-binding protein YbhF	ybhF STM0817	unreviewed	NAMED_function_unreviewed
+STMMW_08711	hypothetical tetR-family transcriptionalregulator	224	Q8ZQN9	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional repressor (TetR/AcrR family)	ybiH STM0819	unreviewed	NAMED_function_unreviewed
+STMMW_08761	hypothetical Zinc-finger containing protein	88	Q8ZQN5	100.0	100.0	02_blast_hits	strong_ortholog	DnaK suppressor protein	ybiI STM0825	unreviewed	NAMED_function_unreviewed
+STMMW_08771	conserved hypothetical protein	308	Q8ZQN4	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase F (EC 2.1.1.181) (23S rRNA mA1618 methyltransferase) (rRNA adenine N-6-methyltransferase)	rlmF STM0826	reviewed	CHARACTERIZED_reviewed
+STMMW_08901	conserved hypothetical protein	247	Q8ZQM9	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM0839	unreviewed	GENERIC_localization_only
+STMMW_08911	conserved hypothetical protein	176	Q8ZQM8	99.4	100.0	02_blast_hits	strong_ortholog	Hydrolase of the HAD superfamily	ybiV(2) STM0840	unreviewed	NAMED_function_unreviewed
+STMMW_08921	conserved hypothetical protein	421	Q8ZQM7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybiU STM0841	unreviewed	GENERIC_localization_only
+STMMW_08931	conserved hypothetical protein	269	Q7CQV6	99.6	100.0	02_blast_hits	strong_ortholog	Hydrolase of the HAD superfamily	ybiV(1) STM0842	unreviewed	NAMED_function_unreviewed
+STMMW_08991	hypothetical ABC transporter ATP-binding protein	623	Q8ZQM4	100.0	100.0	02_blast_hits	strong_ortholog	Glutathione import ATP-binding protein GsiA (EC 7.4.2.10)	gsiA STM0848	reviewed	CHARACTERIZED_reviewed
+STMMW_09011	hypothetical ABC transporter permease protein	306	Q8ZQM2	100.0	100.0	02_blast_hits	strong_ortholog	Glutathione transport system permease protein GsiC	gsiC STM0850	reviewed	CHARACTERIZED_reviewed
+STMMW_09021	hypothetical ABC transporter permease protein	303	Q7CQV4	100.0	100.0	02_blast_hits	strong_ortholog	Glutathione transport system permease protein GsiD	gsiD STM0851	reviewed	CHARACTERIZED_reviewed
+STMMW_09031	conserved hypothetical protein	441	Q8ZQM1	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal protein uS12 methylthiotransferase RimO (uS12 MTTase) (uS12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein uS12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO)	rimO STM0852	reviewed	CHARACTERIZED_reviewed
+STMMW_09041	conserved hypothetical protein	127	Q7CQV3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yliH STM0853	unreviewed	GENERIC_localization_only
+STMMW_09051	conserved hypothetical protein	171	Q8ZQM0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0854	unreviewed	GENERIC_localization_only
+STMMW_09181	conserved hypothetical protein	271	Q8ZQK7	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase	STM0867	unreviewed	NAMED_function_unreviewed
+STMMW_09271	conserved hypothetical protein	158	Q8ZQK1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ybjN STM0876	unreviewed	GENERIC_localization_only
+STMMW_09331	hypothetical RNA methyltransferase	376	Q8ZQJ5	99.7	100.0	02_blast_hits	strong_ortholog	23S rRNA (uracil(747)-C(5))-methyltransferase RlmC (EC 2.1.1.189) (23S rRNA(m5U747)-methyltransferase)	rlmC rumB STM0882	reviewed	CHARACTERIZED_reviewed
+STMMW_09431	conserved hypothetical protein	107	P67286	100.0	100.0	02_blast_hits	strong_ortholog	UPF0145 protein YbjQ	ybjQ STM0930	reviewed	CHARACTERIZED_reviewed
+STMMW_09461	conserved hypothetical protein	477	Q8ZQF2	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside-diphosphate-sugar epimerase	ybjT STM0933	unreviewed	NAMED_function_unreviewed
+STMMW_09521	conserved hypothetical protein	552	Q8ZQE6	100.0	100.0	02_blast_hits	strong_ortholog	Homology with RecF protein	ybjD STM0939	unreviewed	NAMED_function_unreviewed
+STMMW_09571	conserved hypothetical protein	106	P67649	100.0	100.0	02_blast_hits	strong_ortholog	ATP-dependent Clp protease adapter protein ClpS	clpS STM0944	reviewed	CHARACTERIZED_reviewed
+STMMW_09602	conserved hypothetical protein	52	A0A0F6AZ90	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_1069	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_09621	conserved hypothetical protein	225	Q8ZQE0	100.0	100.0	02_blast_hits	strong_ortholog	Homolog of slsA in STM	STM0950	unreviewed	NAMED_function_unreviewed
+STMMW_09641	hypothetical transcriptional activator	303	Q7CQU6	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator, lysR family	STM0952	unreviewed	NAMED_function_unreviewed
+STMMW_09741	conserevd hypothetical protein	447	Q7CQU4	100.0	100.0	02_blast_hits	strong_ortholog	Replication-associated recombination protein A	ycaJ STM0962	unreviewed	NAMED_function_unreviewed
+STMMW_09821	putative conserved hypothetical protein	108	Q8ZQC9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM0971	unreviewed	GENERIC_localization_only
+STMMW_09861	conserved hypothetical protein	586	Q8ZQC7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ycaO STM0975	unreviewed	GENERIC_localization_only
+STMMW_09971	conserved hypothetical protein	410	Q8ZQC1	99.8	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ycaQ STM0986	unreviewed	GENERIC_localization_only
+STMMW_09981	conserved hypothetical protein	60	Q7CQT7	100.0	100.0	02_blast_hits	strong_ortholog	Methyltransferase activator Trm112 homolog	ycaR STM0987	reviewed	CHARACTERIZED_reviewed
+STMMW_10001	conserved hypothetical protein	297	Q8ZQB9	100.0	100.0	02_blast_hits	strong_ortholog	MukF protein (Killing factor KicB)	STM0989	unreviewed	NAMED_function_unreviewed
+STMMW_10081	conserved hypothetical protein	215	Q8ZQB3	100.0	100.0	02_blast_hits	strong_ortholog	Metallo-beta-lactamase	ycbL STM0997	unreviewed	NAMED_function_unreviewed
+STMMW_10721	conserved hypothetical protein	180	Q8ZQ75	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein ZapC	zapC STM1059	reviewed	CHARACTERIZED_reviewed
+STMMW_10731	conserved hypothetical protein	369	Q8ZQ74	100.0	100.0	02_blast_hits	strong_ortholog	Iron-sulfur protein	STM1060	unreviewed	NAMED_function_unreviewed
+STMMW_10741	conserved hypothetical protein	702	Q8ZQ73	99.9	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase K/L [Includes: 23S rRNA m2G2445 methyltransferase (EC 2.1.1.173) (rRNA (guanine-N(2)-)-methyltransferase RlmL); 23S rRNA m7G2069 methyltransferase (EC 2.1.1.264) (rRNA (guanine-N(7)-)-methyltransferase RlmK)]	rlmL STM1061	reviewed	CHARACTERIZED_reviewed
+STMMW_10811	conserved hypothetical protein	528	Q8ZQ69	99.8	100.0	02_blast_hits	strong_ortholog	endopeptidase La (EC 3.4.21.53)	lonH STM1068	unreviewed	NAMED_function_unreviewed
+STMMW_10821	conserved hypothetical protein	150	Q8ZQ68	100.0	100.0	02_blast_hits	strong_ortholog	Macrodomain Ter protein	matP STM1069	reviewed	CHARACTERIZED_reviewed
+STMMW_10851	conserved hypothetical protein	201	Q8ZQ67	100.0	100.0	02_blast_hits	strong_ortholog	DNA transformation protein	yccR STM1072	unreviewed	NAMED_function_unreviewed
+STMMW_10911	conserved hypothetical protein	138	Q7CQT1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1078	unreviewed	GENERIC_localization_only
+STMMW_10921	conserved hypothetical protein	105	Q7CQT0	100.0	100.0	02_blast_hits	strong_ortholog	Heat shock protein HspQ	hspQ STM1079	reviewed	CHARACTERIZED_reviewed
+STMMW_10931	conserved hypothetical protein	403	Q8ZQ64	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase I (EC 2.1.1.191) (23S rRNA m5C1962 methyltransferase) (rRNA (cytosine-C(5)-)-methyltransferase RlmI)	rlmI STM1080	reviewed	CHARACTERIZED_reviewed
+STMMW_10991	conserved hypothetical protein	226	Q8ZQ60	100.0	100.0	02_blast_hits	strong_ortholog	Pathogenicity island encoded protein: SPI5	pipA STM1087	unreviewed	NAMED_function_unreviewed
+STMMW_11001	conserved hypothetical protein	291	Q8ZQ59	100.0	100.0	02_blast_hits	strong_ortholog	Secreted effector protein PipB	pipB STM1088	reviewed	CHARACTERIZED_reviewed
+STMMW_11011	conserved hypothetical inner membrane protein	106	Q8ZQ58	100.0	100.0	02_blast_hits	strong_ortholog	Pathogenicity island encoded protein: SPI5	STM1089	unreviewed	NAMED_function_unreviewed
+STMMW_11191	hypothetical protein	305	Q8ZQ44	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM1109	unreviewed	GENERIC_localization_only
+STMMW_11201	conserved hypothetical protein	120	Q9F0N8	99.2	100.0	02_blast_hits	strong_ortholog	Anti-adapter protein IraM (Sigma S-regulator RssC)	iraM rssC STM1110	reviewed	CHARACTERIZED_reviewed
+STMMW_11211	conserved hypothetical protein	101	Q7CQS3	100.0	100.0	02_blast_hits	strong_ortholog	Chaperone modulatory protein CbpM	cbpM STM1111	reviewed	CHARACTERIZED_reviewed
+STMMW_11231	conserved hypothetical protein	64	A0A0F6AZT3	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_1265	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_11281	conserved hypothetical protein	75	Q8ZQ41	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yccJ STM1118	unreviewed	GENERIC_localization_only
+STMMW_11301	conserved hypothetical protein	55	Q8ZQ39	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ymdF STM1121	unreviewed	GENERIC_localization_only
+STMMW_11381	conserved hypothetical protein	226	P60631	100.0	100.0	02_blast_hits	strong_ortholog	N-acetylmannosamine-6-phosphate 2-epimerase 1 (EC 5.1.3.9) (ManNAc-6-P epimerase 1)	nanE1 STM1129	reviewed	CHARACTERIZED_reviewed
+STMMW_11441	conserved hypothetical protein	245	Q7CQR9	100.0	100.0	02_blast_hits	strong_ortholog	Probable phosphatase YcdX (EC 3.1.3.-)	ycdX STM1136	reviewed	CHARACTERIZED_reviewed
+STMMW_11451	conserved hypothetical protein	184	Q7CQR8	100.0	100.0	02_blast_hits	strong_ortholog	Oxidoreductase component	ycdY STM1137	unreviewed	NAMED_function_unreviewed
+STMMW_11551	conserved hypothetical protein	179	P67341	100.0	100.0	02_blast_hits	strong_ortholog	O-acetyl-ADP-ribose deacetylase (EC 3.1.1.106) (Regulator of RNase III activity)	ymdB STM1147	reviewed	CHARACTERIZED_reviewed
+STMMW_11561	conserved hypothetical protein	494	Q8ZQ28	100.0	100.0	02_blast_hits	strong_ortholog	Cardiolipin synthase C (CL synthase) (EC 2.7.8.-)	ymdC clsC STM1148	unreviewed	NAMED_function_unreviewed
+STMMW_11641	conserved hypothetical protein	350	Q8ZQ23	100.0	100.0	02_blast_hits	strong_ortholog	tRNA uridine(34) hydroxylase (EC 1.14.-.-) (tRNA hydroxylation protein O)	trhO yceA STM1156	reviewed	CHARACTERIZED_reviewed
+STMMW_11691	conserved hypothetical protein	84	Q8ZQ21	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yceP STM1161	unreviewed	GENERIC_localization_only
+STMMW_11761	conserved hypothetical protein	215	Q7CQR2	100.0	100.0	02_blast_hits	strong_ortholog	UPF0502 protein YceH	yceH STM1168	reviewed	CHARACTERIZED_reviewed
+STMMW_11941	conserved hypothetical protein	82	Q8Z7J8	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein YceQ	yceQ STY1226.1 t1733 STY1226A	reviewed	TRULY_UNCHARACTERIZED
+STMMW_11971	conserved hypothetical protein	74	A0A0H3NA90	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	SL1344_1125	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_11981	conserved hypothetical protein	194	P58627	100.0	100.0	02_blast_hits	strong_ortholog	7-methyl-GTP pyrophosphatase (m(7)GTP pyrophosphatase) (EC 3.6.1.-)	yceF STM1189	reviewed	CHARACTERIZED_reviewed
+STMMW_11991	conserved hypothetical protein	173	P0A1T2	100.0	100.0	02_blast_hits	strong_ortholog	Large ribosomal RNA subunit accumulation protein YceD (23S rRNA accumulation protein YceD) (G30K)	yceD g30k STM1190	reviewed	CHARACTERIZED_reviewed
+STMMW_12111	conserved hypothetical protein	265	Q8ZQ11	100.0	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	ycfH STM1202	unreviewed	NAMED_function_unreviewed
+STMMW_12171	conserved hypothetical protein	274	Q8ZQ07	100.0	100.0	02_blast_hits	strong_ortholog	Thiamine kinase (EC 2.7.1.89)	thiK STM1208	reviewed	CHARACTERIZED_reviewed
+STMMW_12191	conserved hypothetical protein	180	P67366	100.0	100.0	02_blast_hits	strong_ortholog	UPF0227 protein YcfP	ycfP STM1210	reviewed	CHARACTERIZED_reviewed
+STMMW_12391	conserved hypothetical protein	373	Q8ZPZ7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ycfD STM1229	unreviewed	GENERIC_localization_only
+STMMW_12431	conserved hypothetical protein	215	Q8ZPZ5	99.5	99.1	02_blast_hits	strong_ortholog	High frequency lysogenization protein HflD homolog	hflD STM1233	reviewed	CHARACTERIZED_reviewed
+STMMW_12571	hypothetical protein	90	Q8ZPY7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1250	unreviewed	GENERIC_localization_only
+STMMW_12591	hypothetical protein	347	Q8ZPY5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1252	unreviewed	GENERIC_localization_only
+STMMW_12681	conserved hypothetical protein	108	Q8ZPY1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1261	unreviewed	GENERIC_localization_only
+STMMW_12731	hypothetical protein	82	Q8ZPX7	98.8	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1267	unreviewed	GENERIC_localization_only
+STMMW_12741	hypothetical protein	49	Q8ZPX6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1268	unreviewed	GENERIC_localization_only
+STMMW_12771	conserved hypothetical protein	120	Q8ZPX5	99.2	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yeaR STM1271	unreviewed	GENERIC_localization_only
+STMMW_12781	conserved hypothetical protein	60	Q8ZPX4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yoaG STM1272	unreviewed	GENERIC_localization_only
+STMMW_12801	conserved hypothetical protein	61	A0A0H3NAV2	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	SL1344_1209	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_12821	conserved hypothetical protein	83	Q8ZPX2	100.0	100.0	02_blast_hits	strong_ortholog	Hemolysin	yaoF STM1275	unreviewed	NAMED_function_unreviewed
+STMMW_12831	hypothetical protein	103	Q8ZPX1	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM1276	unreviewed	GENERIC_localization_only
+STMMW_12881	conserved hypothetical protein	172	Q8ZPW5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yeaK STM1282	unreviewed	GENERIC_localization_only
+STMMW_12891	conserved hypothetical membrane protein	497	Q8ZPW4	100.0	100.0	02_blast_hits	strong_ortholog	diguanylate cyclase (EC 2.7.7.65)	yeaJ STM1283	unreviewed	NAMED_function_unreviewed
+STMMW_12901	conserved hypothetical protein	428	Q8ZPW3	100.0	100.0	02_blast_hits	strong_ortholog	UPF0229 protein YeaH	yeaH STM1284	reviewed	CHARACTERIZED_reviewed
+STMMW_12911	conserved hypothetical protein	644	Q8ZPW2	100.0	100.0	02_blast_hits	strong_ortholog	Serine/threonine kinase YeaG (EC 2.7.11.1)	yeaG STM1285	unreviewed	NAMED_function_unreviewed
+STMMW_12951	conserved hypothetical protein	294	Q8ZPV9	100.0	100.0	02_blast_hits	strong_ortholog	Putative glucose-6-phosphate 1-epimerase (EC 5.1.3.15) (Putative D-hexose-6-phosphate mutarotase)	yeaD STM1289	reviewed	CHARACTERIZED_reviewed
+STMMW_12961	conserved hypothetical protein	84	A0A0H3NKI5	98.8	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	SL1344_1224A	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_12981	conserved hypothetical protein	147	P65449	100.0	93.2	02_blast_hits	strong_ortholog	Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12) (Peptide-methionine (R)-S-oxide reductase)	msrB STM1291	reviewed	CHARACTERIZED_reviewed
+STMMW_12991	conserved hypothetical protein	92	Q7CQP5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yeaC STM1292	unreviewed	GENERIC_localization_only
+STMMW_13161	conserved hypothetical protein	302	Q8ZPU6	99.7	97.0	02_blast_hits	strong_ortholog	Excinuclease cho (EC 3.1.25.-) (Endonuclease cho) (UvrC homolog protein)	cho STM1309	reviewed	CHARACTERIZED_reviewed
+STMMW_13241	conserved hypothetical protein	252	Q8ZPU1	100.0	100.0	02_blast_hits	strong_ortholog	Chitooligosaccharide deacetylase (COD) (EC 3.5.1.105) (Chitin disaccharide deacetylase) (Chitobiose deacetylase) (Chitobiose-6P deacetylase) (Chitotriose deacetylase) (Chitotriose-6P deacetylase)	chbG STM1317	reviewed	CHARACTERIZED_reviewed
+STMMW_13311	conserved hypothetical protein	286	Q7CQN8	100.0	100.0	02_blast_hits	strong_ortholog	Probable ketoamine kinase YniA	STM1324	unreviewed	NAMED_function_unreviewed
+STMMW_13321	conserved hypothetical protein	96	Q8ZPT6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydiZ STM1325	unreviewed	GENERIC_localization_only
+STMMW_13381	conserved hypothetical protein	68	Q8ZPT0	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM1331	unreviewed	GENERIC_localization_only
+STMMW_13511	conserved hypothetical protein	237	Q8ZPS6	100.0	100.0	02_blast_hits	strong_ortholog	Anti-FlhC(2)FlhD(4) factor YdiV (EAL-like protein YdiV) (c-di-GMP regulator CdgR)	ydiV cdgR STM1344	reviewed	CHARACTERIZED_reviewed
+STMMW_13521	conserved hypothetical protein	480	Q8ZPS5	100.0	100.0	02_blast_hits	strong_ortholog	Protein nucleotidyltransferase YdiU (EC 2.7.7.-) (Protein adenylyltransferase YdiU) (EC 2.7.7.108) (Protein uridylyltransferase YdiU) (EC 2.7.7.-) (UMP-modifying enzyme) (UMPylator)	ydiU selO STM1345	reviewed	CHARACTERIZED_reviewed
+STMMW_13531	conserved hypothetical protein	63	Q7CQN6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydiE STM1346	unreviewed	GENERIC_localization_only
+STMMW_13551	conserved hypothetical protein	277	P67197	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoenolpyruvate synthase regulatory protein (PEP synthase regulatory protein) (PSRP) (EC 2.7.11.33) (EC 2.7.4.28) (Pyruvate, water dikinase regulatory protein)	ppsR STM1348	reviewed	CHARACTERIZED_reviewed
+STMMW_13691	conserved hypothetical protein	119	Q8ZPR1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydiL STM1362	unreviewed	GENERIC_localization_only
+STMMW_13711	conserved hypothetical FAD-binding protein	1018	Q8ZPQ9	100.0	100.0	02_blast_hits	strong_ortholog	D-2-hydroxyglutarate dehydrogenase (EC 1.1.99.39)	ydiJ STM1365	unreviewed	NAMED_function_unreviewed
+STMMW_13721	conserved hypothetical protein	136	Q8ZPQ8	100.0	100.0	02_blast_hits	strong_ortholog	1,4-dihydroxy-2-naphthoyl-CoA hydrolase (DHNA-CoA hydrolase) (EC 3.1.2.28) (DHNA-CoA thioesterase)	menI STM1366	unreviewed	NAMED_function_unreviewed
+STMMW_13731	conserved hypothetical protein	75	Q8ZPQ7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydiH STM1367	unreviewed	GENERIC_localization_only
+STMMW_13751	conserved hypothetical protein	122	Q8ZPQ5	100.0	100.0	02_blast_hits	strong_ortholog	HesB-like domain protein	sufA STM1369	unreviewed	NAMED_function_unreviewed
+STMMW_13761	conserved hypothetical protein	495	Q8ZPQ4	99.8	100.0	02_blast_hits	strong_ortholog	ABC transporter	sufB STM1370	unreviewed	NAMED_function_unreviewed
+STMMW_13781	conserved hypothetical protein	423	Q8ZPQ2	100.0	100.0	02_blast_hits	strong_ortholog	Iron-sulfur component of FhuF stability protein	sufD STM1372	unreviewed	NAMED_function_unreviewed
+STMMW_13801	conserved hypothetical protein	138	Q8ZPQ1	100.0	100.0	02_blast_hits	strong_ortholog	Cysteine desulfuration protein SufE	sufE STM1374	reviewed	CHARACTERIZED_reviewed
+STMMW_14361	conserved hypothetical protein	115	Q7CQK9	100.0	100.0	02_blast_hits	strong_ortholog	Glutaredoxin	ydhD STM1433	unreviewed	NAMED_function_unreviewed
+STMMW_14411	conserved hypothetical protein	79	Q8ZPN6	100.0	100.0	02_blast_hits	strong_ortholog	Oxidoreductase	ydhL STM1438	unreviewed	NAMED_function_unreviewed
+STMMW_14491	conserved hypothetical protein	373	Q8ZPN1	100.0	100.0	02_blast_hits	strong_ortholog	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170) (AnhMurNAc kinase)	anmK STM1446	reviewed	CHARACTERIZED_reviewed
+STMMW_14641	conserved hypothetical protein	71	Q7CQK5	100.0	100.0	02_blast_hits	strong_ortholog	Transcription modulator YdgT (H-NS/StpA-binding protein 2) (OriC-binding nucleoid-associated protein)	ydgT cnu STM1461	reviewed	CHARACTERIZED_reviewed
+STMMW_14731	conserved hypothetical protein	568	Q8ZPL5	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM1472	unreviewed	GENERIC_localization_only
+STMMW_14951	conserved hypothetical protein	204	Q8ZPK0	100.0	100.0	02_blast_hits	strong_ortholog	Tat proofreading chaperone DmsD (DMSO reductase maturation protein) (Twin-arginine leader-binding protein DmsD)	dmsD STM1495	reviewed	CHARACTERIZED_reviewed
+STMMW_15091	conserved hypothetical protein	67	Q7CQJ6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydfZ STM1509	unreviewed	GENERIC_localization_only
+STMMW_15131	conserved hypothetical protein	60	Q7CQJ4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1513	unreviewed	GENERIC_localization_only
+STMMW_15141	conserved hypothetical protein	175	Q8ZPI7	100.0	100.0	02_blast_hits	strong_ortholog	Competence-damaged protein	ydeJ STM1514	unreviewed	NAMED_function_unreviewed
+STMMW_15261	conserved hypothetical protein	119	Q8ZPI1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yneG STM1526	unreviewed	GENERIC_localization_only
+STMMW_15482	conserved hypothetical protein	69	A0A0F6B1G5	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_1876	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_15491	conserved hypothetical protein	488	Q8ZPF6	100.0	100.0	02_blast_hits	strong_ortholog	Coiled-coil protein	STM1554	unreviewed	NAMED_function_unreviewed
+STMMW_15591	conserved hypothetical protein	71	P65641	100.0	100.0	02_blast_hits	strong_ortholog	Protein bdm homolog	bdm STM1564	reviewed	CHARACTERIZED_reviewed
+STMMW_15681	conserved hypothetical protein	126	Q8ZPE3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1573	unreviewed	GENERIC_localization_only
+STMMW_15761	conserved hypothetical protein	297	P40788	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized isomerase YddE (EC 5.1.-.-)	yddE STM1581	reviewed	CHARACTERIZED_reviewed
+STMMW_15781	hypothetical protein	210	Q8ZPD7	100.0	100.0	02_blast_hits	strong_ortholog	Secreted effector protein SteA (Salmonella translocated effector A)	steA STM1583	reviewed	CHARACTERIZED_reviewed
+STMMW_15871	conserved hypothetical protein	77	Q8ZPD2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ydcY STM1592	unreviewed	GENERIC_localization_only
+STMMW_15951	conserved hypothetical protein	76	Q9LAM2	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM1600	unreviewed	GENERIC_localization_only
+STMMW_15971	hypothetical protein	316	Q9KIB9	100.0	100.0	02_blast_hits	strong_ortholog	Secreted effector protein SifB	sifB STM1602	reviewed	CHARACTERIZED_reviewed
+STMMW_16071	conserved hypothetical protein	372	P58535	100.0	100.0	02_blast_hits	strong_ortholog	Putative aminopeptidase SgcX (EC 3.4.11.-)	sgcX STM1612	reviewed	CHARACTERIZED_reviewed
+STMMW_16101	conserved hypothetical protein	268	Q8ZPB8	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside triphosphatase	STM1615	unreviewed	NAMED_function_unreviewed
+STMMW_16191	conserved hypothetical protein	447	Q8ZPB1	100.0	100.0	02_blast_hits	strong_ortholog	2-oxoadipate dioxygenase/decarboxylase (EC 1.13.11.93) (2-hydroxyglutarate synthase)	STM1624	unreviewed	NAMED_function_unreviewed
+STMMW_16231	conserved hypothetical protein	91	Q8ZPA7	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional repressor FrmR	STM1628	unreviewed	NAMED_function_unreviewed
+STMMW_16241	conserved hypothetical protein	133	Q8ZPA6	100.0	100.0	02_blast_hits	strong_ortholog	Secreted effector protein SteB (Salmonella translocated effector B)	steB STM1629	reviewed	CHARACTERIZED_reviewed
+STMMW_16351	conserved hypothetical protein	266	Q8ZP96	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	ydcF STM1640	unreviewed	GENERIC_localization_only
+STMMW_16381	hypothetical protein	149	Q8ZP94	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM1643	unreviewed	GENERIC_localization_only
+STMMW_16441	conserved hypothetical protein	51	Q7CQH3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1649	unreviewed	GENERIC_localization_only
+STMMW_16451	conserved hypothetical protein	99	Q8ZP90	100.0	100.0	02_blast_hits	strong_ortholog	Reverse transcriptase	STM1650	unreviewed	NAMED_function_unreviewed
+STMMW_16471	conserved hypothetical protein	144	P67091	100.0	100.0	02_blast_hits	strong_ortholog	Universal stress protein F	uspF STM1652	reviewed	CHARACTERIZED_reviewed
+STMMW_16501	conserved hypothetical protein	311	Q8ZP88	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-cytidine(32) 2-sulfurtransferase (EC 2.8.1.-) (Two-thiocytidine biosynthesis protein A) (tRNA 2-thiocytidine biosynthesis protein TtcA)	ttcA STM1654	reviewed	CHARACTERIZED_reviewed
+STMMW_16541	conserved hypothetical protein	187	Q8ZP85	100.0	100.0	02_blast_hits	strong_ortholog	Smr domain protein	ydaL STM1658	unreviewed	NAMED_function_unreviewed
+STMMW_16571	conserved hypothetical protein	315	Q8ZP84	100.0	100.0	02_blast_hits	strong_ortholog	Universal stress protein E	uspE STM1661	reviewed	CHARACTERIZED_reviewed
+STMMW_16601	conserved hypothetical DNA-binding protein	200	Q8ZP82	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	STM1664	unreviewed	NAMED_function_unreviewed
+STMMW_16611	conserved hypothetical protein	228	Q8ZP81	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1665	unreviewed	GENERIC_localization_only
+STMMW_16671	hypothetical protein	369	Q8ZP75	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1672	unreviewed	GENERIC_localization_only
+STMMW_16751	conserved hypothetical protein	242	Q8ZP67	100.0	100.0	02_blast_hits	strong_ortholog	Murein peptide amidase A (EC 3.4.17.-) (Gamma-D-Glu-Dap amidase) (Zinc metallocarboxypeptidase MpaA)	ycjI mpaA STM1680	unreviewed	NAMED_function_unreviewed
+STMMW_16921	conserved hypothetical protein	235	Q8ZP58	100.0	76.2	02_blast_hits	strong_ortholog	Diguanylate cyclase/phosphodiesterase domain 2	STM1697	unreviewed	NAMED_function_unreviewed
+STMMW_16931	hypothetical protein	457	Q8ZP57	99.8	100.0	02_blast_hits	strong_ortholog	Secreted effector kinase SteC (EC 2.7.-.-) (Salmonella translocated effector C)	steC STM1698	reviewed	CHARACTERIZED_reviewed
+STMMW_16941	conserved hypothetical protein	59	Q8ZP56	100.0	100.0	02_blast_hits	strong_ortholog	E6 protein	STM1698a	unreviewed	NAMED_function_unreviewed
+STMMW_16951	conserved hypothetical protein	99	P16656	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YcjE	ycjE STM1699	reviewed	TRULY_UNCHARACTERIZED
+STMMW_16971	conserved hypothetical protein	377	Q8ZP55	100.0	86.5	02_blast_hits	strong_ortholog	Cytoplasmic protein	yciW STM1701	unreviewed	GENERIC_localization_only
+STMMW_16991	conserved hypothetical protein	660	Q8ZP53	100.0	100.0	02_blast_hits	strong_ortholog	Anti-FlhC(2)FlhD(4) factor YdiV (EC 3.1.4.52)	yciR STM1703	unreviewed	NAMED_function_unreviewed
+STMMW_17031	conserved hypothetical protein	371	Q7CQG6	100.0	100.0	02_blast_hits	strong_ortholog	Lipopolysaccharide assembly protein B	yciM lapB STM1708	unreviewed	NAMED_function_unreviewed
+STMMW_17111	conserved hypothetical protein	83	Q7CQG4	100.0	100.0	02_blast_hits	strong_ortholog	Protein YciN	yciN STM1715	unreviewed	NAMED_function_unreviewed
+STMMW_17131	hypothetical oxidoreductase	253	Q7CQG2	100.0	100.0	02_blast_hits	strong_ortholog	Oxoacyl-(Acyl carrier protein) reductase	yciK STM1717	unreviewed	NAMED_function_unreviewed
+STMMW_17161	conserved hypothetical protein	206	Q7CQG1	100.0	100.0	02_blast_hits	strong_ortholog	Threonylcarbamoyl-AMP synthase YciO (EC 2.7.7.87) (L-threonylcarbamoyladenylate synthase)	yciO STM1720	unreviewed	NAMED_function_unreviewed
+STMMW_17171	conserved hypothetical protein	293	O54453	100.0	100.0	02_blast_hits	strong_ortholog	5'-3' exoribonuclease Rnm (EC 3.1.13.-) (3',5'-nucleotide bisphosphate phosphatase) (EC 3.1.3.97) (RNase AM)	rnm trpH STM1721	reviewed	CHARACTERIZED_reviewed
+STMMW_17231	conserved hypothetical protein	60	Q7CQG0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yciG STM1728	unreviewed	GENERIC_localization_only
+STMMW_17241	conserved hypothetical protein	167	Q7CQF9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yciF STM1729	unreviewed	GENERIC_localization_only
+STMMW_17251	conserved hypothetical protein	168	Q7CQF8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yciE STM1730	unreviewed	GENERIC_localization_only
+STMMW_17261	conserved hypothetical protein	292	H9L462	100.0	100.0	02_blast_hits	strong_ortholog	Catalase	STM1731	unreviewed	NAMED_function_unreviewed
+STMMW_17281	conserved hypothetical protein	134	Q7CQF6	100.0	100.0	02_blast_hits	strong_ortholog	Ferredoxin	STM1733	unreviewed	NAMED_function_unreviewed
+STMMW_17331	conserved hypothetical protein	98	Q7CQF5	100.0	100.0	02_blast_hits	strong_ortholog	Protein YciI	yciI STM1738	unreviewed	NAMED_function_unreviewed
+STMMW_17351	conserved hypothetical protein	109	Q8ZP48	100.0	100.0	02_blast_hits	strong_ortholog	Putative double-stranded DNA mimic protein YciU	yciU STM1740	reviewed	CHARACTERIZED_reviewed
+STMMW_17421	conserved hypothetical protein	104	Q8ZP46	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM1747	unreviewed	GENERIC_localization_only
+STMMW_17491	conserved hypothetical protein	301	Q8ZP44	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoesterase	ychK STM1754	unreviewed	NAMED_function_unreviewed
+STMMW_17501	conserved hypothetical protein	152	Q8ZP43	100.0	100.0	02_blast_hits	strong_ortholog	UPF0225 protein YchJ	ychJ STM1755	reviewed	CHARACTERIZED_reviewed
+STMMW_17611	conserved hypothetical protein	117	Q7CQF0	100.0	100.0	02_blast_hits	strong_ortholog	Protein YchN	ychN STM1769	unreviewed	NAMED_function_unreviewed
+STMMW_17771	conserved hypothetical protein	421	Q8ZP29	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1785	unreviewed	GENERIC_localization_only
+STMMW_17901	conserved hypothetical protein	244	Q8ZP19	100.0	100.0	02_blast_hits	strong_ortholog	Flagellar brake protein YcgR (Cyclic di-GMP binding protein YcgR)	ycgR STM1798	reviewed	CHARACTERIZED_reviewed
+STMMW_17921	conserved hypothetical protein	304	Q8ZP18	100.0	100.0	02_blast_hits	strong_ortholog	Resistance protein MccF	ycgQ STM1800	unreviewed	NAMED_function_unreviewed
+STMMW_17961	conserved hypothetical protein	510	Q8ZP16	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ycgB STM1804	unreviewed	GENERIC_localization_only
+STMMW_18001	conserved hypothetical protein	113	Q8ZP13	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1808	unreviewed	GENERIC_localization_only
+STMMW_18011	conserved hypothetical protein	57	P64267	100.0	100.0	02_blast_hits	strong_ortholog	Protein gns	gns STM1809	reviewed	CHARACTERIZED_reviewed
+STMMW_18021	hypothetical protein	45	Q7CQE3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1810	unreviewed	GENERIC_localization_only
+STMMW_18031	conserved hypothetical protein	153	Q8ZP12	100.0	100.0	02_blast_hits	strong_ortholog	UPF0260 protein YcgN	ycgN STM1811	reviewed	CHARACTERIZED_reviewed
+STMMW_18051	conserved hypothetical protein	110	Q8ZP11	100.0	100.0	02_blast_hits	strong_ortholog	Protein YcgL	ycgL STM1813	reviewed	CHARACTERIZED_reviewed
+STMMW_18121	conserved hypothetical protein	231	Q7CQE0	100.0	100.0	02_blast_hits	strong_ortholog	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB (Resuscitation-promoting factor) (RPF) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaB)	tsaB rpf yeaZ STM1820	reviewed	CHARACTERIZED_reviewed
+STMMW_18141	conserved hypothetical protein	114	Q8ZP08	100.0	100.0	02_blast_hits	strong_ortholog	RutC family protein YoaB	yoaB STM1822	unreviewed	NAMED_function_unreviewed
+STMMW_18151	conserved hypothetical protein	59	P0A2M3	100.0	100.0	02_blast_hits	strong_ortholog	UPF0181 protein YoaH	yoaH STM1823	reviewed	CHARACTERIZED_reviewed
+STMMW_18171	conserved hypothetical protein	192	P0A2K9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized Nudix hydrolase NudL (EC 3.6.1.-)	nudL STM1825	reviewed	CHARACTERIZED_reviewed
+STMMW_18191	conserved hypothetical protein	567	Q8ZP06	99.8	100.0	02_blast_hits	strong_ortholog	Anti-FlhC(2)FlhD(4) factor YdiV (EC 3.1.4.52)	STM1827	unreviewed	NAMED_function_unreviewed
+STMMW_18211	conserved hypothetical protein	111	Q8ZP04	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1829	unreviewed	GENERIC_localization_only
+STMMW_18361	conserved hypothetical protein	194	Q8ZNZ5	100.0	100.0	02_blast_hits	strong_ortholog	GAF domain-containing protein	yebR STM1847	unreviewed	NAMED_function_unreviewed
+STMMW_18391	conserved hypothetical protein	479	Q8ZNZ2	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase F (EC 2.1.1.178) (16S rRNA m5C1407 methyltransferase) (rRNA (cytosine-C(5)-)-methyltransferase RsmF)	rsmF STM1850	reviewed	CHARACTERIZED_reviewed
+STMMW_18401	conserved hypothetical protein	79	Q8ZNZ1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1851	unreviewed	GENERIC_localization_only
+STMMW_18431	hypothetical protein	54	Q8ZNY8	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM1854	unreviewed	GENERIC_localization_only
+STMMW_18451	conserved hypothetical protein	131	Q8ZNY7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1856	unreviewed	GENERIC_localization_only
+STMMW_18461	hypothetical protein	56					no_ortholog				NO_ORTHOLOG
+STMMW_18491	conserved hypothetical protein	89	Q8ZNY5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1858	unreviewed	GENERIC_localization_only
+STMMW_18511	conserved hypothetical protein	91					no_ortholog				NO_ORTHOLOG
+STMMW_18581	conserved hypothetical protein	218	Q8ZNX0	100.0	100.0	02_blast_hits	strong_ortholog	Amidohydrolase	STM1877	unreviewed	NAMED_function_unreviewed
+STMMW_18631	conserved hypothetical protein	96	Q8ZNW6	100.0	100.0	02_blast_hits	strong_ortholog	DNA damage-inducible gene in SOS regulon, dependent on cyclic AMP and H-NS	yebG STM1882	unreviewed	NAMED_function_unreviewed
+STMMW_18711	conserved hypothetical protein	439	Q8ZNV9	100.0	100.0	02_blast_hits	strong_ortholog	Murein DD-endopeptidase MepM (Murein hydrolase MepM)	yebA STM1890	unreviewed	NAMED_function_unreviewed
+STMMW_18801	conserved hypothetical protein	199	Q8ZNV4	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	yebB STM1897	unreviewed	GENERIC_localization_only
+STMMW_18821	conserved hypothetical protein	246	P67179	100.0	100.0	02_blast_hits	strong_ortholog	Probable transcriptional regulatory protein YebC	yebC STM1899	reviewed	CHARACTERIZED_reviewed
+STMMW_18861	conserved hypothetical protein	272	Q7CQC6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yecE STM1903	unreviewed	GENERIC_localization_only
+STMMW_18881	conserved hypothetical protein	247	Q7CQC4	100.0	100.0	02_blast_hits	strong_ortholog	Carboxy-S-adenosyl-L-methionine synthase (Cx-SAM synthase) (EC 2.1.3.-)	cmoA STM1905	reviewed	CHARACTERIZED_reviewed
+STMMW_18891	conserved hypothetical protein	323	Q8ZNV1	100.0	100.0	02_blast_hits	strong_ortholog	tRNA U34 carboxymethyltransferase (EC 2.5.1.-)	cmoB STM1906	reviewed	CHARACTERIZED_reviewed
+STMMW_18911	conserved hypothetical protein	189	Q8ZNU9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yecM STM1908	unreviewed	GENERIC_localization_only
+STMMW_18941	conserved hypothetical protein	379	Q8ZNU8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1911	unreviewed	GENERIC_localization_only
+STMMW_19091	conserved hypothetical protein	38	Q7CQC3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1926	unreviewed	GENERIC_localization_only
+STMMW_19101	conserved hypothetical protein	142	Q9RM66	100.0	100.0	02_blast_hits	strong_ortholog	Universal stress protein C	uspC uspS STM1927	reviewed	CHARACTERIZED_reviewed
+STMMW_19131	conserved hypothetical protein	185	Q8ZNU7	100.0	100.0	02_blast_hits	strong_ortholog	Intracellular protease/amidase	araH STM1931	unreviewed	NAMED_function_unreviewed
+STMMW_19181	conserved hypothetical protein	79	Q7CQC1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yecH STM1936	unreviewed	GENERIC_localization_only
+STMMW_19201	conserved hypothetical protein	221	Q8ZNU3	100.0	100.0	02_blast_hits	strong_ortholog	Metal-binding protein	yecA STM1938	unreviewed	NAMED_function_unreviewed
+STMMW_19211	conserved hypothetical protein	108	Q8ZNU2	100.0	100.0	02_blast_hits	strong_ortholog	Glucose-6-phosphate dehydrogenase	STM1939	unreviewed	NAMED_function_unreviewed
+STMMW_19262	hypothetical protein	25					no_ortholog				NO_ORTHOLOG
+STMMW_19281	conserved hypothetical protein	74	Q7CQB7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yecF STM1949	unreviewed	GENERIC_localization_only
+STMMW_19461	conserved hypothetical protein	77	P0AA34	100.0	100.0	02_blast_hits	strong_ortholog	Putative sulfur carrier protein YedF	yedF STM1966	reviewed	CHARACTERIZED_reviewed
+STMMW_19641	conserved hypothetical protein	75	Q7CQB3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yodD STM1984	unreviewed	GENERIC_localization_only
+STMMW_19651	conserved hypothetical protein	271	P65417	100.0	100.0	02_blast_hits	strong_ortholog	Mannosyl-3-phosphoglycerate phosphatase (MPGP) (EC 3.1.3.70)	yedP STM1986	reviewed	CHARACTERIZED_reviewed
+STMMW_19671	conserved hypothetical protein	81	Q8ZNT4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1988	unreviewed	GENERIC_localization_only
+STMMW_19681	conserved hypothetical integral membrane protein	303	Q8ZNT3	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yedI STM1989	unreviewed	GENERIC_localization_only
+STMMW_19721	conserved hypothetical protein	231	Q8ZNS9	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase	yedJ STM1993	unreviewed	NAMED_function_unreviewed
+STMMW_19752	conserved hypothetical protein	39	A0A0F6B2Y4	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_2421	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_19791	conserved hypothetical protein	53	Q8ZNS6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM1999	unreviewed	GENERIC_localization_only
+STMMW_20351	conserved hypothetical protein	265	Q8ZNS5	100.0	100.0	02_blast_hits	strong_ortholog	Mlc titration factor A (Probable zinc metallopeptidase MtfA) (EC 3.4.11.-)	mtfA STM2001	reviewed	CHARACTERIZED_reviewed
+STMMW_20361	conserved hypothetical protein	157	Q8ZNS4	100.0	100.0	02_blast_hits	strong_ortholog	Endoprotease	STM2005	unreviewed	NAMED_function_unreviewed
+STMMW_20401	conserved hypothetical protein	84	A0A0H3NEH5	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	SL1344_1985	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_20421	conserved hypothetical protein	53	Q8ZNR9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2010	unreviewed	GENERIC_localization_only
+STMMW_20431	conserved hypothetical protein	108	Q8ZNR8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2011	unreviewed	GENERIC_localization_only
+STMMW_20441	conserved hypothetical protein	128	Q8ZMH8	34.6	99.2	02_blast_hits	weak_ortholog	Cytoplasmic protein	STM2901	unreviewed	GENERIC_localization_only
+STMMW_20891	conserved hypothetical protein	111	P67605	100.0	100.0	02_blast_hits	strong_ortholog	Pole-localizer protein TmaR	tmaR STM2059	reviewed	CHARACTERIZED_reviewed
+STMMW_20962	conserved hypothetical protein	98	A0A0F6B3B2	98.9	90.8	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_2556	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_21011	conserved hypothetical protein	274	Q7CQA9	99.6	100.0	02_blast_hits	strong_ortholog	Protein YeeZ	yeeZ STM2070	unreviewed	NAMED_function_unreviewed
+STMMW_21571	conserved hypothetical protein	450	Q8ZNQ4	99.8	100.0	02_blast_hits	strong_ortholog	Heat shock protein (Hsp70/DnaK)	yegD STM2125	unreviewed	NAMED_function_unreviewed
+STMMW_21641	conserved hypothetical protein	400	Q8ZNP7	99.7	73.5	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2133	unreviewed	GENERIC_localization_only
+STMMW_21651	hypothetical protein	238	Q8ZNP6	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM2134	unreviewed	GENERIC_localization_only
+STMMW_21661	hypothetical protein	703	Q8ZNP5	99.9	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM2135	unreviewed	GENERIC_localization_only
+STMMW_21691	conserved hypothetical protein	138	Q8ZNP3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2138	unreviewed	GENERIC_localization_only
+STMMW_21711	conserved hypothetical protein	299	Q8ZNP1	100.0	100.0	02_blast_hits	strong_ortholog	Probable lipid kinase YegS (EC 2.7.1.-)	yegS STM2140	reviewed	CHARACTERIZED_reviewed
+STMMW_21841	conserved hypothetical protein	93	Q7CQ92	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane protein	yehE STM2153	unreviewed	GENERIC_localization_only
+STMMW_21851	conserved hypothetical protein	369	Q8ZNN5	100.0	100.0	02_blast_hits	strong_ortholog	Iron-sulfur cluster carrier protein	apbC mrp STM2154	reviewed	CHARACTERIZED_reviewed
+STMMW_21891	conserved hypothetical protein	155	Q8XEY4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yehS STM2157	unreviewed	GENERIC_localization_only
+STMMW_22051	conserved hypothetical protein	65	Q7CQ85	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2173	unreviewed	GENERIC_localization_only
+STMMW_22061	conserved hypothetical protein	312	Q8ZNM4	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-dihydrouridine(16) synthase (EC 1.3.1.-) (U16-specific dihydrouridine synthase) (U16-specific Dus) (tRNA-dihydrouridine synthase C)	dusC STM2174	reviewed	CHARACTERIZED_reviewed
+STMMW_22431	conserved hypothetical protein	328	Q7CQ76	100.0	100.0	02_blast_hits	strong_ortholog	Cobalamin synthesis protein	yeiR STM2212	unreviewed	NAMED_function_unreviewed
+STMMW_22511	conserved hypothetical protein	114	Q7CQ73	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yejG STM2220	unreviewed	GENERIC_localization_only
+STMMW_22602	conserved hypothetical protein	42					no_ortholog				NO_ORTHOLOG
+STMMW_22711	conserved hypothetical protein	76	A0A0F6B326	100.0	100.0	02_blast_hits_species	strong_ortholog	KilA-N domain-containing protein	STM14_2465	unreviewed	NAMED_function_unreviewed
+STMMW_23111	conserved hypothetical protein	317	Q8ZNG2	99.7	100.0	02_blast_hits	strong_ortholog	Deubiquitinase SseL (EC 3.4.22.-) (Deubiquitinating enzyme) (DUB) (Deubiquitinating protease) (Salmonella secreted effector L)	sseL STM2287	reviewed	CHARACTERIZED_reviewed
+STMMW_23121	conserved hypothetical protein	58	Q8ZNG1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2288	unreviewed	GENERIC_localization_only
+STMMW_23171	conserved hypothetical protein	398	Q8ZNF7	100.0	100.0	02_blast_hits	strong_ortholog	CinA-like protein	STM2293	unreviewed	NAMED_function_unreviewed
+STMMW_23181	conserved hypothetical protein	215	Q8ZNF6	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yfaZ STM2294	unreviewed	GENERIC_localization_only
+STMMW_23191	conserved hypothetical protein	141	Q8ZNF5	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside triphosphatase NudI (EC 3.6.1.9) (Nucleotide diphosphatase NudI) (Pyrimidine deoxynucleoside triphosphate diphosphatase) (dCTP diphosphatase) (EC 3.6.1.12) (dTTP diphosphatase) (EC 3.6.1.-) (dUTP diphosphatase) (EC 3.6.1.23)	nudI STM2295	reviewed	CHARACTERIZED_reviewed
+STMMW_23241	conserved hypothetical protein	299	O52326	100.0	100.0	02_blast_hits	strong_ortholog	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD pbgP4 pmrJ STM2300	reviewed	CHARACTERIZED_reviewed
+STMMW_23321	conserved hypothetical protein	252	Q8ZNE9	100.0	100.0	02_blast_hits	strong_ortholog	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (SHCHC synthase) (EC 4.2.99.20)	menH STM2308	reviewed	CHARACTERIZED_reviewed
+STMMW_23351	conserved hypothetical protein	153	Q7CQ54	99.3	100.0	02_blast_hits	strong_ortholog	Protein ElaA	elaA STM2312	unreviewed	NAMED_function_unreviewed
+STMMW_23511	hypothetical protein	50	Q7CQ48	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2329	unreviewed	GENERIC_localization_only
+STMMW_23571	conserved hypothetical protein	164	P60817	100.0	100.0	02_blast_hits	strong_ortholog	UPF0304 protein YfbU	yfbU STM2335	reviewed	CHARACTERIZED_reviewed
+STMMW_23681	conserved hypothetical protein	184	P65559	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized Nudix hydrolase YfcD (EC 3.6.-.-)	yfcD STM2346	reviewed	CHARACTERIZED_reviewed
+STMMW_23691	conserved hypothetical protein	183	Q7CQ43	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoesterase (EC 3.1.4.-)	yfcE STM2347	unreviewed	NAMED_function_unreviewed
+STMMW_23721	conserved hypothetical protein	297	Q8ZNC8	100.0	100.0	02_blast_hits	strong_ortholog	Sugar nucleotide epimerase	yfcH STM2350	unreviewed	NAMED_function_unreviewed
+STMMW_23801	conserved hypothetical protein	367	Q8ZNC6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2358	unreviewed	GENERIC_localization_only
+STMMW_23971	hypothetical protein	122	Q8ZNB5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2375	unreviewed	GENERIC_localization_only
+STMMW_24011	conserved hypothetical protein	686	Q8ZNB2	99.8	97.1	02_blast_hits	strong_ortholog	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC (tRNA mnm(5)s(2)U biosynthesis bifunctional protein) [Includes: tRNA (mnm(5)s(2)U34)-methyltransferase (EC 2.1.1.61); FAD-dependent cmnm(5)s(2)U34 oxidoreductase (EC 1.5.-.-)]	mnmC STM2379	reviewed	CHARACTERIZED_reviewed
+STMMW_24021	conserved hypothetical protein	91	Q7CQ35	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yfcL STM2380	unreviewed	GENERIC_localization_only
+STMMW_24031	conserved hypothetical protein	182	Q8ZNB1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yfcM STM2381	unreviewed	GENERIC_localization_only
+STMMW_24071	conserved hypothetical protein	310	P0A293	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal protein uL3 glutamine methyltransferase (uL3 MTase) (EC 2.1.1.298) (N5-glutamine methyltransferase PrmB)	prmB yfcB STM2385	reviewed	CHARACTERIZED_reviewed
+STMMW_24081	conserved hypothetical protein	183	P67246	100.0	100.0	02_blast_hits	strong_ortholog	Ribosome rescue factor SmrB (EC 3.1.-.-)	smrB STM2386	reviewed	CHARACTERIZED_reviewed
+STMMW_24121	conserved hypothetical protein	94	Q7CQ33	100.0	100.0	02_blast_hits	strong_ortholog	UPF0381 protein YfcZ	yfcZ STM2390	unreviewed	NAMED_function_unreviewed
+STMMW_24261	conserved hypothetical protein	48	A0A0F6B4F2	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_2955	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_24311	conserved hypothetical protein	108	Q7CQ29	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	ypeC STM2407	unreviewed	GENERIC_localization_only
+STMMW_24351	conserved hypothetical protein	120	Q7CQ28	100.0	100.0	02_blast_hits	strong_ortholog	Negative regulator	yfeC STM2413	unreviewed	NAMED_function_unreviewed
+STMMW_24361	conserved hypothetical protein	130	Q8ZN98	99.2	100.0	02_blast_hits	strong_ortholog	Negative regulator	yfeD STM2414	unreviewed	NAMED_function_unreviewed
+STMMW_24421	conserved hypothetical protein	253	Q8ZN93	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane protein	yfeN STM2423	unreviewed	GENERIC_localization_only
+STMMW_24451	conserved hypothetical protein	75	Q8ZN90	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2426	unreviewed	GENERIC_localization_only
+STMMW_24531	hypothetical protein	79	Q8ZN88	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2434	unreviewed	GENERIC_localization_only
+STMMW_24581	conserved hypothetical protein	179	P40196	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YfeL	yfeL STM2439	reviewed	TRULY_UNCHARACTERIZED
+STMMW_24651	conserved hypothetical protein	299	Q7CQ27	100.0	100.0	02_blast_hits	strong_ortholog	Iron-dependent peroxidase	STM2446	unreviewed	NAMED_function_unreviewed
+STMMW_24671	conserved hypothetical protein	149	Q8ZN85	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yfeZ STM2448	unreviewed	GENERIC_localization_only
+STMMW_24721	conserved hypothetical protein	425	Q9ZFU6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YpfL (ORF79)	ypfL STM2453	reviewed	CHARACTERIZED_reviewed
+STMMW_24941	hypothetical protein	76	Q7CQ26	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2475	unreviewed	GENERIC_localization_only
+STMMW_24961	conserved hypothetical protein	191	Q7CQ25	100.0	100.0	02_blast_hits	strong_ortholog	GDP-mannose pyrophosphatase (EC 3.6.1.-) (GDP-mannose hydrolase) (GDPMK)	nudK STM2477	reviewed	CHARACTERIZED_reviewed
+STMMW_25011	conserved hypothetical protein	118	Q8ZN76	100.0	100.0	02_blast_hits	strong_ortholog	Glutaredoxin family protein	yffB STM2482	unreviewed	NAMED_function_unreviewed
+STMMW_25031	conserved hypothetical protein	672	Q8ZN74	100.0	100.0	02_blast_hits	strong_ortholog	tRNA(Met) cytidine acetyltransferase TmcA (EC 2.3.1.193)	tmcA STM2485	reviewed	CHARACTERIZED_reviewed
+STMMW_25131	conserved hypothetical protein	241	Q7CQ21	100.0	100.0	02_blast_hits	strong_ortholog	DnaA regulatory inactivator Hda	hda STM2496	reviewed	CHARACTERIZED_reviewed
+STMMW_25211	conserved hypothetical protein	45	Q8ZN66	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2504	unreviewed	GENERIC_localization_only
+STMMW_25221	hypothetical protein	79	Q8ZN65	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM2505	unreviewed	GENERIC_localization_only
+STMMW_25241	conserved hypothetical inner membrane protein	78	Q8ZN63	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM2507	unreviewed	GENERIC_localization_only
+STMMW_25251	conserved hypothetical protein	109	Q8ZN62	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2508	unreviewed	GENERIC_localization_only
+STMMW_25351	conserved hypothetical protein	73	Q8ZN54	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yfgJ STM2518	unreviewed	GENERIC_localization_only
+STMMW_25421	conserved hypothetical protein	388	Q8ZN52	100.0	100.0	02_blast_hits	strong_ortholog	Dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase)	rlmN STM2525	reviewed	CHARACTERIZED_reviewed
+STMMW_25511	hypothetical protein	222	Q8ZN44	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2534	unreviewed	GENERIC_localization_only
+STMMW_25541	conserved hypothetical protein	66	Q7CQ14	100.0	100.0	02_blast_hits	strong_ortholog	Protein IscX	yfhJ STM2537	unreviewed	NAMED_function_unreviewed
+STMMW_25581	conserved hypothetical protein	107	Q7CQ12	100.0	100.0	02_blast_hits	strong_ortholog	Iron-binding protein IscA (Iron-sulfur cluster assembly protein)	iscA STM2541	reviewed	CHARACTERIZED_reviewed
+STMMW_25611	conserved hypothetical protein	164	Q7CQ10	100.0	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional regulator IscR	iscR STM2544	reviewed	CHARACTERIZED_reviewed
+STMMW_25841	conserved hypothetical protein	183	Q7CQ08	99.4	94.0	02_blast_hits	strong_ortholog	tRNA-specific adenosine deaminase (EC 3.5.4.33)	tadA STM2568	reviewed	CHARACTERIZED_reviewed
+STMMW_26621	conserved hypothetical protein	245	Q8ZMX8	100.0	100.0	02_blast_hits	strong_ortholog	tRNA1(Val) (adenine(37)-N6)-methyltransferase (EC 2.1.1.223) (tRNA m6A37 methyltransferase)	yfiC STM2642	reviewed	CHARACTERIZED_reviewed
+STMMW_26661	conserved hypothetical protein	127	Q7CQ05	100.0	100.0	02_blast_hits	strong_ortholog	Autonomous glycyl radical cofactor	grcA STM2646	reviewed	CHARACTERIZED_reviewed
+STMMW_26701	conserved hypothetical protein	226	Q8ZMX3	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-uridine aminocarboxypropyltransferase (EC 2.5.1.25)	yfiP STM2650	unreviewed	NAMED_function_unreviewed
+STMMW_26731	conserved hypothetical protein	107	Q7CQ02	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane lipoprotein	yfiM STM2653	unreviewed	GENERIC_localization_only
+STMMW_26751	conserved hypothetical protein	151	Q8ZMX0	99.3	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2655	unreviewed	GENERIC_localization_only
+STMMW_26771	conserved hypothetical protein	243	Q8ZMW9	100.0	100.0	02_blast_hits	strong_ortholog	Peptidoglycan editing factor PgeF (PG-editing factor)	yfiH STM2661	unreviewed	NAMED_function_unreviewed
+STMMW_26821	conserved hypothetical protein	302	Q8ZMW6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2668	unreviewed	GENERIC_localization_only
+STMMW_26971	conserved hypothetical protein	292	P65774	100.0	100.0	02_blast_hits	strong_ortholog	NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase)	nadK STM2683	reviewed	CHARACTERIZED_reviewed
+STMMW_27001	conserved hypothetical protein	96	P0A2L7	100.0	100.0	02_blast_hits	strong_ortholog	UPF0125 protein YfjF	yfjF STM2686	reviewed	CHARACTERIZED_reviewed
+STMMW_27011	conserved hypothetical protein	150	Q7CPZ2	100.0	100.0	02_blast_hits	strong_ortholog	Oligoketide cyclase/lipid transport protein	yfjG STM2687	unreviewed	NAMED_function_unreviewed
+STMMW_27081	conserved hypothetical protein	212	Q8ZMR3	100.0	92.9	02_blast_hits	strong_ortholog	Periplasmic protein	STM2741	unreviewed	GENERIC_localization_only
+STMMW_27091	conserved hypothetical protein	397	Q8ZMR2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2742	unreviewed	GENERIC_localization_only
+STMMW_27101	conserved hypothetical protein	275	Q8ZMR1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2743	unreviewed	GENERIC_localization_only
+STMMW_27111	conserved hypothetical protein	71	Q8ZMR0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2744	unreviewed	GENERIC_localization_only
+STMMW_27122	conserved hypothetical protein	41	A0A0F6B5D7	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_3309	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_27141	conserved hypothetical protein	288	Q8ZMQ7	100.0	94.4	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2747	unreviewed	GENERIC_localization_only
+STMMW_27331	conserved hypothetical protein	212	Q8ZMN8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2766	unreviewed	GENERIC_localization_only
+STMMW_27471	conserved hypothetical protein	112	A0A0F6B5H6	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_3351	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_27621	conserved hypothetical protein	149	Q8ZML9	100.0	100.0	02_blast_hits	strong_ortholog	Potassium binding protein Kbp	ygaU STM2795	unreviewed	NAMED_function_unreviewed
+STMMW_27681	conserved hypothetical protein	116	Q8ZML5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ygaC STM2801	unreviewed	GENERIC_localization_only
+STMMW_27691	conserved hypothetical protein	112	Q8ZML4	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	ygaM STM2802	unreviewed	GENERIC_localization_only
+STMMW_27711	conserved hypothetical protein	143	Q8ZML2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2804	unreviewed	GENERIC_localization_only
+STMMW_27871	conserved hypothetical protein	188	Q7CPY7	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoglucomutase	yqaB STM2820	unreviewed	NAMED_function_unreviewed
+STMMW_27921	conserved hypothetical protein	165	Q8ZMK4	99.4	100.0	02_blast_hits	strong_ortholog	Nicotinamide-nucleotide amidohydrolase PncC (EC 3.5.1.42) (NMN deamidase) (Nicotinamide-nucleotide amidase)	ygaD STM2830	unreviewed	NAMED_function_unreviewed
+STMMW_28221	conserved hypothetical protein	114	Q8ZMI4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ygbA STM2860	unreviewed	GENERIC_localization_only
+STMMW_28301	hypothetical protein found within S. typhipathogenicity island 1	150	Q8ZMI2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2868	unreviewed	GENERIC_localization_only
+STMMW_28711	conserved hypothetical protein	173	Q8ZMH2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2908	unreviewed	GENERIC_localization_only
+STMMW_28731	conserved hypotheticalprotein	126	Q8ZMH1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2910	unreviewed	GENERIC_localization_only
+STMMW_28771	conserved hypothetical protein	316	Q8ZMG7	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside-diphosphate-sugar epimerase	STM2914	unreviewed	NAMED_function_unreviewed
+STMMW_28801	conserved hypothetical protein	420	Q8ZMG5	100.0	100.0	02_blast_hits	strong_ortholog	3-oxo-tetronate kinase (EC 2.7.1.217) (3-dehydrotetronate 4-kinase)	otnK ygbK STM2917	reviewed	CHARACTERIZED_reviewed
+STMMW_28811	conserved hypothetical protein	307	Q8ZMG4	100.0	100.0	02_blast_hits	strong_ortholog	L-threonate dehydrogenase (EC 1.1.1.411)	ygbJ STM2918	unreviewed	NAMED_function_unreviewed
+STMMW_28851	conserved hypothetical protein	475	Q8ZMG0	100.0	100.0	02_blast_hits	strong_ortholog	Phenolic acid decarboxylase (PAD) (EC 4.1.1.-)	STM2922	unreviewed	NAMED_function_unreviewed
+STMMW_28861	conserved hypothetical protein	78	Q7CPW7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2923	unreviewed	GENERIC_localization_only
+STMMW_28911	conserved hypothetical protein	349	Q8ZMF8	100.0	100.0	02_blast_hits	strong_ortholog	tRNA pseudouridine synthase D (EC 5.4.99.27) (tRNA pseudouridine(13) synthase) (tRNA pseudouridylate synthase D) (tRNA-uridine isomerase D)	truD STM2928	reviewed	CHARACTERIZED_reviewed
+STMMW_28941	conserved hypothetical protein	103	P64162	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein FtsB	ftsB STM2931	reviewed	CHARACTERIZED_reviewed
+STMMW_29001	conserved hypothetical protein	98	Q8ZMF3	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	ygbF STM2937	unreviewed	GENERIC_localization_only
+STMMW_29011	conserved hypothetical protein	306	Q8ZMF2	99.7	100.0	02_blast_hits	strong_ortholog	CRISPR-associated endonuclease Cas1 (EC 3.1.-.-)	cas1 STM2938	unreviewed	NAMED_function_unreviewed
+STMMW_29021	conserved hypothetical protein	216	Q8ZMF1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ygcH STM2939	unreviewed	GENERIC_localization_only
+STMMW_29031	hypothetical protein	248	Q8ZMF0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2940	unreviewed	GENERIC_localization_only
+STMMW_29041	hypothetical protein	352	Q8ZME9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yghJ STM2941	unreviewed	GENERIC_localization_only
+STMMW_29051	hypothetical protein	186	Q8ZME8	100.0	100.0	02_blast_hits	strong_ortholog	Transposase	STM2942	unreviewed	NAMED_function_unreviewed
+STMMW_29061	hypothetical protein	518	Q8ZME7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM2943	unreviewed	GENERIC_localization_only
+STMMW_29071	conserved hypothetical protein	887	Q8ZME6	100.0	100.0	02_blast_hits	strong_ortholog	Helicase	ygcB STM2944	unreviewed	NAMED_function_unreviewed
+STMMW_29141	conserved hypothetical protein	223	Q7CPW4	100.0	100.0	02_blast_hits	strong_ortholog	7-carboxy-7-deazaguanine synthase (CDG synthase) (EC 4.3.99.3) (Queuosine biosynthesis protein QueE)	ygcF queE STM2951	unreviewed	NAMED_function_unreviewed
+STMMW_29171	conserved hypothetical protein	266	Q8ZME4	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside triphosphate pyrophosphohydrolase (EC 3.6.1.8)	mazG STM2954	unreviewed	NAMED_function_unreviewed
+STMMW_29221	conserved hypothetical protein	380	Q8ZME0	99.7	100.0	02_blast_hits	strong_ortholog	Glycerate kinase 2	STM2959	unreviewed	NAMED_function_unreviewed
+STMMW_29261	conserved hypothetical protein	83	A0A0F6B637	98.7	90.4	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_3571	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_29271	conserved hypothetical protein	149	Q8ZMD6	100.0	100.0	02_blast_hits	strong_ortholog	MFS superfamily D-glucarate permease	STM2963	unreviewed	NAMED_function_unreviewed
+STMMW_29291	conserved hypothetical protein	109	Q8ZMD4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yqcC STM2965	unreviewed	GENERIC_localization_only
+STMMW_29311	conserved hypothetical protein	282	Q8ZMD3	100.0	100.0	02_blast_hits	strong_ortholog	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13) (7-cyano-7-carbaguanine reductase) (NADPH-dependent nitrile oxidoreductase) (PreQ(0) reductase)	queF STM2968	reviewed	CHARACTERIZED_reviewed
+STMMW_29321	conserved hypothetical protein	454	Q8ZMD2	100.0	100.0	02_blast_hits	strong_ortholog	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase (EC 3.2.2.10) (EC 3.2.2.4) (AMP nucleosidase) (CMP nucleosidase) (GMP nucleosidase) (IMP nucleosidase) (UMP nucleosidase) (dTMP nucleosidase)	ygdH STM2969	unreviewed	NAMED_function_unreviewed
+STMMW_29431	conserved hypothetical protein	366	Q7CPW1	99.7	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase M (EC 2.1.1.186) (23S rRNA (cytidine2498-2'-O)-methyltransferase) (23S rRNA 2'-O-ribose methyltransferase RlmM)	rlmM STM2980	reviewed	CHARACTERIZED_reviewed
+STMMW_29481	conserved hypothetical protein	147	Q7CPV7	100.0	100.0	02_blast_hits	strong_ortholog	SufE protein probably involved in Fe-S center assembly	ygdK STM2985	unreviewed	NAMED_function_unreviewed
+STMMW_29501	conserved hypothetical protein	268	Q8ZMC1	100.0	100.0	02_blast_hits	strong_ortholog	tRNA threonylcarbamoyladenosine dehydratase (t(6)A37 dehydratase)	ygdL STM2987	unreviewed	NAMED_function_unreviewed
+STMMW_29651	conserved hypothetical protein	176	P65554	100.0	100.0	02_blast_hits	strong_ortholog	RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase)	rppH nudH STM3004	reviewed	CHARACTERIZED_reviewed
+STMMW_29721	hypothetical protein	48					no_ortholog				NO_ORTHOLOG
+STMMW_29771	conserved hypothetical protein	235	Q8ZMA1	100.0	100.0	02_blast_hits	strong_ortholog	Aspartate racemase	ygeA STM3015	unreviewed	NAMED_function_unreviewed
+STMMW_29831	conserved hypothetical protein	160	Q7CPV4	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM3021	unreviewed	GENERIC_localization_only
+STMMW_29851	conserved hypothetical protein	90	Q7CPV3	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional repressor RcnR	rcnR STM3023	reviewed	CHARACTERIZED_reviewed
+STMMW_29861	hypothetical protein	232	Q8ZM93	99.6	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3025	unreviewed	GENERIC_localization_only
+STMMW_29871	hypothetical protein	186	A0A0H3NRF6	100.0	91.4	02_blast_hits_species	strong_ortholog	Regulatory protein	STM3025.1N stdE SL1344_3004	unreviewed	NAMED_function_unreviewed
+STMMW_29941	hypothetical protein (assiciated with virulence)	132	Q8ZM86	100.0	100.0	02_blast_hits	strong_ortholog	tRNA(fMet)-specific endonuclease VapC (EC 3.1.-.-) (RNase VapC) (Toxin VapC)	vapC STM3033	reviewed	CHARACTERIZED_reviewed
+STMMW_29951	hypothetical protein (assiciated with virulence)	75	Q7CPV2	100.0	100.0	02_blast_hits	strong_ortholog	Antitoxin VapB	vapB STM3034	reviewed	CHARACTERIZED_reviewed
+STMMW_29971	conserved hypothetical protein	268	Q8ZM84	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM3036	unreviewed	GENERIC_localization_only
+STMMW_30061	conserved hypothetical protein	137	Q8ZM81	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	ygfX STM3046	unreviewed	GENERIC_localization_only
+STMMW_30071	conserved hypothetical protein	88	Q7CPV1	100.0	100.0	02_blast_hits	strong_ortholog	FAD assembly factor SdhE	sdhE ygfY STM3047	reviewed	CHARACTERIZED_reviewed
+STMMW_30081	conserved hypothetical protein	326	Q8ZM80	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-modifying protein YgfZ	ygfZ STM3048	reviewed	CHARACTERIZED_reviewed
+STMMW_30101	conserved hypothetical protein	103	Q8ZM79	100.0	100.0	02_blast_hits	strong_ortholog	N(4)-acetylcytidine amidohydrolase (ac4C amidohydrolase) (EC 3.5.1.135)	yqfB STM3050	reviewed	CHARACTERIZED_reviewed
+STMMW_30121	hypothetical protein	297	Q8ZM77	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane protein	STM3052	unreviewed	GENERIC_localization_only
+STMMW_30191	conserved hypothetical protein	194	Q8ZM71	100.0	99.0	02_blast_hits	strong_ortholog	UPF0149 protein YgfB	ygfB STM3059	reviewed	CHARACTERIZED_reviewed
+STMMW_30201	conserved hypothetical protein	109	Q7CPU9	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein ZapA (Z ring-associated protein ZapA)	zapA STM3060	reviewed	CHARACTERIZED_reviewed
+STMMW_30211	conserved hypothetical protein	158	Q8ZM70	100.0	100.0	02_blast_hits	strong_ortholog	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	ygfA STM3061	unreviewed	NAMED_function_unreviewed
+STMMW_30251	conserved hypothetical protein	83	A0A0F6B6G4	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_3704	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_30321	conserved hypothetical protein	141	Q8ZM67	100.0	100.0	02_blast_hits	strong_ortholog	DNA-binding protein	STM3071	unreviewed	NAMED_function_unreviewed
+STMMW_30381	conserved hypothetical protein	252	Q7CPU3	100.0	100.0	02_blast_hits	strong_ortholog	Zn-dependent proteases with possible chaperone function	yggG STM3077	unreviewed	NAMED_function_unreviewed
+STMMW_30411	conserved hypothetical protein	157	Q8ZM61	100.0	100.0	02_blast_hits	strong_ortholog	Mannitol dehydrogenase	STM3080	unreviewed	NAMED_function_unreviewed
+STMMW_30481	conserved hypothetical protein	43	Q7CPU0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YqgB	yqgB STM3087	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_30531	conserved hypothetical protein	165	P60190	100.0	100.0	02_blast_hits	strong_ortholog	Protein SprT	sprT STM3092	reviewed	CHARACTERIZED_reviewed
+STMMW_30551	conserved hypothetical protein	259	Q8ZM52	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193)	yggJ STM3094	unreviewed	NAMED_function_unreviewed
+STMMW_30571	conserved hypothetical protein	187	Q8ZM51	99.5	100.0	02_blast_hits	strong_ortholog	UPF0301 protein YqgE	yqgE STM3096	reviewed	CHARACTERIZED_reviewed
+STMMW_30581	conserved hypothetical protein	138	Q8ZM50	100.0	100.0	02_blast_hits	strong_ortholog	Putative pre-16S rRNA nuclease (EC 3.1.-.-)	yqgF STM3097	reviewed	CHARACTERIZED_reviewed
+STMMW_30611	conserved hypothetical protein	234	Q8ZM47	100.0	100.0	02_blast_hits	strong_ortholog	Pyridoxal phosphate homeostasis protein (PLP homeostasis protein)	yggS STM3100	unreviewed	NAMED_function_unreviewed
+STMMW_30631	conserved hypothetical protein	96	Q8ZM46	100.0	100.0	02_blast_hits	strong_ortholog	UPF0235 protein YggU	yggU STM3102	reviewed	CHARACTERIZED_reviewed
+STMMW_30641	conserved hypothetical protein	197	Q8ZM45	99.5	100.0	02_blast_hits	strong_ortholog	dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)	rdgB yggV STM3103	reviewed	CHARACTERIZED_reviewed
+STMMW_30691	conserved hypothetical protein	108	Q8ZM41	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yggL STM3108	unreviewed	GENERIC_localization_only
+STMMW_30701	conserved hypothetical protein	239	Q8ZM40	100.0	100.0	02_blast_hits	strong_ortholog	tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase)	trmB STM3109	reviewed	CHARACTERIZED_reviewed
+STMMW_30721	conserved hypothetical protein	91	P67617	100.0	100.0	02_blast_hits	strong_ortholog	Probable Fe(2+)-trafficking protein	yggX STM3111	reviewed	CHARACTERIZED_reviewed
+STMMW_30771	conserved hypothetical protein	144	Q8ZM36	100.0	100.0	02_blast_hits	strong_ortholog	Virulence protein STM3117	STM3117	reviewed	CHARACTERIZED_reviewed
+STMMW_30791	conserved hypothetical protein	175	Q8ZM35	100.0	100.0	02_blast_hits	strong_ortholog	Monoamine oxidase	STM3119	unreviewed	NAMED_function_unreviewed
+STMMW_30851	hypothetical protein	185	Q8ZM31	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3125	unreviewed	GENERIC_localization_only
+STMMW_30871	conserved hypothetical protein	124	Q8ZM29	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3127	unreviewed	GENERIC_localization_only
+STMMW_30901	conserved hypothetical protein	126	Q8ZM27	100.0	100.0	02_blast_hits	strong_ortholog	Anti-adapter protein IraD	iraD STM3130	reviewed	CHARACTERIZED_reviewed
+STMMW_30911	conserved hypothetical protein	161	Q8ZM26	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3131	unreviewed	GENERIC_localization_only
+STMMW_30921	conserved hypothetical protein	307	Q8ZM25	100.0	100.0	02_blast_hits	strong_ortholog	Xylanase	STM3132	unreviewed	NAMED_function_unreviewed
+STMMW_30981	hypothetical protein	352	Q8ZM22	100.0	100.0	02_blast_hits	strong_ortholog	Methyl-accepting chemotaxis protein	STM3138	unreviewed	NAMED_function_unreviewed
+STMMW_31011	hypothetical protein	236	Q8ZM20	100.0	100.0	02_blast_hits	strong_ortholog	Molybdenum-binding periplasmic protein	STM3141	unreviewed	NAMED_function_unreviewed
+STMMW_31111	conserved hypothetical protein	95	Q7CPS7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yghW STM3151	unreviewed	GENERIC_localization_only
+STMMW_31151	hypothetical protein	136	Q8ZM11	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3155	unreviewed	GENERIC_localization_only
+STMMW_31161	hypothetical protein	134	Q8ZM10	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3156	unreviewed	GENERIC_localization_only
+STMMW_31201	conserved hypothetical protein	49	Q7CPS5	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM3160	unreviewed	GENERIC_localization_only
+STMMW_31271	conserved hypothetical protein	151	Q8ZM04	100.0	100.0	02_blast_hits	strong_ortholog	Diadenosine tetraphosphate (Ap4A) hydrolase	STM3167	unreviewed	NAMED_function_unreviewed
+STMMW_31281	conserved hypothetical protein	723	Q8ZM03	100.0	100.0	02_blast_hits	strong_ortholog	UPF0313 protein YgiQ	ygiQ STM3168	reviewed	CHARACTERIZED_reviewed
+STMMW_31401	conserved hypothetical protein	104	Q7CPS3	100.0	100.0	02_blast_hits	strong_ortholog	Probable quinol monooxygenase YgiN	ygiN STM3180	unreviewed	NAMED_function_unreviewed
+STMMW_31421	conserved hypothetical protein	193	Q8ZLZ7	99.5	100.0	02_blast_hits	strong_ortholog	Esterase	yqiA STM3182	unreviewed	NAMED_function_unreviewed
+STMMW_31431	conserved hypothetical protein	275	Q8ZLZ6	100.0	100.0	02_blast_hits	strong_ortholog	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA (3',5'-cyclic AMP phosphodiesterase) (cAMP phosphodiesterase) (EC 3.1.4.53)	icc cpdA STM3183	unreviewed	NAMED_function_unreviewed
+STMMW_31441	conserved hypothetical protein	140	Q8ZLZ5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yqiB STM3184	unreviewed	GENERIC_localization_only
+STMMW_31451	conserved hypothetical protein	210	Q7CPS2	100.0	100.0	02_blast_hits	strong_ortholog	ADP-ribose pyrophosphatase (EC 3.6.1.13) (ADP-ribose diphosphatase) (ADP-ribose phosphohydrolase) (Adenosine diphosphoribose pyrophosphatase)	yqiE STM3185	unreviewed	NAMED_function_unreviewed
+STMMW_31481	conserved hypothetical protein	387	Q7CPS0	100.0	100.0	02_blast_hits	strong_ortholog	Glutathionylspermidine synthase	ygiC STM3188	unreviewed	NAMED_function_unreviewed
+STMMW_31491	conserved hypothetical protein	276	Q8ZLZ3	100.0	100.0	02_blast_hits	strong_ortholog	4,5-DOPA dioxygenase extradiol (EC 1.13.11.29)	ygiD STM3189	unreviewed	NAMED_function_unreviewed
+STMMW_31511	conserved hypothetical protein	58	A0A0F6B6X1	100.0	100.0	02_blast_hits_species	strong_ortholog	DUF4051 domain-containing protein	STM14_3865	unreviewed	NAMED_function_unreviewed
+STMMW_31571	conserved hypothetical protein	119	Q8ZLY9	100.0	100.0	02_blast_hits	strong_ortholog	Ubiquinone biosynthesis accessory factor UbiK	ubiK yqiC STM3196	reviewed	CHARACTERIZED_reviewed
+STMMW_31631	conserved hypothetical protein	433	Q8ZLY5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ygiF STM3202	unreviewed	GENERIC_localization_only
+STMMW_32031	conserved hypothetical phage protein	243					no_ortholog				NO_ORTHOLOG
+STMMW_32151	conserved hypothetical protein	255	Q8ZLY1	100.0	100.0	02_blast_hits	strong_ortholog	Transporter	yqjH STM3214	unreviewed	NAMED_function_unreviewed
+STMMW_32161	conserved hypothetical protein	215	Q8ZLY0	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	yqjI STM3215	unreviewed	NAMED_function_unreviewed
+STMMW_32211	conserved hypothetical protein	378	Q8ZLX5	99.7	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase G (EC 2.1.1.174) (23S rRNA m2G1835 methyltransferase) (rRNA (guanine-N(2)-)-methyltransferase RlmG)	rlmG STM3220	reviewed	CHARACTERIZED_reviewed
+STMMW_32221	conserved hypothetical protein	165	Q7CPR6	100.0	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	ygjP STM3221	unreviewed	NAMED_function_unreviewed
+STMMW_32311	conserved hypothetical protein	99	Q7CPR1	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yqjK STM3231	unreviewed	GENERIC_localization_only
+STMMW_32331	conserved hypothetical protein	328	Q8ZLW8	100.0	100.0	02_blast_hits	strong_ortholog	Glutathione S-transferase	yqjG STM3233	unreviewed	NAMED_function_unreviewed
+STMMW_32361	conserved hypothetical protein	233	Q8ZLW6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhaK STM3236	unreviewed	GENERIC_localization_only
+STMMW_32371	conserved hypothetical protein	54	Q7CPQ9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhaL STM3237	unreviewed	GENERIC_localization_only
+STMMW_32381	conserved hypothetical protein	436	Q8ZLW5	100.0	100.0	02_blast_hits	strong_ortholog	UPF0597 protein YhaM	yhaM STM3238	reviewed	CHARACTERIZED_reviewed
+STMMW_32461	conserved hypothetical protein	128					no_ortholog				NO_ORTHOLOG
+STMMW_32471	conserved hypothetical protein	381	Q8ZLV9	100.0	100.0	02_blast_hits	strong_ortholog	Glycerate kinase	garK STM3247	unreviewed	NAMED_function_unreviewed
+STMMW_32631	conserved hypothetical protein	287	Q8ZLU5	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase I (EC 2.1.1.198) (16S rRNA 2'-O-ribose C1402 methyltransferase) (rRNA (cytidine-2'-O-)-methyltransferase RsmI)	yraL rsmI STM3263	unreviewed	NAMED_function_unreviewed
+STMMW_32651	conserved hypothetical protein	131	Q8ZLU3	100.0	100.0	02_blast_hits	strong_ortholog	UPF0102 protein YraN	yraN STM3265	reviewed	CHARACTERIZED_reviewed
+STMMW_32681	conserved hypothetical protein	222	Q8ZLU1	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside-diphosphate-sugar epimerase	yraR STM3268	unreviewed	NAMED_function_unreviewed
+STMMW_32691	conserved hypothetical protein	172	Q7CPQ5	99.4	100.0	02_blast_hits	strong_ortholog	Intracellular proteinase	yhbO STM3269	unreviewed	NAMED_function_unreviewed
+STMMW_32701	conserved hypothetical protein	147	P60822	100.0	100.0	02_blast_hits	strong_ortholog	UPF0306 protein YhbP	yhbP STM3270	reviewed	CHARACTERIZED_reviewed
+STMMW_32711	conserved hypothetical protein	105	P67349	100.0	95.2	02_blast_hits	strong_ortholog	UPF0213 protein YhbQ	yhbQ STM3271	reviewed	CHARACTERIZED_reviewed
+STMMW_32731	conserved hypothetical protein	174	Q8ZLU0	100.0	100.0	02_blast_hits	strong_ortholog	Ubiquinone biosynthesis accessory factor UbiT	yhbT ubiT STM3273	unreviewed	NAMED_function_unreviewed
+STMMW_32751	conserved hypothetical protein	298	Q8ZLT9	100.0	100.0	02_blast_hits	strong_ortholog	Ubiquinone biosynthesis hydroxylase UbiV (EC 1.97.1.15) (2-(all-trans-polyprenyl)phenol 6-hydroxylase subunit UbiV)	yhbV ubiV STM3275	unreviewed	NAMED_function_unreviewed
+STMMW_32781	putative conserved hypothetical protein	176	Q8ZLT6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3278	unreviewed	GENERIC_localization_only
+STMMW_32881	conserved hypothetical protein	140	P67218	100.0	100.0	02_blast_hits	strong_ortholog	Ribosome maturation factor RimP	rimP STM3288	reviewed	CHARACTERIZED_reviewed
+STMMW_32901	conserved hypothetical protein	354	Q8ZLS9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3291	unreviewed	GENERIC_localization_only
+STMMW_32971	conserved hypothetical protein	110	Q7CPP8	100.0	100.0	02_blast_hits	strong_ortholog	RNA-binding protein YhbY	yhbY STM3298	unreviewed	NAMED_function_unreviewed
+STMMW_33071	conserved hypothetical protein	97	Q7CPP5	100.0	100.0	02_blast_hits	strong_ortholog	Acid stress protein IbaG	yrbA STM3308	unreviewed	NAMED_function_unreviewed
+STMMW_33141	conserved hypothetical protein	328	Q8ZLS1	100.0	100.0	02_blast_hits	strong_ortholog	Arabinose 5-phosphate isomerase KdsD (API) (L-API) (EC 5.3.1.13)	kdsD STM3315	reviewed	CHARACTERIZED_reviewed
+STMMW_33151	conserved hypothetical protein	188	Q8ZLS0	100.0	100.0	02_blast_hits	strong_ortholog	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC (EC 3.1.3.45) (KDO 8-P phosphatase)	kdsC STM3316	reviewed	CHARACTERIZED_reviewed
+STMMW_33221	conserved hypothetical protein	284	Q8ZLR8	100.0	100.0	02_blast_hits	strong_ortholog	RNase adapter protein RapZ	rapZ STM3323	reviewed	CHARACTERIZED_reviewed
+STMMW_33241	conserved hypothetical protein	210	Q7CPN6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yrbL STM3325	unreviewed	GENERIC_localization_only
+STMMW_33261	conserved hypothetical protein	217	Q8ZLR6	100.0	100.0	02_blast_hits	strong_ortholog	Glyoxalase	yhbL STM3327	unreviewed	NAMED_function_unreviewed
+STMMW_33281	conserved hypothetical protein	309	Q7CPN5	100.0	100.0	02_blast_hits	strong_ortholog	FeS oxidoreductase	yhcC STM3329	unreviewed	NAMED_function_unreviewed
+STMMW_33311	conserved hypothetical protein	367	Q8ZLR2	99.7	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhcG STM3332	unreviewed	GENERIC_localization_only
+STMMW_33341	conserved hypothetical protein	155	Q8ZLQ9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhcH STM3335	unreviewed	GENERIC_localization_only
+STMMW_33421	conserved hypothetical protein	250	Q8ZLQ4	99.6	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3343	unreviewed	GENERIC_localization_only
+STMMW_33461	conserved hypothetical protein	134	Q8ZLQ2	100.0	100.0	02_blast_hits	strong_ortholog	Z-ring associated protein G (Cell division protein ZapG)	yhcB STM3347	unreviewed	NAMED_function_unreviewed
+STMMW_33491	conserved hypothetical protein	243	Q8ZLQ0	100.0	100.0	02_blast_hits	strong_ortholog	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase (EC 2.4.2.52)	STM3350	unreviewed	NAMED_function_unreviewed
+STMMW_33611	conserved hypothetical protein	90	Q7CPM9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhcO STM3363	unreviewed	GENERIC_localization_only
+STMMW_33641	conserved hypothetical protein	67	Q7CPM7	100.0	100.0	02_blast_hits	strong_ortholog	Protein AaeX	aaeX STM3366	reviewed	CHARACTERIZED_reviewed
+STMMW_33691	conserved hypothetical protein	197	P58630	100.0	100.0	02_blast_hits	strong_ortholog	dTTP/UTP pyrophosphatase (dTTPase/UTPase) (EC 3.6.1.9) (Nucleoside triphosphate pyrophosphatase) (Nucleotide pyrophosphatase) (Nucleotide PPase)	yhdE STM3371	reviewed	CHARACTERIZED_reviewed
+STMMW_33751	conserved hypothetical protein	334	P67347	100.0	100.0	02_blast_hits	strong_ortholog	Protein-methionine-sulfoxide reductase catalytic subunit MsrP (EC 1.8.5.-)	msrP STM3377	reviewed	CHARACTERIZED_reviewed
+STMMW_33791	conserved hypothetical protein	80	Q8ZLP0	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yhdT STM3381	unreviewed	GENERIC_localization_only
+STMMW_33821	conserved hypothetical protein	321	P0A2R6	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-dihydrouridine synthase B (EC 1.3.1.-)	dusB STM3384	reviewed	CHARACTERIZED_reviewed
+STMMW_33931	conserved hypothetical protein	85	Q8ZLN2	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	yrdB STM3400	unreviewed	GENERIC_localization_only
+STMMW_33951	conserved hypothetical protein	190	Q8ZLN0	100.0	100.0	02_blast_hits	strong_ortholog	Threonylcarbamoyl-AMP synthase (TC-AMP synthase) (EC 2.7.7.87) (L-threonylcarbamoyladenylate synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaC) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaC)	tsaC rimN STM3402	reviewed	CHARACTERIZED_reviewed
+STMMW_33961	conserved hypothetical protein	180	Q8ZLM9	100.0	100.0	02_blast_hits	strong_ortholog	DNA topoisomerase	yrdD STM3403	unreviewed	NAMED_function_unreviewed
+STMMW_33971	conserved hypothetical protein	157	P66822	100.0	100.0	02_blast_hits	strong_ortholog	Protein Smg	smg STM3404	reviewed	CHARACTERIZED_reviewed
+STMMW_33981	conserved hypothetical protein	374	Q8ZLM8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	smf STM3405	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_34041	conserved hypothetical protein	89	Q8ZLM4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3411	unreviewed	GENERIC_localization_only
+STMMW_34061	conserved hypothetical protein	122	Q8ZLM2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhdN STM3413	unreviewed	GENERIC_localization_only
+STMMW_34411	conserved hypothetical protein	95	Q8ZLL9	100.0	100.0	02_blast_hits	strong_ortholog	Protein TusB (tRNA 2-thiouridine synthesizing protein B)	tusB STM3449	reviewed	CHARACTERIZED_reviewed
+STMMW_34421	conserved hypothetical protein	118	Q8ZLL8	100.0	100.0	02_blast_hits	strong_ortholog	Protein TusC (tRNA 2-thiouridine synthesizing protein C)	tusC STM3450	reviewed	CHARACTERIZED_reviewed
+STMMW_34431	conserved hypothetical protein	128	Q8ZLL7	100.0	100.0	02_blast_hits	strong_ortholog	Sulfurtransferase TusD (EC 2.8.1.-) (tRNA 2-thiouridine synthesizing protein D)	tusD STM3451	reviewed	CHARACTERIZED_reviewed
+STMMW_34441	conserved hypothetical protein	240	Q7CPL2	100.0	100.0	02_blast_hits	strong_ortholog	Regulator	yheO STM3452	unreviewed	NAMED_function_unreviewed
+STMMW_34461	conserved hypothetical protein	72	Q8ZLL5	100.0	100.0	02_blast_hits	strong_ortholog	Protein SlyX	slyX STM3454	reviewed	CHARACTERIZED_reviewed
+STMMW_34481	conserved hypothetical protein	66	Q7CPL1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yheV STM3456	unreviewed	GENERIC_localization_only
+STMMW_34521	conserved hypothetical protein	103	Q7CPL0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3461	unreviewed	GENERIC_localization_only
+STMMW_34531	conserved hypothetical protein	355	Q8ZLL1	99.7	100.0	02_blast_hits	strong_ortholog	Hydrolase	yheT STM3462	unreviewed	NAMED_function_unreviewed
+STMMW_34541	conserved hypothetical protein	72	P0A2P4	100.0	100.0	02_blast_hits	strong_ortholog	UPF0270 protein YheU	yheU STM3463	reviewed	CHARACTERIZED_reviewed
+STMMW_34561	conserved hypothetical protein	134	Q8ZLK9	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yhfA STM3465	unreviewed	GENERIC_localization_only
+STMMW_34621	conserved hypothetical protein	55	P37771	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YhfG	yhfG STM3471	reviewed	TRULY_UNCHARACTERIZED
+STMMW_34702	conserved hypothetical protein	60	A0A0F6AWJ5	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_0079 STM14_1065 STM14_2031 STM14_2198 STM14_2376 STM14_3030 STM14_3980 STM14_4190 STM14_936	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_34791	conserved hypothetical protein	133	Q8ZLK1	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yrfA STM3489	unreviewed	GENERIC_localization_only
+STMMW_34821	conserved hypothetical protein	259	Q8ZLJ8	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	yrfD STM3492	unreviewed	GENERIC_localization_only
+STMMW_34971	conserved hypothetical protein	78	Q7CPK5	100.0	100.0	02_blast_hits	strong_ortholog	Probable [Fe-S]-dependent transcriptional repressor	feoC STM3507	reviewed	CHARACTERIZED_reviewed
+STMMW_34981	conserved hypothetical protein	304	Q8ZLJ0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3508	unreviewed	GENERIC_localization_only
+STMMW_35011	conserved hypothetical protein	191	Q8ZLI7	100.0	100.0	02_blast_hits	strong_ortholog	Fe/S biogenesis protein NfuA	nfuA STM3511	reviewed	CHARACTERIZED_reviewed
+STMMW_35061	conserved hypothetical protein	91	Q8ZLI2	100.0	100.0	02_blast_hits	strong_ortholog	mRNA interferase toxin YafQ (Endoribonuclease YafQ) (Toxin YafQ)	STM3516	unreviewed	NAMED_function_unreviewed
+STMMW_35071	conserved hypothetical protein (homologue ofDnaJ: DNA damage inducible protein)	86	Q8ZLI1	100.0	100.0	02_blast_hits	strong_ortholog	Antitoxin DinJ	STM3517	unreviewed	NAMED_function_unreviewed
+STMMW_35091	hypothetical protein	405	Q8ZLH9	99.8	100.0	02_blast_hits	strong_ortholog	3'-phosphate/5'-hydroxy nucleic acid ligase (EC 6.5.1.8) (3'-phosphate/5'-hydroxy nucleic acid ligase)	rtcB STM3519	unreviewed	NAMED_function_unreviewed
+STMMW_35101	conserved hypothetical protein	517	Q8ZLH8	100.0	100.0	02_blast_hits	strong_ortholog	Ribonucleoprotein related-protein	STM3521	unreviewed	NAMED_function_unreviewed
+STMMW_35141	conserved hypothetical protein	108	P64251	100.0	100.0	02_blast_hits	strong_ortholog	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)	glpE STM3525	reviewed	CHARACTERIZED_reviewed
+STMMW_35161	conserved hypothetical protein	181	Q8ZLH3	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM3527	unreviewed	GENERIC_localization_only
+STMMW_35331	conserved hypothetical protein	231	Q7CPK2	100.0	100.0	02_blast_hits	strong_ortholog	Quercetin 2,3-dioxygenase (EC 1.13.11.24) (Pirin-like protein YhhW)	yhhW STM3544	unreviewed	NAMED_function_unreviewed
+STMMW_35371	conserved hypothetical protein	253	Q8ZLF9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3548	unreviewed	GENERIC_localization_only
+STMMW_35411	hypothetical protein	138	Q8ZLF6	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane protein	yhhA STM3552	unreviewed	GENERIC_localization_only
+STMMW_35541	conserved hypothetical protein	127	Q7CPJ9	100.0	100.0	02_blast_hits	strong_ortholog	PanD regulatory factor	panM panZ yhhK STM3565	reviewed	CHARACTERIZED_reviewed
+STMMW_35551	hypothetical protein	44	Q7CPJ8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3566	unreviewed	GENERIC_localization_only
+STMMW_35611	conserved hypothetical protein	198	Q8ZLE8	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.171)	yhhF STM3572	unreviewed	NAMED_function_unreviewed
+STMMW_35671	conserved hypothetical protein	81	P67100	100.0	100.0	02_blast_hits	strong_ortholog	Sulfur carrier protein TusA (Sulfur mediator TusA) (Sulfur transfer protein TusA) (tRNA 2-thiouridine synthesizing protein A)	tusA STM3578	reviewed	CHARACTERIZED_reviewed
+STMMW_35721	conserved hypothetical protein	192	Q8ZLE2	100.0	100.0	02_blast_hits	strong_ortholog	4'-phosphopantetheinyl transferase AcpT (EC 2.7.8.7)	acpT STM3583	reviewed	CHARACTERIZED_reviewed
+STMMW_35751	hypothetical ABC transporter ATP-binding protein	896	Q8ZLE0	99.9	100.0	02_blast_hits	strong_ortholog	ABC-type multidrug transport system	yhiH STM3586	unreviewed	NAMED_function_unreviewed
+STMMW_35821	conserved hypothetical protein	252	Q9X6G2	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase J (EC 2.1.1.242) (16S rRNA m2G1516 methyltransferase) (rRNA (guanine-N(2)-)-methyltransferase)	rsmJ yhiQ STM3593	reviewed	CHARACTERIZED_reviewed
+STMMW_35851	conserved hypothetical protein	280	Q7CPJ1	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.266) (23S rRNA (adenine(2030)-N6)-methyltransferase) (23S rRNA m6A2030 methyltransferase)	yhiR rlmJ STM3596	unreviewed	NAMED_function_unreviewed
+STMMW_35951	hypothetical luxR-family transcriptionalregulator	200	Q8ZLC5	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	yhjB STM3606	unreviewed	NAMED_function_unreviewed
+STMMW_35961	hypothetical lysR-family transcriptionalregulator	299	Q8ZLC4	100.0	100.0	02_blast_hits	strong_ortholog	LysR family transcriptional regulator	yhjC STM3607	unreviewed	NAMED_function_unreviewed
+STMMW_35981	hypothetical metabolite transport protein	440	Q8ZLC3	100.0	100.0	02_blast_hits	strong_ortholog	MFS family transport protein	yhjE STM3609	unreviewed	NAMED_function_unreviewed
+STMMW_36001	conserved hypothetical protein	255	Q8ZLC1	100.0	100.0	02_blast_hits	strong_ortholog	Anti-FlhC(2)FlhD(4) factor YdiV	yhjH STM3611	unreviewed	NAMED_function_unreviewed
+STMMW_36041	conserved hypothetical protein	639	Q8ZLB9	99.8	100.0	02_blast_hits	strong_ortholog	Anti-FlhC(2)FlhD(4) factor YdiV	yhjK STM3615	unreviewed	NAMED_function_unreviewed
+STMMW_36091	conserved hypothetical protein	250	Q8ZLB6	100.0	100.0	02_blast_hits	strong_ortholog	Cellulose biosynthesis protein BcsQ	bcsQ STM3620	reviewed	CHARACTERIZED_reviewed
+STMMW_36101	conserved hypothetical protein	67	Q7CPI9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yhjR STM3621	unreviewed	GENERIC_localization_only
+STMMW_36111	conserved hypothetical protein	523	Q8ZLB5	99.8	100.0	02_blast_hits	strong_ortholog	Cyclic di-GMP binding protein BcsE (Cellulose biosynthesis protein BcsE)	bcsE STM3622	reviewed	CHARACTERIZED_reviewed
+STMMW_36231	conserved hypothetical protein	374	Q8ZLA7	100.0	100.0	02_blast_hits	strong_ortholog	PQQ enzyme repeat protein	STM3632	unreviewed	NAMED_function_unreviewed
+STMMW_36401	conserved hypothetical protein	179	Q8ZL99	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic or exported protein	STM3650	unreviewed	GENERIC_localization_only
+STMMW_36421	conserved hypothetical protein	95	Q8ZL97	100.0	100.0	02_blast_hits	strong_ortholog	Antitoxin TacA 1	tacA1 STM3652	reviewed	CHARACTERIZED_reviewed
+STMMW_36571	conserved hypothetical protein	154	Q8ZL82	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yiaL STM3669	unreviewed	GENERIC_localization_only
+STMMW_36581	hypothetical protein	310	Q8ZL81	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein STM3670	STM3670	reviewed	TRULY_UNCHARACTERIZED
+STMMW_36671	conserved hypothetical protein	651	Q8ZL73	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3679	unreviewed	GENERIC_localization_only
+STMMW_36761	hypothetical protein	69	Q8ZL66	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YibT	yibT STM3688	reviewed	TRULY_UNCHARACTERIZED
+STMMW_36771	conserved hypothetical protein	120	Q7CPH9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yibL STM3689	unreviewed	GENERIC_localization_only
+STMMW_37091	conserved hypothetical protein	77	P40824	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YibR	yibR STM3720	reviewed	TRULY_UNCHARACTERIZED
+STMMW_37191	conserved hypothetical protein	407	Q8ZL47	100.0	100.0	02_blast_hits	strong_ortholog	Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein) (Phosphopantothenoylcysteine synthetase/decarboxylase) (PPCS-PPCDC) [Includes: Phosphopantothenoylcysteine decarboxylase (PPC decarboxylase) (PPC-DC) (EC 4.1.1.36) (CoaC); Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (CoaB) (Phosphopantothenoylcysteine synthetase) (PPC synthetase) (PPC-S)]	dfp coaBC STM3730	unreviewed	NAMED_function_unreviewed
+STMMW_37241	conserved hypothetical protein	287	Q7CPH3	100.0	100.0	02_blast_hits	strong_ortholog	Probable endoribonuclease YicC (EC 3.1.26.-)	yicC STM3735	reviewed	CHARACTERIZED_reviewed
+STMMW_37401	hypothetical protein	114	Q8ZL34	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3752	unreviewed	GENERIC_localization_only
+STMMW_37451	conserved hypothetical protein	205	H9L4B9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	rmbA STM3756	unreviewed	GENERIC_localization_only
+STMMW_37551	conserved hypothetical protein	313	Q8ZL29	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3766	unreviewed	GENERIC_localization_only
+STMMW_37561	conserved hypothetical protein	247	Q8ZL28	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3767	unreviewed	GENERIC_localization_only
+STMMW_37661	conserved hypothetical protein	119	Q8ZL23	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3777	unreviewed	GENERIC_localization_only
+STMMW_37801	hypothetical protein	337	Q8ZL16	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3791	unreviewed	GENERIC_localization_only
+STMMW_37861	conserved hypothetical protein	31	Q8KNN5	100.0	100.0	02_blast_hits	strong_ortholog	YsdA	ysdA STM3797a	unreviewed	NAMED_function_unreviewed
+STMMW_37901	hypothetical protein	361	Q8ZL11	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM3799	unreviewed	GENERIC_localization_only
+STMMW_37941	conserved hypothetical protein	176	Q8ZL07	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yidF STM3803	unreviewed	GENERIC_localization_only
+STMMW_38161	conserved hypothetical protein	281	Q8ZKY8	100.0	100.0	02_blast_hits	strong_ortholog	Sugar phosphatase YidA (EC 3.1.3.23)	yidA STM3831	unreviewed	NAMED_function_unreviewed
+STMMW_38261	conserved hypothetical protein	85	P0A8C9	100.0	100.0	02_blast_hits	strong_ortholog	Putative membrane protein insertion efficiency factor	yidD STM3841	reviewed	CHARACTERIZED_reviewed
+STMMW_38301	hypothetical protein	320	Q9FDH7	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM3845	unreviewed	GENERIC_localization_only
+STMMW_38341	conserved hypothetical protein	251	Q7CPE8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yieE STM3849	unreviewed	GENERIC_localization_only
+STMMW_38351	conserved hypothetical protein	194	Q8ZKX9	100.0	100.0	02_blast_hits	strong_ortholog	Quinone reductase (EC 1.6.5.2) (Chromate reductase) (NAD(P)H dehydrogenase (quinone))	yieF STM3850	unreviewed	NAMED_function_unreviewed
+STMMW_38451	conserved hypothetical protein	585	Q8ZKX2	100.0	100.0	02_blast_hits	strong_ortholog	Dipeptide/oligopeptide/nickel ABC-type transport systems	STM3860	unreviewed	NAMED_function_unreviewed
+STMMW_38621	conserved hypothetical protein	466	Q8ZKW3	100.0	100.0	02_blast_hits	strong_ortholog	Regulatory protein ViaA (VWA interacting with AAA+ ATPase)	viaA STM3878	reviewed	CHARACTERIZED_reviewed
+STMMW_38631	conserved hypothetical protein	498	Q8ZKW2	100.0	100.0	02_blast_hits	strong_ortholog	Regulatory ATPase RavA (EC 3.6.1.-) (Regulatory ATPase variant A)	ravA STM3879	reviewed	CHARACTERIZED_reviewed
+STMMW_38741	conserved hypothetical protein	112	Q7CPD8	100.0	100.0	02_blast_hits	strong_ortholog	Macrodomain Ori protein	maoP yifE STM3898 STMD1.96	reviewed	CHARACTERIZED_reviewed
+STMMW_38811	conserved hypothetical protein	105	Q9L6S7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3906	unreviewed	GENERIC_localization_only
+STMMW_38821	conserved hypothetical protein	113	Q9L6S6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3907	unreviewed	GENERIC_localization_only
+STMMW_39021	conserved hypothetical protein	359	Q9L6Q8	99.7	100.0	02_blast_hits	strong_ortholog	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (EC 2.4.1.325) (4-alpha-L-fucosyltransferase) (TDP-Fuc4NAc:lipid II Fuc4NAc transferase) (Fuc4NAc transferase)	wecF rffT STM3927 STMD1.63	reviewed	CHARACTERIZED_reviewed
+STMMW_39131	conserved hypothetical protein	120	Q9L6P9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM3942	unreviewed	GENERIC_localization_only
+STMMW_39191	conserved hypothetical protein	235	P55886	99.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YigA	yigA STM3948 STMD1.42	reviewed	TRULY_UNCHARACTERIZED
+STMMW_39211	conserved hypothetical protein	238	Q9L6P4	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase of the HAD superfamily	yigB STM3950	unreviewed	NAMED_function_unreviewed
+STMMW_39271	conserved hypothetical protein	161	P0A1U0	100.0	96.3	02_blast_hits	strong_ortholog	Medium/long-chain acyl-CoA thioesterase YigI (EC 3.1.2.20)	yigI STM3956 STMD1.34	reviewed	CHARACTERIZED_reviewed
+STMMW_39331	conserved hypothetical protein	266	Q9L6N4	100.0	100.0	02_blast_hits	strong_ortholog	Phosphosugar phosphatase YigL (EC 3.1.3.23) (EC 3.1.3.74) (Pyridoxal phosphate/pyridoxine phosphate phosphatase YigL)	yigL STM3962	unreviewed	NAMED_function_unreviewed
+STMMW_39421	conserved hypothetical protein	201	Q9L6M5	100.0	100.0	02_blast_hits	strong_ortholog	Ubiquinone biosynthesis accessory factor UbiJ	ubiJ yigP STM3971	reviewed	CHARACTERIZED_reviewed
+STMMW_39491	conserved hypothetical protein	492	Q9L6M0	100.0	100.0	02_blast_hits	strong_ortholog	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98) (Polyprenyl p-hydroxybenzoate decarboxylase)	ubiD STM3978 STMD1.11	reviewed	CHARACTERIZED_reviewed
+STMMW_39551	conserved hypothetical protein	204	Q9L6L3	99.5	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yigZ STM3985	unreviewed	GENERIC_localization_only
+STMMW_39601	conserved hypothetical protein	89	Q7CPD3	100.0	100.0	02_blast_hits	strong_ortholog	Protein YihD	yihD STM3995	unreviewed	NAMED_function_unreviewed
+STMMW_39611	conserved hypothetical protein	328	Q8ZKU8	100.0	100.0	02_blast_hits	strong_ortholog	Serine/threonine protein kinase RdoA (EC 2.7.11.1) (Serine/threonine-protein kinase SrkA) (Stress response kinase A)	rdoA srkA STM3996	reviewed	CHARACTERIZED_reviewed
+STMMW_39661	hypothetical protein	74	Q7CPD1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4002	unreviewed	GENERIC_localization_only
+STMMW_39671	conserved hypothetical protein	167	P0A2N8	97.7	102.4	02_blast_hits	strong_ortholog	Der GTPase-activating protein YihI	yihI STM4003	reviewed	CHARACTERIZED_reviewed
+STMMW_39721	conserved hypothetical protein	142	Q8ZKU6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4008	unreviewed	GENERIC_localization_only
+STMMW_39741	conserved hypothetical protein	244	Q8ZKU5	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase	STM4010	unreviewed	NAMED_function_unreviewed
+STMMW_39751	hypothetical protein	292	Q8ZKU4	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4011	unreviewed	GENERIC_localization_only
+STMMW_39771	hypothetical protein	291	Q8ZKU2	100.0	100.0	02_blast_hits	strong_ortholog	Membrane-associated metal-dependent hydrolase	STM4013	unreviewed	NAMED_function_unreviewed
+STMMW_39781	conserved hypothetical protein	341	Q8ZKU1	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM4014	unreviewed	GENERIC_localization_only
+STMMW_39791	hypothetical protein	282	Q8ZKU0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4015	unreviewed	GENERIC_localization_only
+STMMW_39841	conserved hypothetical protein	285	Q8ZKT8	100.0	100.0	02_blast_hits	strong_ortholog	Aldose-1-epimerase	yihR STM4020	unreviewed	NAMED_function_unreviewed
+STMMW_39851	conserved hypothetical protein	413	Q8ZKT7	100.0	100.0	02_blast_hits	strong_ortholog	Sulfoquinovose isomerase (SQ isomerase) (EC 5.3.1.31) (Sulfoquinovose-sulfofructose isomerase) (SQ-SF isomerase)	yihS STM4021	reviewed	CHARACTERIZED_reviewed
+STMMW_39921	conserved hypothetical protein	145	P58533	100.0	100.0	02_blast_hits	strong_ortholog	D-aminoacyl-tRNA deacylase (DTD) (EC 3.1.1.96) (Gly-tRNA(Ala) deacylase)	dtd STM4028	reviewed	CHARACTERIZED_reviewed
+STMMW_39941	conserved hypothetical protein	148	Q8ZKT4	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4030	unreviewed	GENERIC_localization_only
+STMMW_39951	conserved hypothetical protein	103	Q8ZKT3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4031	unreviewed	GENERIC_localization_only
+STMMW_40081	conserved hypothetical protein	104	Q7CPC4	100.0	100.0	02_blast_hits	strong_ortholog	L-rhamnose mutarotase (EC 5.1.3.32) (Rhamnose 1-epimerase) (Type-3 mutarotase)	rhaM STM4043	reviewed	CHARACTERIZED_reviewed
+STMMW_40211	conserved hypothetical protein	250	Q8ZKR8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yiiM STM4056	unreviewed	GENERIC_localization_only
+STMMW_40221	hypothetical protein	131	Q8ZKR7	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4057	unreviewed	GENERIC_localization_only
+STMMW_40341	conserved hypothetical protein	54	Q8ZKQ9	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM4069	unreviewed	GENERIC_localization_only
+STMMW_40361	conserved hypothetical protein	88	Q8ZKQ7	100.0	100.0	02_blast_hits	strong_ortholog	Mannose-6-phosphate isomerase	STM4071	unreviewed	NAMED_function_unreviewed
+STMMW_40441	conserved hypothetical protein	109	Q8ZKP9	100.0	88.1	02_blast_hits	strong_ortholog	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase (EC 5.3.1.32) (Autoinducer 2-degrading protein LsrG) (AI-2-degrading protein LsrG) (Phospho-(S)-4,5-dihydroxy-2,3-pentanedione isomerase) (Phospho-AI-2 isomerase)	lsrG STM4079	reviewed	CHARACTERIZED_reviewed
+STMMW_40531	conserved hypothetical protein	79	Q8ZKP1	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein ZapB	zapB STM4088	reviewed	CHARACTERIZED_reviewed
+STMMW_40621	hypothetical protein	220	Q8ZKN7	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane lipoprotein	STM4097	unreviewed	GENERIC_localization_only
+STMMW_40691	conserved hypothetical protein	374	Q8ZKN2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4103	unreviewed	GENERIC_localization_only
+STMMW_40701	conserved hypothetical protein	518	Q8ZKN1	100.0	100.0	02_blast_hits	strong_ortholog	5'-nucleotidase	STM4104	unreviewed	NAMED_function_unreviewed
+STMMW_40731	conserved hypothetical protein	207	Q8ZKN0	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	yijF STM4107	unreviewed	GENERIC_localization_only
+STMMW_41091	conserved hypothetical protein	114	Q9L9J5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4156	unreviewed	GENERIC_localization_only
+STMMW_41101	conserved hypothetical protein	336	Q9L9J3	100.0	100.0	02_blast_hits	strong_ortholog	Protein-arginine N-acetylglucosaminyltransferase SseK1 (Arginine GlcNAcyltransferase SseK1) (EC 2.4.1.-) (Salmonella secreted effector K1)	sseK1 STM4157 STMF1.17	reviewed	CHARACTERIZED_reviewed
+STMMW_41111	conserved hypothetical protein	62	Q9L9J2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4158	unreviewed	GENERIC_localization_only
+STMMW_41191	conserved hypothetical protein	257	Q9L9I5	100.0	100.0	02_blast_hits	strong_ortholog	NAD-capped RNA hydrolase NudC (DeNADding enzyme NudC) (EC 3.6.1.-) (NADH pyrophosphatase) (EC 3.6.1.22)	nudC STM4166 STMF1.20	reviewed	CHARACTERIZED_reviewed
+STMMW_41221	conserved hypothetical protein	196	P0A1U4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein YjaG	yjaG STM4169 STMF1.23	reviewed	TRULY_UNCHARACTERIZED
+STMMW_41241	conserved hypothetical protein	230	Q9L9I1	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yjaH STM4171	unreviewed	GENERIC_localization_only
+STMMW_41351	conserved hypothetical protein	144	Q8ZKL3	99.3	93.8	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4186	unreviewed	GENERIC_localization_only
+STMMW_41401	hypothetical protein	33	Q8ZKL2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4191	unreviewed	GENERIC_localization_only
+STMMW_41411	conserved hypothetical protein of unknownfuncion	179	Q7CPB7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4192	unreviewed	GENERIC_localization_only
+STMMW_41431	conserved hypothetical protein	99	Q7CPB6	100.0	90.9	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjbD STM4194	unreviewed	GENERIC_localization_only
+STMMW_41441	hypothetical protein	313	Q8ZKL0	100.0	100.0	02_blast_hits	strong_ortholog	Pantothenate precursors transporter PanS	panS STM4195	reviewed	CHARACTERIZED_reviewed
+STMMW_41461	hypothetical protein	96	Q8ZKK8	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4197	unreviewed	GENERIC_localization_only
+STMMW_41471	hypothetical protein	151	Q8ZKK7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4198	unreviewed	GENERIC_localization_only
+STMMW_41481	hypothetical protein	201	Q8ZKK6	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4199	unreviewed	GENERIC_localization_only
+STMMW_41671	hypothetical protein	95	Q8ZKI7	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4218	unreviewed	GENERIC_localization_only
+STMMW_41891	hypothetical protein	37	Q8ZKH7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4239	unreviewed	GENERIC_localization_only
+STMMW_41901	conserved hypothetical protein	70	Q7CPB2	100.0	100.0	02_blast_hits	strong_ortholog	UPF0337 protein YjbJ	yjbJ STM4240	reviewed	CHARACTERIZED_reviewed
+STMMW_41931	conserved hypothetical protein	332	Q8ZKH4	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.-) (EC 1.3.1.91) (U20-specific dihydrouridine synthase) (U20-specific Dus) (tRNA-dihydrouridine synthase A)	dusA STM4243	reviewed	CHARACTERIZED_reviewed
+STMMW_42001	conserved hypothetical protein	138	P0A2L1	100.0	100.0	02_blast_hits	strong_ortholog	UPF0047 protein YjbQ	yjbQ STM4250	reviewed	CHARACTERIZED_reviewed
+STMMW_42011	conserved hypothetical protein	118	Q8ZKH3	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjbR STM4251	unreviewed	GENERIC_localization_only
+STMMW_42021	hypothetical protein	112	Q8ZKH2	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4252	unreviewed	GENERIC_localization_only
+STMMW_42051	conserved hypothetical protein	38	Q8ZKH0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4255	unreviewed	GENERIC_localization_only
+STMMW_42062	conserved hypothetical protein	41					no_ortholog				NO_ORTHOLOG
+STMMW_42271	hypothetical protein	48	Q7CPA7	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4276	unreviewed	GENERIC_localization_only
+STMMW_42391	conserved hypothetical protein	147	Q8ZKE5	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	phnB STM4288	unreviewed	GENERIC_localization_only
+STMMW_42401	conserved hypothetical protein	111	Q7CPA4	100.0	100.0	02_blast_hits	strong_ortholog	Phosphonoacetate hydrolase YjdM (EC 3.11.1.2)	phnA STM4289	unreviewed	NAMED_function_unreviewed
+STMMW_42531	hypothetical protein	88	Q8ZKE0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4302	unreviewed	GENERIC_localization_only
+STMMW_42591	conserved hypothetical protein	217	Q8ZKD4	100.0	100.0	02_blast_hits	strong_ortholog	Component of anaerobic dehydrogenases	STM4308	unreviewed	NAMED_function_unreviewed
+STMMW_42631	conserved hypothetical protein	71	Q8ZKD0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4313	unreviewed	GENERIC_localization_only
+STMMW_42661	conserved hypothetical protein	73	Q8ZKC8	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4316	unreviewed	GENERIC_localization_only
+STMMW_42671	conserved hypothetical protein	97	Q8ZKC7	100.0	100.0	02_blast_hits	strong_ortholog	CopG family helix-turn-helix protein	STM4317	unreviewed	NAMED_function_unreviewed
+STMMW_42811	hypothetical protein	285	Q8ZKB9	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yjeJ STM4332	unreviewed	GENERIC_localization_only
+STMMW_42821	conserved hypothetical protein	342	Q8ZKB8	100.0	100.0	02_blast_hits	strong_ortholog	L-lysine 2,3-aminomutase (LAM) (EC 5.4.3.-) (EF-P post-translational modification enzyme B)	epmB yjeK STM4333	reviewed	CHARACTERIZED_reviewed
+STMMW_43011	conserved hypothetical protein	515	Q8ZKA7	100.0	100.0	02_blast_hits	strong_ortholog	Bifunctional NAD(P)H-hydrate repair enzyme (Nicotinamide nucleotide repair protein) [Includes: ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136) (ADP-dependent NAD(P)HX dehydratase); NAD(P)H-hydrate epimerase (EC 5.1.99.6)]	yjeF nnrD nnrE STM4356	unreviewed	NAMED_function_unreviewed
+STMMW_43021	conserved hypothetical protein	152	Q8ZKA6	100.0	100.0	02_blast_hits	strong_ortholog	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaE)	yjeE STM4357	unreviewed	NAMED_function_unreviewed
+STMMW_43111	conserved hypothetical protein	141	Q8ZKA3	100.0	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional repressor NsrR	nsrR STM4367	reviewed	CHARACTERIZED_reviewed
+STMMW_43141	conserved hypothetical protein	134	Q8ZKA1	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjfI STM4370	unreviewed	GENERIC_localization_only
+STMMW_43151	conserved hypothetical protein	232	Q8ZKA0	100.0	100.0	02_blast_hits	strong_ortholog	Phage shock protein A	yjfJ STM4371	unreviewed	NAMED_function_unreviewed
+STMMW_43171	conserved hypothetical protein	227	Q8ZK98	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjfK STM4373	unreviewed	GENERIC_localization_only
+STMMW_43191	conserved hypothetical protein	212	Q8ZK96	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yjfM STM4375	unreviewed	GENERIC_localization_only
+STMMW_43201	conserved hypothetical protein	387	Q8ZK95	100.0	100.0	02_blast_hits	strong_ortholog	Glutathionylspermidine synthase	yjfC STM4376	unreviewed	NAMED_function_unreviewed
+STMMW_43221	hypothetical protein	106	Q8ZK93	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yjfN STM4378	unreviewed	GENERIC_localization_only
+STMMW_43241	conserved hypothetical protein	249	Q8ZK91	100.0	100.0	02_blast_hits	strong_ortholog	Hydrolase of the alpha/beta superfamily	yjfP STM4380	unreviewed	NAMED_function_unreviewed
+STMMW_43261	conserved hypothetical protein	354	Q7CP92	100.0	100.0	02_blast_hits	strong_ortholog	Probable L-ascorbate-6-phosphate lactonase UlaG (EC 3.1.1.-) (L-ascorbate utilization protein G)	ulaG STM4382	reviewed	CHARACTERIZED_reviewed
+STMMW_43311	conserved hypothetical protein	284	Q8ZK86	100.0	100.0	02_blast_hits	strong_ortholog	L-ribulose-5-phosphate 3-epimerase UlaE (EC 5.1.3.22) (L-ascorbate utilization protein E) (L-xylulose-5-phosphate 3-epimerase)	ulaE STM4387	reviewed	CHARACTERIZED_reviewed
+STMMW_43341	conserved hypothetical protein	68	Q8ZK83	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4390	unreviewed	GENERIC_localization_only
+STMMW_43401	conserved hypothetical protein	211	Q8ZK78	100.0	100.0	02_blast_hits	strong_ortholog	Cell envelope opacity-associated protein A	ytfB STM4396	unreviewed	NAMED_function_unreviewed
+STMMW_43431	conserved hypothetical protein	220	Q8ZK76	100.0	100.0	02_blast_hits	strong_ortholog	Iron-sulfur cluster repair protein YtfE	ytfE STM4399	reviewed	CHARACTERIZED_reviewed
+STMMW_43451	conserved hypothetical protein	282	Q8ZK74	100.0	100.0	02_blast_hits	strong_ortholog	Reductase	ytfG STM4401	unreviewed	NAMED_function_unreviewed
+STMMW_43461	conserved hypothetical protein	128	Q7CP90	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	ytfH STM4402	unreviewed	NAMED_function_unreviewed
+STMMW_43501	conserved hypothetical protein	90	Q8ZK72	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	ytfK STM4406	unreviewed	GENERIC_localization_only
+STMMW_43551	conserved hypothetical protein	114	Q7CP87	100.0	100.0	02_blast_hits	strong_ortholog	Gamma-glutamylcyclotransferase family protein	ytfP STM4411	unreviewed	NAMED_function_unreviewed
+STMMW_43571	hypothetical protein	387	Q8ZK68	99.7	100.0	02_blast_hits	strong_ortholog	Imidazolonepropionase and related amidohydrolases	STM4413	unreviewed	NAMED_function_unreviewed
+STMMW_43661	conserved hypothetical protein	100	Q8ZK60	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4422	unreviewed	GENERIC_localization_only
+STMMW_43721	conserved hypothetical membrane protein	388	Q8ZK55	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized MFS-type transporter STM4428	STM4428	reviewed	CHARACTERIZED_reviewed
+STMMW_43791	conserved hypothetical protein	183	P60829	100.0	100.0	02_blast_hits	strong_ortholog	Dual-action ribosomal maturation protein DarP (Large ribosomal subunit assembly factor DarP)	darP STM4437	reviewed	CHARACTERIZED_reviewed
+STMMW_43831	hypothetical protein	112	Q7CP83	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4440	unreviewed	GENERIC_localization_only
+STMMW_43841	hypothetical protein	120	Q7CP82	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4441	unreviewed	GENERIC_localization_only
+STMMW_43851	hypothetical protein	100	Q8ZK46	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4442	unreviewed	GENERIC_localization_only
+STMMW_43881	hypothetical protein	377	Q8ZK44	100.0	100.0	02_blast_hits	strong_ortholog	Dihydroorotase	STM4445	unreviewed	NAMED_function_unreviewed
+STMMW_43891	conserved hypothetical protein	372	Q8ZK43	99.7	100.0	02_blast_hits	strong_ortholog	Selenocysteine synthase	STM4446	unreviewed	NAMED_function_unreviewed
+STMMW_43901	conserved hypothetical protein	246	Q8ZK42	100.0	100.0	02_blast_hits	strong_ortholog	Periplasmic protein	STM4447	unreviewed	GENERIC_localization_only
+STMMW_43941	conserved hypothetical protein	94	Q7CP79	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4450	unreviewed	GENERIC_localization_only
+STMMW_43971	hypothetical protein	56	A0A0H3NPT0	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	SL1344_4383	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_44031	conserved hypothetical protein	128	Q7CP78	100.0	100.0	02_blast_hits	strong_ortholog	2-iminobutanoate/2-iminopropanoate deaminase (EC 3.5.99.10) (Enamine/imine deaminase)	ridA yjgF STM4458	reviewed	CHARACTERIZED_reviewed
+STMMW_44131	conserved hypothetical protein	63	A0A0F6BAZ2	100.0	100.0	02_blast_hits_species	strong_ortholog	Uncharacterized protein	STM14_5362	unreviewed	TRULY_UNCHARACTERIZED
+STMMW_44141	conserved hypothetical protein	150	Q8ZK32	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjgK STM4468	unreviewed	GENERIC_localization_only
+STMMW_44161	conserved hypothetical protein	138	P0A1U6	100.0	100.0	02_blast_hits	strong_ortholog	Regulator of ribonuclease activity B	rraB STM4470	reviewed	CHARACTERIZED_reviewed
+STMMW_44241	conserved hypothetical protein	39	Q8ZK28	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4478	unreviewed	GENERIC_localization_only
+STMMW_44371	conserved hypothetical protein	867	Q8ZK15	99.9	99.8	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4492	unreviewed	GENERIC_localization_only
+STMMW_44381	conserved hypothetical protein	273	Q8ZK14	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4493	unreviewed	GENERIC_localization_only
+STMMW_44421	conserved hypothetical protein	200	Q8ZK10	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4497	unreviewed	GENERIC_localization_only
+STMMW_44451	conserved hypothetical protein	241	Q8ZK08	99.6	98.8	02_blast_hits	strong_ortholog	Probable transcriptional regulatory protein YeeN	yeeN STM4499	reviewed	CHARACTERIZED_reviewed
+STMMW_44461	conserved hypothetical protein	543	Q8ZK07	100.0	100.0	02_blast_hits	strong_ortholog	SAM-dependent methyltransferase	yjhP STM4500	unreviewed	NAMED_function_unreviewed
+STMMW_44471	hypothetical protein	85	Q7CP77	100.0	100.0	02_blast_hits	strong_ortholog	UPF0386 protein YjhX	yjhX STM4501	reviewed	CHARACTERIZED_reviewed
+STMMW_44481	hypothetical protein	202	Q8ZK06	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4502	unreviewed	GENERIC_localization_only
+STMMW_44501	hypothetical protein	303	Q8ZK04	99.7	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4504	unreviewed	GENERIC_localization_only
+STMMW_44521	hypothetical protein	224	Q8ZK02	100.0	100.0	02_blast_hits	strong_ortholog	Dienelactone hydrolase	STM4506	unreviewed	NAMED_function_unreviewed
+STMMW_44551	conserved hypothetical protein	176	H9L424	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4509	unreviewed	GENERIC_localization_only
+STMMW_44671	hypothetical protein	47	Q8ZJZ2	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4520	unreviewed	GENERIC_localization_only
+STMMW_44741	hypothetical protein	95	Q7CP72	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	STM4528	unreviewed	GENERIC_localization_only
+STMMW_44751	hypothetical protein	100	Q7CP71	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4529	unreviewed	GENERIC_localization_only
+STMMW_44761	conserved hypothetical protein	318	Q8ZJY6	100.0	100.0	02_blast_hits	strong_ortholog	Cobalamin synthesis protein	yjiA STM4530	unreviewed	NAMED_function_unreviewed
+STMMW_44771	conserved hypothetical protein	67	Q7CP70	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjiX STM4531	unreviewed	GENERIC_localization_only
+STMMW_44931	conserved hypothetical regulatory protein	241	Q8ZJX2	100.0	100.0	02_blast_hits	strong_ortholog	LuxR/UhpA family transcriptional regulator	yjjQ STM4547	unreviewed	NAMED_function_unreviewed
+STMMW_44941	conserved hypothetical regulatory protein	224	Q8ZJX1	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator (Activator) of bgl operon	bglJ STM4548	unreviewed	NAMED_function_unreviewed
+STMMW_44951	conserved hypothetical protein	152	Q8ZJX0	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	STM4549	unreviewed	GENERIC_localization_only
+STMMW_44991	conserved hypothetical protein	342	Q8ZJW6	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase C (EC 2.1.1.172) (16S rRNA m2G1207 methyltransferase) (rRNA (guanine-N(2)-)-methyltransferase RsmC)	rsmC STM4556	reviewed	CHARACTERIZED_reviewed
+STMMW_45021	conserved hypothetical protein	226	Q8ZJW3	100.0	100.0	02_blast_hits	strong_ortholog	Haloacid dehalogenase-like hydrolase	yjjG STM4559	unreviewed	NAMED_function_unreviewed
+STMMW_45051	conserved hypothetical protein	357	Q8ZJW2	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoesterase	yjjU STM4563	unreviewed	NAMED_function_unreviewed
+STMMW_45071	conserved hypothetical protein	287	Q8ZJW0	100.0	100.0	02_blast_hits	strong_ortholog	Pyruvate formate lyase activating enzyme	yjjW STM4565	unreviewed	NAMED_function_unreviewed
+STMMW_45081	conserved hypothetical protein	516	Q8ZJV9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoplasmic protein	yjjI STM4566	unreviewed	GENERIC_localization_only
+STMMW_45231	conserved hypothetical transcriptional regulator	419	P24518	99.8	97.9	02_blast_hits	strong_ortholog	Trifunctional NAD biosynthesis/regulator protein NadR [Includes: Transcriptional regulator NadR; Nicotinamide mononucleotide adenylyltransferase (NMN adenylyltransferase) (NMN-AT) (NMNAT) (EC 2.7.7.1) (Nicotinamide ribonucleotide adenylyltransferase) (Nicotinamide-nucleotide adenylyltransferase); Ribosylnicotinamide kinase (RNK) (EC 2.7.1.22) (Nicotinamide riboside kinase) (NRK) (NmR-K)]	nadR nadI pnuA STM4580	reviewed	CHARACTERIZED_reviewed
+STMMW_45241	conserved hypothetical ABC transporter	555	Q8ZJU9	99.8	100.0	02_blast_hits	strong_ortholog	Energy-dependent translational throttle protein EttA (EC 3.6.1.-) (Translational regulatory factor EttA)	yjjK ettA STM4581	unreviewed	NAMED_function_unreviewed
+STMMW_45271	conserved hypothetical protein	171	P39432	99.4	100.0	02_blast_hits	strong_ortholog	Inosine/xanthosine triphosphatase (ITPase/XTPase) (EC 3.6.1.73) (Non-canonical purine NTP phosphatase) (Non-standard purine NTP phosphatase) (Nucleoside-triphosphate phosphatase) (NTPase)	yjjX STM4584	reviewed	CHARACTERIZED_reviewed
+STMMW_45421	conserved hypothetical protein	46	Q7CP62	100.0	100.0	02_blast_hits	strong_ortholog	Inner membrane protein	yjjY STM4599	unreviewed	GENERIC_localization_only

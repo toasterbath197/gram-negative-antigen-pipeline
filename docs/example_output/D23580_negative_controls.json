@@ -1,0 +1,32 @@
+{
+ "GroEL": {
+  "len": 548,
+  "bepipred_ge6": 13,
+  "kt_mean": 1.022
+ },
+ "DnaK": {
+  "len": 97,
+  "bepipred_ge6": 4,
+  "kt_mean": 1.029
+ },
+ "TufA": {
+  "len": 109,
+  "bepipred_ge6": 3,
+  "kt_mean": 1.017
+ },
+ "Eno": {
+  "len": 432,
+  "bepipred_ge6": 8,
+  "kt_mean": 1.01
+ },
+ "RpoA": {
+  "len": 137,
+  "bepipred_ge6": 3,
+  "kt_mean": 0.993
+ },
+ "AhpC": {
+  "len": 187,
+  "bepipred_ge6": 6,
+  "kt_mean": 1.02
+ }
+}
