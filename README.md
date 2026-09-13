@@ -5,13 +5,15 @@ annotation and narrows its unannotated proteins down to a ranked shortlist of
 plausible vaccine-antigen candidates — using structure, localization,
 conservation and infection-condition expression.
 
-**Scope.** The pipeline is written for Gram-negative bacteria generally and is
-driven entirely by `config/config.yaml`. It has been *validated end to end on one
-organism* — *Salmonella enterica* serovar Typhimurium **D23580** (ST313, African
-invasive non-typhoidal lineage) — which is the worked example throughout. Running
-it on another Gram-negative should require only config changes, but that has not
-been tested, and the localization logic assumes a Gram-negative envelope
-(see *Running it on a different organism*).
+**Scope.** Written for Gram-negative bacteria generally and driven entirely by
+config. The full pipeline has been run end to end on *Salmonella enterica* serovar
+Typhimurium **D23580** (ST313, African invasive non-typhoidal lineage), the worked
+example throughout. The annotation audit (step 03) has additionally been validated
+on a second, unrelated organism — *Acinetobacter baumannii* ATCC 17978 — via a
+config change alone, with no code modifications; see
+[`docs/example_output/cross_organism_comparison.md`](docs/example_output/cross_organism_comparison.md).
+The localization logic assumes a Gram-negative envelope and does not transfer to
+Gram-positives or eukaryotes.
 
 **What this pipeline does not do:** prove anything. Every output is a prediction.
 Nothing here establishes that a protein is surface-exposed in vivo, translated,
@@ -34,6 +36,20 @@ that field alone is screening proteins that stopped being unknown years ago.
 **Step 03 exists to catch this, and it should be the first thing you run on a
 new organism**, before investing in anything downstream.
 
+The effect reproduces on a second organism, but its size does not:
+
+| | *S.* Typhimurium D23580 | *A. baumannii* ATCC 17978 |
+|---|---|---|
+| CDS labelled "hypothetical" | 763 | 1141 |
+| Still uncharacterized today | 33 (4.3%) | 204 (17.9%) |
+| Annotation now stale | **95.7%** | **82.1%** |
+| Swiss-Prot reviewed | 227 | 22 |
+
+Salmonella has been a laboratory workhorse since the 1950s; *A. baumannii* has
+not. Run this audit before committing to an organism — it tells you whether there
+is anything left to find. Full comparison, including caveats on ortholog coverage,
+in [`docs/example_output/cross_organism_comparison.md`](docs/example_output/cross_organism_comparison.md).
+
 ---
 
 ## Pipeline
@@ -54,6 +70,10 @@ new organism**, before investing in anything downstream.
 ```bash
 ./run_all.sh                      # everything, in order
 python3 scripts/03_reannotate.py  # or one step at a time
+
+# a second organism, side by side -- separate config, separate results dir
+PIPELINE_CONFIG=config/config_acinetobacter.yaml PIPELINE_ORG=AB17978 \
+  python3 scripts/03_reannotate.py
 ```
 
 Every step writes to `results/` and skips work already done, so the pipeline is

@@ -7,14 +7,22 @@ import csv, gzip, json, os, subprocess, sys, time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-RESULTS = ROOT / "results"
-RESULTS.mkdir(exist_ok=True)
+
+# Multi-organism support. Set these to run more than one organism side by side:
+#   PIPELINE_CONFIG=config/config_acinetobacter.yaml \
+#   PIPELINE_ORG=acinetobacter python3 03_reannotate.py
+# Resolved at import time so `from utils import *` picks up the right paths.
+CONFIG_PATH = Path(os.environ.get("PIPELINE_CONFIG", ROOT / "config" / "config.yaml"))
+if not CONFIG_PATH.is_absolute():
+    CONFIG_PATH = ROOT / CONFIG_PATH
+_ORG = os.environ.get("PIPELINE_ORG", "").strip()
+RESULTS = (ROOT / "results" / _ORG) if _ORG else (ROOT / "results")
+RESULTS.mkdir(parents=True, exist_ok=True)
 
 
 def load_config(path=None):
     import yaml
-    path = path or ROOT / "config" / "config.yaml"
-    with open(path) as f:
+    with open(path or CONFIG_PATH) as f:
         return yaml.safe_load(f)
 
 

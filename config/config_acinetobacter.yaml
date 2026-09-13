@@ -1,0 +1,96 @@
+# ============================================================
+# Pipeline configuration.
+# The values below reproduce the worked example:
+#   Salmonella enterica serovar Typhimurium D23580 (ST313)
+# Change them to run on any other Gram-negative organism.
+# ============================================================
+
+organism:
+  name: "Acinetobacter baumannii ATCC 17978"
+  short_name: "AB17978"
+  locus_tag_prefix: "A1S"
+
+# --- Step 01: starting annotation -------------------------------------------
+# ENA/EMBL accession for the chromosome of your strain of interest.
+annotation:
+  ena_accession: "CP000521"
+  # Substring (case-insensitive) in the /product field that marks an
+  # unannotated CDS. "hypothetical" is the usual convention.
+  hypothetical_keyword: "hypothetical"
+
+# --- Step 02: ortholog mapping ----------------------------------------------
+# Only needed when your strain has no populated UniProtKB entries of its own.
+# Set `enabled: false` if your organism already has a UniProt reference proteome
+# with per-protein accessions (most do -- D23580 is the unusual case).
+orthologs:
+  enabled: true
+  reference_proteome: null            # no populated proteome record exists
+  species_taxon_id: 470                # A. baumannii
+  min_identity: 30.0
+  min_coverage: 50.0
+  evalue: 1e-5
+
+# --- Step 04: localization ---------------------------------------------------
+localization:
+  # SignalP organism group. Gram-negative bacteria -> "other"
+  signalp_organism: "other"
+  gram: "negative"                       # negative | positive
+  # Apply the Enterobacteriaceae lipoprotein +2 sorting rule.
+  # Set false outside Enterobacteriaceae -- the rule does not transfer.
+  apply_plus2_rule: false              # NOT Enterobacteriaceae -- rule does not transfer
+  max_tm_helices: 1
+
+# --- Step 06: structural search ---------------------------------------------
+foldseek:
+  databases: ["pdb100"]
+  mode: "3diaa"
+  # A hit needs BOTH a high probability AND a strong E-value.
+  strong_prob: 0.95
+  strong_evalue: 1.0e-3
+  weak_evalue: 5.0e-2
+  twilight_prob: 0.30
+
+# --- Step 07: epitope prediction --------------------------------------------
+epitopes:
+  run_linear: true                       # IEDB BepiPred / Kolaskar-Tongaonkar
+  run_conformational: true               # DiscoTope-3 via BioLib
+  # DiscoTope epitope residues below this pLDDT are discarded.
+  # See docs/KNOWN_ISSUES.md -- the BioLib wrapper wipes pLDDT to 100.
+  min_plddt: 70
+  # STRONGLY RECOMMENDED. Runs the same predictors on known cytoplasmic
+  # proteins. If candidates do not separate from these, the scores are noise.
+  negative_controls:
+    - "P0A1D3"   # GroEL
+    - "P0A1D5"   # DnaK
+    - "Q8ZP48"   # TufA
+    - "P64076"   # Enolase
+    - "P0A1S2"   # RpoA
+    - "P0A251"   # AhpC
+
+# --- Step 08: conservation ---------------------------------------------------
+conservation:
+  taxon_id: 470
+  assembly_level: "complete"
+  min_coverage: 80.0
+  conserved_identity: 95.0
+
+# --- Step 09: expression -----------------------------------------------------
+# Optional. Supply a TSV of expression values indexed by locus tag.
+# Leave geo_url null to skip this step.
+expression:
+  geo_url: null                        # no comparable infection RNA-seq panel
+  encoding: "latin-1"
+  locus_tag_column: 0
+  first_data_column: 3
+  infection_condition: "Macrophage"
+  # Short features inflate TPM. Percentiles are reported against a
+  # length-matched background as well as genome-wide.
+  length_matched_percentile: true
+
+# --- Step 10: scoring --------------------------------------------------------
+scoring:
+  # Epitope terms are excluded by default: in the worked example they failed
+  # the negative control. Set to true only if YOUR controls separate.
+  include_epitope_terms: false
+  low_complexity_window: 40
+  low_complexity_max_fraction: 0.30

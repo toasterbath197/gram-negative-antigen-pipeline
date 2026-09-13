@@ -19,13 +19,26 @@ def fetch_proteome(proteome_id, taxon_id, dest):
     else:
         q = f"taxonomy_id:{taxon_id}"
     log(f"downloading proteome ({q}) ...")
-    subprocess.run(["curl", "-sS", "-G",
-                    "--data-urlencode", f"query={q}",
-                    "--data-urlencode", "format=fasta",
-                    "--data-urlencode", "compressed=true",
-                    "-o", str(dest) + ".gz",
-                    "https://rest.uniprot.org/uniprotkb/stream"], check=True, timeout=900)
-    subprocess.run(["gunzip", "-f", str(dest) + ".gz"], check=True)
+    # --http1.1 is required: UniProt's stream endpoint intermittently fails with
+    # curl exit 92 (HTTP/2 framing error) on large downloads.
+    gz = str(dest) + ".gz"
+    last = None
+    for attempt in range(3):
+        r = subprocess.run(["curl", "-sS", "--http1.1", "--retry", "3",
+                            "--retry-delay", "5", "-G",
+                            "--data-urlencode", f"query={q}",
+                            "--data-urlencode", "format=fasta",
+                            "--data-urlencode", "compressed=true",
+                            "-o", gz,
+                            "https://rest.uniprot.org/uniprotkb/stream"], timeout=1800)
+        if r.returncode == 0 and os.path.exists(gz) and os.path.getsize(gz) > 1000:
+            break
+        last = r.returncode
+        log(f"  attempt {attempt+1} failed (curl exit {last}); retrying ...")
+        time.sleep(5)
+    else:
+        raise RuntimeError(f"proteome download failed after 3 attempts (curl exit {last})")
+    subprocess.run(["gunzip", "-f", gz], check=True)
 
 
 def blast(query, db, out, evalue, max_targets=1):
@@ -45,7 +58,9 @@ def main():
 
     query = RESULTS / "01_hypothetical.fasta"
     ref = RESULTS / "02_reference_proteome.fasta"
-    fetch_proteome(oc["reference_proteome"], oc["species_taxon_id"], ref)
+    fetch_proteome(oc.get("reference_proteome"), oc["species_taxon_id"], ref)
+    if not oc.get("reference_proteome"):
+        log("no reference_proteome set -- pass 1 searches the whole species set")
 
     db = RESULTS / "02_ref_db"
     subprocess.run(["makeblastdb", "-in", str(ref), "-dbtype", "prot", "-out", str(db)],
@@ -76,7 +91,7 @@ def main():
     # NO_ORTHOLOG in step 03 rather than being properly classified.
     all_entries = set(read_fasta(query).keys())
     missing = sorted(all_entries - set(best))
-    if missing and oc.get("species_taxon_id"):
+    if missing and oc.get("species_taxon_id") and oc.get("reference_proteome"):
         log(f"pass 2: {len(missing)} unmapped -- falling back to species-wide search ...")
         sp_fasta = RESULTS / "02_species_proteome.fasta"
         fetch_proteome(None, oc["species_taxon_id"], sp_fasta)

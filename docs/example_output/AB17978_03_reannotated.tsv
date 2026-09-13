@@ -1,0 +1,1142 @@
+entry	product	length	accession	identity	coverage	ortholog_source	tier	uniprot_name	uniprot_gene	uniprot_reviewed	annotation_class
+A1S_0011	hypothetical protein	111	V5V8D5	100.0	100.0	02_blast_hits	strong_ortholog	Iron-sulfur cluster insertion protein ErpA	erpA ABUW_0011	unreviewed	NAMED_function_unreviewed
+A1S_0013	hypothetical protein	375	A0ABX6C9Z8	99.7	100.0	02_blast_hits	strong_ortholog	Anhydro-N-acetylmuramic acid kinase (EC 2.7.1.170) (AnhMurNAc kinase)	anmK FQU82_00002	unreviewed	NAMED_function_unreviewed
+A1S_3477	hypothetical protein	387	H6VX65	100.0	100.0	02_blast_hits	strong_ortholog	FinQ	AUO97_06100 FJU42_19510 FPK87_19885	unreviewed	NAMED_function_unreviewed
+A1S_0015	hypothetical protein	500	H6VX66	100.0	100.0	02_blast_hits	strong_ortholog	Zeta toxin	AUO97_06095 CBE85_17495 CPI82_16880 EJ062_16860 FJU42_19505 FPK87_19880 G3N53_14175 J6E47_20615 LV35_03005	unreviewed	NAMED_function_unreviewed
+A1S_3478	hypothetical protein	75	H6VX69	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein		unreviewed	TRULY_UNCHARACTERIZED
+A1S_3479	hypothetical protein	45					no_ortholog				NO_ORTHOLOG
+A1S_0043	hypothetical protein	722	A0A7U3Y3V6	98.6	100.0	02_blast_hits	strong_ortholog	Phospholipase C, phosphocholine-specific	AB57_0084	unreviewed	NAMED_function_unreviewed
+A1S_3480	hypothetical protein	55	A0ABX6CAG9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00127	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3481	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_3482	hypothetical protein	363	V5RCU9	99.4	100.0	02_blast_hits	strong_ortholog	Glycosyltransferase (Gtr7)	gtr7 CBE85_17065 GNY86_12950	unreviewed	NAMED_function_unreviewed
+A1S_3483	hypothetical protein	346	A0ABX6CBE2	100.0	100.0	02_blast_hits	strong_ortholog	Wzy	wzy FQU82_00144	unreviewed	NAMED_function_unreviewed
+A1S_0060	hypothetical protein	275	A0ABX6CAH0	99.6	100.0	02_blast_hits	strong_ortholog	Gtr9 (EC 2.4.1.303)	gtr9 FQU82_00146	unreviewed	NAMED_function_unreviewed
+A1S_3484	hypothetical protein	67	V5RE03	92.4	98.5	02_blast_hits	strong_ortholog	UDP-glucose 6-dehydrogenase (EC 1.1.1.22)	ugd	unreviewed	NAMED_function_unreviewed
+A1S_0066	hypothetical protein	456	V5RAW2	100.0	100.0	02_blast_hits	strong_ortholog	phosphomannomutase (EC 5.4.2.8)	pgm AUO97_06870	unreviewed	NAMED_function_unreviewed
+A1S_0077	hypothetical protein	822					no_ortholog				NO_ORTHOLOG
+A1S_0078	hypothetical membrane protein	74	A0ABX6CAW5	100.0	94.6	02_blast_hits	strong_ortholog	DUF4126 domain-containing protein	FQU82_00165	unreviewed	NAMED_function_unreviewed
+A1S_3485	hypothetical protein	108	A0ABX6CAW5	99.1	100.0	02_blast_hits	strong_ortholog	DUF4126 domain-containing protein	FQU82_00165	unreviewed	NAMED_function_unreviewed
+A1S_0079	hypothetical protein	169					no_ortholog				NO_ORTHOLOG
+A1S_3486	hypothetical protein	78	A0ABX6CBM8	94.9	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_00168	unreviewed	NAMED_function_unreviewed
+A1S_0086	hypothetical protein	276					no_ortholog				NO_ORTHOLOG
+A1S_0088	hypothetical protein	233	V5VHT8	99.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3796	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0090	hypothetical protein	124	A0ABX6CAL2	100.0	100.0	02_blast_hits	strong_ortholog	Regulator of ribonuclease activity B domain-containing protein	FQU82_00178	unreviewed	NAMED_function_unreviewed
+A1S_0091	hypothetical protein	126	A0ABX6CAK8	98.4	100.0	02_blast_hits	strong_ortholog	SnoaL-like domain-containing protein	FQU82_00179	unreviewed	NAMED_function_unreviewed
+A1S_0097	hypothetical protein	119	V5VHN1	99.2	100.0	02_blast_hits	strong_ortholog	Endoribonuclease L-PSP family protein	ABUW_3787	unreviewed	NAMED_function_unreviewed
+A1S_0110	hypothetical protein	121	A0ABX6CAN3	98.3	100.0	02_blast_hits	strong_ortholog	DUF4902 domain-containing protein	FQU82_00197	unreviewed	NAMED_function_unreviewed
+A1S_0117	hypothetical protein	424	A0ABX6CBL0	97.2	100.0	02_blast_hits	strong_ortholog	Porin	FQU82_00204	unreviewed	NAMED_function_unreviewed
+A1S_0118	hypothetical protein	621	A0ABX6CCM6	99.2	100.0	02_blast_hits	strong_ortholog	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)	menH_1 FQU82_00205	unreviewed	NAMED_function_unreviewed
+A1S_0125	hypothetical protein	128	A0A7U3Y409	99.2	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_0165	unreviewed	NAMED_function_unreviewed
+A1S_0129	hypothetical protein	409	V5VHT9	99.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3756	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0133	hypothetical protein	101	A0ABX6CB19	100.0	100.0	02_blast_hits	strong_ortholog	DUF3861 domain-containing protein	FQU82_00220	unreviewed	NAMED_function_unreviewed
+A1S_0135	hypothetical protein	135	V5VHH9	100.0	100.0	02_blast_hits	strong_ortholog	OsmC family protein	ABUW_3750	unreviewed	NAMED_function_unreviewed
+A1S_0137	hypothetical protein	208	A0ABX6CAR8	99.5	100.0	02_blast_hits	strong_ortholog	Cell division protein FtsN	ftsN FQU82_00224	unreviewed	NAMED_function_unreviewed
+A1S_3487	hypothetical protein	57					no_ortholog				NO_ORTHOLOG
+A1S_0157	hypothetical protein	160					no_ortholog				NO_ORTHOLOG
+A1S_0158	hypothetical protein	199	V5VJ35	99.5	100.0	02_blast_hits	strong_ortholog	Lipoprotein, putative	ABUW_3730	unreviewed	NAMED_function_unreviewed
+A1S_0167	hypothetical protein	384	A0A7U4DF81	99.0	100.0	02_blast_hits	strong_ortholog	Peptidoglycan-binding protein LysM	AB57_0203	unreviewed	NAMED_function_unreviewed
+A1S_0169	hypothetical protein	100	V5VJ27	99.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3720	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0171	hypothetical protein	68	V5VHP0	98.5	100.0	02_blast_hits	strong_ortholog	DUF4199 domain-containing protein	ABUW_3718	unreviewed	NAMED_function_unreviewed
+A1S_3488	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_0172	hypothetical protein	404	A0A0D5YME3	99.0	100.0	02_blast_hits	strong_ortholog	ER-bound oxygenase mpaB/mpaB'/Rubber oxygenase catalytic domain-containing protein	ABUW_3717	unreviewed	NAMED_function_unreviewed
+A1S_0178	hypothetical protein	193	A0ABX6CAV3	100.0	83.9	02_blast_hits	strong_ortholog	Transglycosylase SLT domain-containing protein	FQU82_00264	unreviewed	NAMED_function_unreviewed
+A1S_0182	hypothetical protein	419	A0A0D5YN56	99.0	100.0	02_blast_hits	strong_ortholog	Glyceropghosphoryl diester phosphodiesterase	ABUW_3704	unreviewed	NAMED_function_unreviewed
+A1S_0183	hypothetical protein	792	A0ABX6CAX9	100.0	100.0	02_blast_hits	strong_ortholog	Radical SAM core domain-containing protein	FQU82_00269	unreviewed	NAMED_function_unreviewed
+A1S_0184	hypothetical protein	166	V5VHD4	98.8	100.0	02_blast_hits	strong_ortholog	DUF2726 domain-containing protein	ABUW_3702	unreviewed	NAMED_function_unreviewed
+A1S_0185	hypothetical protein	117	A0A7U4DF85	100.0	100.0	02_blast_hits	strong_ortholog	RidA family protein	AB57_0222	unreviewed	NAMED_function_unreviewed
+A1S_3489	hypothetical protein	35	A0A0D5YM17	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3700	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0189	hypothetical protein	207	V5VHC7	100.0	100.0	02_blast_hits	strong_ortholog	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	ABUW_3696	unreviewed	NAMED_function_unreviewed
+A1S_0191	hypothetical protein	155	A0A7U4DF91	98.1	100.0	02_blast_hits	strong_ortholog	SEC-C motif-containing protein	AB57_0229	unreviewed	NAMED_function_unreviewed
+A1S_0203	hypothetical protein	294	A0ABX6CCV4	92.2	100.0	02_blast_hits	strong_ortholog	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	dapA_1 FQU82_00287	unreviewed	NAMED_function_unreviewed
+A1S_0204	hypothetical protein	258	V5VHL0	99.2	100.0	02_blast_hits	strong_ortholog	Class II aldolase/adducin domain protein	ABUW_3681	unreviewed	NAMED_function_unreviewed
+A1S_0205	hypothetical protein	470	A0ABX6CAZ3	98.9	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional regulatory protein GabR	gabR_1 FQU82_00289	unreviewed	NAMED_function_unreviewed
+A1S_0207	hypothetical protein	150	K4P7F5	100.0	94.7	02_blast_hits	strong_ortholog	Heteromeric transposase endonuclease subunit TnsA (TniC) (Transposase protein A)	tniC CBE85_18080 EJ062_01085 F2P40_20015 G3N53_17000 IAG11_05495 J6E47_18360 SAMEA104305318_03748	unreviewed	NAMED_function_unreviewed
+A1S_0208	hypothetical protein	320	F1JZR6	98.4	100.0	02_blast_hits	strong_ortholog	Transposase		unreviewed	NAMED_function_unreviewed
+A1S_0212	hypothetical protein	371	G3K3T6	100.0	100.0	02_blast_hits	strong_ortholog	TniD (Transposition protein)	tniD	unreviewed	NAMED_function_unreviewed
+A1S_0213	hypothetical protein	304	G3K3T7	100.0	100.0	02_blast_hits	strong_ortholog	TniE	tniE	unreviewed	NAMED_function_unreviewed
+A1S_3490	hypothetical protein	123	C9D9L3	100.0	100.0	02_blast_hits	strong_ortholog	Hypothetical transposition protein (ORF)	AB57_0559 AUO97_06130 AUO97_08510 B9W25_18170 CBE85_18055 EJ062_01110 F2P40_20040 FJU42_19540 FPK63_11895 FPK87_13355 FQZ18_18075 G3N53_17025 IAG11_05470 J6E47_18335 J6E47_20840 MKP18_004002 MKP18_004003 SAMEA104305318_03753	unreviewed	NAMED_function_unreviewed
+A1S_3491	hypothetical protein	598	E7EII9	100.0	100.0	02_blast_hits	strong_ortholog	ORF4	orf4 AB57_0548 AUO97_06110 AUO97_08530 B9W25_13580 CBE85_16710 EA686_04780 EJ062_10010 F2P40_16700 FJU42_19520 FPK87_13375 FQZ18_18055 G3N53_15115 IAG11_05450 J6E47_18285 LV35_04012 MKP18_004006 MKP18_004007 SAMEA104305318_02493	unreviewed	NAMED_function_unreviewed
+A1S_0217	hypothetical protein	75	V5VIZ9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3656	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0221	hypothetical protein	361	A0A7U3Y418	97.5	100.0	02_blast_hits	strong_ortholog	Riboflavin biosynthesis protein RibD [Includes: Diaminohydroxyphosphoribosylaminopyrimidine deaminase (DRAP deaminase) (EC 3.5.4.26) (Riboflavin-specific deaminase); 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) (HTP reductase)]	AB57_0312	unreviewed	NAMED_function_unreviewed
+A1S_0224	hypothetical protein	72	V5VHK5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3649	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0225	hypothetical protein	211	A0ABX6CB16	100.0	100.0	02_blast_hits	strong_ortholog	ATPase	FQU82_00299	unreviewed	NAMED_function_unreviewed
+A1S_0244	hypothetical protein	83	V5VIX9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3631	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0252	hypothetical protein	351	A0A7U3Y457	97.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_0341	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0257	hypothetical protein	89	V5VH75	100.0	100.0	02_blast_hits	strong_ortholog	Probable Fe(2+)-trafficking protein	ABUW_3618	unreviewed	NAMED_function_unreviewed
+A1S_0264	hypothetical protein	169	A0A7U3Y4B1	100.0	97.6	02_blast_hits	strong_ortholog	Uroporphyrinogen-III C-methyltransferase	AB57_0352	unreviewed	NAMED_function_unreviewed
+A1S_0265	hypothetical protein	72	A0A7U3Y4B1	98.6	100.0	02_blast_hits	strong_ortholog	Uroporphyrinogen-III C-methyltransferase	AB57_0352	unreviewed	NAMED_function_unreviewed
+A1S_0272	hypothetical protein	209	A0ABX6CB56	99.5	100.0	02_blast_hits	strong_ortholog	FHA domain-containing protein	FQU82_00342	unreviewed	NAMED_function_unreviewed
+A1S_3492	hypothetical protein	121	V5VH81	99.2	100.0	02_blast_hits	strong_ortholog	Lipoprotein, putative	ABUW_3588	unreviewed	NAMED_function_unreviewed
+A1S_3493	hypothetical protein	102	V5VIU6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3587	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0289	hypothetical protein	165	V5VHN0	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3586	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0290	hypothetical protein	290	A0A7U3Y4C5	98.6	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_0374	unreviewed	NAMED_function_unreviewed
+A1S_0296	hypothetical protein	215	A0A7U3Y468	98.1	100.0	02_blast_hits	strong_ortholog	Selenocysteine synthase	AB57_0379	unreviewed	NAMED_function_unreviewed
+A1S_0297	hypothetical protein	379	A0A7U4DFG3	99.7	100.0	02_blast_hits	strong_ortholog	Selenocysteine synthase	AB57_0380	unreviewed	NAMED_function_unreviewed
+A1S_0299	hypothetical protein	252	A0ABX6CB72	99.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00370	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0301	hypothetical protein	185	A0A7U3Y4B0	98.4	100.0	02_blast_hits	strong_ortholog	Signal peptide-containing protein	AB57_0384	unreviewed	NAMED_function_unreviewed
+A1S_0302	hypothetical protein	238					no_ortholog				NO_ORTHOLOG
+A1S_0304	hypothetical protein	992					no_ortholog				NO_ORTHOLOG
+A1S_0309	hypothetical protein	176	A0A7U3Y459	100.0	100.0	02_blast_hits	strong_ortholog	CHAP domain-containing protein	AB57_0390	unreviewed	NAMED_function_unreviewed
+A1S_3494	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_3495	hypothetical protein	68	V5VHD0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3561	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0319	hypothetical protein	146	V5VH49	100.0	100.0	02_blast_hits	strong_ortholog	Putative pre-16S rRNA nuclease (EC 3.1.-.-)	ABUW_3559	unreviewed	NAMED_function_unreviewed
+A1S_0320	hypothetical protein	179	B7I3Q5	100.0	100.0	02_blast_hits	strong_ortholog	UPF0301 protein AB57_0401	AB57_0401	reviewed	CHARACTERIZED_reviewed
+A1S_0322	hypothetical protein	436	A0ABX6CBA7	99.3	100.0	02_blast_hits	strong_ortholog	Tetratricopeptide repeat protein	FQU82_00392	unreviewed	NAMED_function_unreviewed
+A1S_0323	hypothetical protein	108	V5VH09	100.0	100.0	02_blast_hits	strong_ortholog	Pyrimidine/purine nucleoside phosphorylase (EC 2.4.2.1) (EC 2.4.2.2) (Adenosine phosphorylase) (Cytidine phosphorylase) (Guanosine phosphorylase) (Inosine phosphorylase) (Thymidine phosphorylase) (Uridine phosphorylase) (Xanthosine phosphorylase)	ppnP ABUW_3555	unreviewed	NAMED_function_unreviewed
+A1S_0334	hypothetical protein	174	V5VHB6	100.0	100.0	02_blast_hits	strong_ortholog	Ribosome maturation factor RimP	rimP ABUW_3543	unreviewed	NAMED_function_unreviewed
+A1S_0346	hypothetical protein	257	V5VH18	98.8	100.0	02_blast_hits	strong_ortholog	Histidine biosynthesis bifunctional protein HisIE [Includes: Phosphoribosyl-AMP cyclohydrolase (PRA-CH) (EC 3.5.4.19); Phosphoribosyl-ATP pyrophosphatase (PRA-PH) (EC 3.6.1.31)]	hisIE hisI ABUW_3531	unreviewed	NAMED_function_unreviewed
+A1S_0349	hypothetical protein	222	A0ABX6CBR0	100.0	100.0	02_blast_hits	strong_ortholog	Ubiquinone biosynthesis accessory factor UbiJ C-terminal conserved region domain-containing protein	FQU82_00419	unreviewed	NAMED_function_unreviewed
+A1S_0351	hypothetical protein	235	A0A7U4DFD7	100.0	100.0	02_blast_hits	strong_ortholog	DUF8198 domain-containing protein	AB57_0430	unreviewed	NAMED_function_unreviewed
+A1S_0353	hypothetical protein	168	A0ABX6CDJ5	99.4	100.0	02_blast_hits	strong_ortholog	DUF697 domain-containing protein	FQU82_00423	unreviewed	NAMED_function_unreviewed
+A1S_0363	hypothetical protein	109	V5VH02	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3516	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0376	hypothetical protein	85	V5VHF8	100.0	100.0	02_blast_hits	strong_ortholog	Sulfurtransferase TusA	sirA ABUW_3504	unreviewed	NAMED_function_unreviewed
+A1S_3496	hypothetical protein	126	A0A7U3Y4H6	99.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_0454	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0379	hypothetical protein	203	V5VGY5	99.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3501	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0381	hypothetical protein	334	A0A7U4DFF1	99.4	100.0	02_blast_hits	strong_ortholog	DUF4062 domain-containing protein	AB57_0459	unreviewed	NAMED_function_unreviewed
+A1S_0383	hypothetical protein	214	A0ABX6CBU0	100.0	100.0	02_blast_hits	strong_ortholog	Hydroxyacylglutathione hydrolase GloC (EC 3.1.2.6)	gloC FQU82_00449	unreviewed	NAMED_function_unreviewed
+A1S_0388	hypothetical protein	136	A0ABX6CDN1	100.0	100.0	02_blast_hits	strong_ortholog	CENP-V/GFA domain-containing protein	FQU82_00453	unreviewed	NAMED_function_unreviewed
+A1S_0389	hypothetical protein	126	A3M1Q4	100.0	100.0	02_blast_hits	strong_ortholog	Fluoride-specific ion channel FluC	fluC crcB A1S_0389	reviewed	CHARACTERIZED_reviewed
+A1S_0419	hypothetical protein	169	A0ABX6CBK6	99.4	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_00486	unreviewed	NAMED_function_unreviewed
+A1S_0425	hypothetical protein	419	A0ABX6CBK8	97.6	100.0	02_blast_hits	strong_ortholog	Type IV pili machinery localization factor FimV N-terminal TPR region domain-containing protein	FQU82_00494	unreviewed	NAMED_function_unreviewed
+A1S_0426	hypothetical protein	454	A0ABX6CBK2	97.4	100.0	02_blast_hits	strong_ortholog	FimV N-terminal domain-containing protein	FQU82_00495	unreviewed	NAMED_function_unreviewed
+A1S_0434	hypothetical protein	81	V5VH99	100.0	100.0	02_blast_hits	strong_ortholog	SlyX superfamily	ABUW_3444	unreviewed	NAMED_function_unreviewed
+A1S_0435	hypothetical protein	76					no_ortholog				NO_ORTHOLOG
+A1S_0437	hypothetical protein	125	V5VGP8	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulatory protein	ABUW_3442	unreviewed	NAMED_function_unreviewed
+A1S_0438	hypothetical protein	149	V5VGR9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3441	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0440	hypothetical protein	252	A0ABX6CBM4	98.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00508	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3497	hypothetical protein	55	A0A7U4DFG8	98.1	98.2	02_blast_hits	strong_ortholog	RNA-binding protein	AB57_0526	unreviewed	NAMED_function_unreviewed
+A1S_0444	hypothetical protein	177	V5VH88	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3434	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0445	hypothetical protein	92	V5VH06	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3433	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0452	hypothetical protein	251	A0A7U3Y4C7	99.6	100.0	02_blast_hits	strong_ortholog	TonB-dependent receptor	AB57_0535	unreviewed	NAMED_function_unreviewed
+A1S_0461	hypothetical protein	259	A0ABX6CC32	99.6	100.0	02_blast_hits	strong_ortholog	Serine/threonine protein phosphatase	FQU82_00541	unreviewed	NAMED_function_unreviewed
+A1S_0468	hypothetical protein	207	A3M1X9	100.0	100.0	02_blast_hits	strong_ortholog	dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)	A1S_0468	reviewed	CHARACTERIZED_reviewed
+A1S_0469	hypothetical protein	195	V5VGY2	100.0	100.0	02_blast_hits	strong_ortholog	Sel1 domain protein	ABUW_3408	unreviewed	NAMED_function_unreviewed
+A1S_3498	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_0484	hypothetical protein	206	A0ABX6CC34	100.0	100.0	02_blast_hits	strong_ortholog	2-dehydro-3-deoxy-phosphogluconate aldolase (EC 4.1.2.14)	eda FQU82_00564	unreviewed	NAMED_function_unreviewed
+A1S_0491	hypothetical protein	280	A0A7U3Y4L8	98.9	100.0	02_blast_hits	strong_ortholog	Leucine carboxyl methyltransferase	AB57_0594	unreviewed	NAMED_function_unreviewed
+A1S_0497	hypothetical protein	84	V5VGL3	92.1	75.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3382	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0501	hypothetical protein	263	V5VGI9	100.0	100.0	02_blast_hits	strong_ortholog	Cytoskeleton protein RodZ-like C-terminal domain-containing protein	ABUW_3378	unreviewed	NAMED_function_unreviewed
+A1S_0504	hypothetical protein	232	V5VH33	100.0	100.0	02_blast_hits	strong_ortholog	Ancillary SecYEG translocon subunit	ABUW_3375	unreviewed	NAMED_function_unreviewed
+A1S_0505	hypothetical protein	381	V5VGU9	100.0	100.0	02_blast_hits	strong_ortholog	Outer membrane protein assembly factor BamB	bamB ABUW_3374	unreviewed	NAMED_function_unreviewed
+A1S_0507	hypothetical protein	204	A0ABF7PGN2	99.0	100.0	02_blast_hits	strong_ortholog	Beta-ketoacyl synthase-like N-terminal domain-containing protein	AB237_2962	unreviewed	NAMED_function_unreviewed
+A1S_3499	hypothetical protein	36	A0A059ZUB2	97.2	100.0	02_blast_hits	strong_ortholog	Acyl carrier protein	AUO97_09975 B9W25_05110 CV954_017230 EJ062_03750 FPK63_00565 FPK87_00565 FQZ18_16550	unreviewed	NAMED_function_unreviewed
+A1S_0512	hypothetical protein	552					no_ortholog				NO_ORTHOLOG
+A1S_0514	hypothetical protein	308					no_ortholog				NO_ORTHOLOG
+A1S_0516	hypothetical protein	142					no_ortholog				NO_ORTHOLOG
+A1S_0517	hypothetical protein	126					no_ortholog				NO_ORTHOLOG
+A1S_0518	hypothetical protein	209					no_ortholog				NO_ORTHOLOG
+A1S_0521	hypothetical protein	181					no_ortholog				NO_ORTHOLOG
+A1S_0522	hypothetical protein	400	A0ABF7PGP6	95.0	100.0	02_blast_hits	strong_ortholog	Beta-ketoacyl-acyl-carrier-protein synthase I (EC 2.3.1.41)	AB237_2951	unreviewed	NAMED_function_unreviewed
+A1S_0524	hypothetical protein	241	A0ABX6CCK8	37.0	98.8	02_blast_hits	weak_ortholog	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	fabG_2 FQU82_00822	unreviewed	NAMED_function_unreviewed
+A1S_0525	hypothetical protein	408	A0A7U3XWE2	99.3	100.0	02_blast_hits	strong_ortholog	Beta-ketoacyl-acyl-carrier-protein synthase I (EC 2.3.1.41)	ACICU_00534	unreviewed	NAMED_function_unreviewed
+A1S_0526	hypothetical protein	144					no_ortholog				NO_ORTHOLOG
+A1S_0530	hypothetical protein	138	V5VGU3	100.0	100.0	02_blast_hits	strong_ortholog	Rhodanese domain protein	ABUW_3369	unreviewed	NAMED_function_unreviewed
+A1S_3500	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_3501	hypothetical protein	111	A0A7U3Y4R5	98.2	100.0	02_blast_hits	strong_ortholog	DUF4124 domain-containing protein	AB57_0623	unreviewed	NAMED_function_unreviewed
+A1S_3502	hypothetical protein	42					no_ortholog				NO_ORTHOLOG
+A1S_0549	hypothetical protein	287	A0A0D5YLG6	99.3	100.0	02_blast_hits	strong_ortholog	Heme oxygenase-like protein	ABUW_3351	unreviewed	NAMED_function_unreviewed
+A1S_0551	hypothetical protein	529					no_ortholog				NO_ORTHOLOG
+A1S_0552	hypothetical protein	286					no_ortholog				NO_ORTHOLOG
+A1S_0553	hypothetical protein	355					no_ortholog				NO_ORTHOLOG
+A1S_3503	hypothetical protein	96	A0ABX6CBZ8	92.2	93.8	02_blast_hits	strong_ortholog	DUF3298 domain-containing protein	FQU82_00608	unreviewed	NAMED_function_unreviewed
+A1S_0555	hypothetical protein	158	A0ABX6CBZ8	99.4	100.0	02_blast_hits	strong_ortholog	DUF3298 domain-containing protein	FQU82_00608	unreviewed	NAMED_function_unreviewed
+A1S_0556	hypothetical protein	313	A0A7U4DFI5	99.0	100.0	02_blast_hits	strong_ortholog	DUF3298 domain-containing protein	AB57_0634	unreviewed	NAMED_function_unreviewed
+A1S_0557	hypothetical protein	276	A0A0D5YME0	97.8	97.5	02_blast_hits	strong_ortholog	Hydrolase, TatD family	ABUW_3347	unreviewed	NAMED_function_unreviewed
+A1S_0561	hypothetical protein	169	V5VGG0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3343	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0564	hypothetical protein	135	A0ABX6CCX4	97.8	100.0	02_blast_hits	strong_ortholog	YjgF family translation initiation inhibitor	FQU82_00619	unreviewed	NAMED_function_unreviewed
+A1S_0570	hypothetical protein	133	V5VGR1	99.2	100.0	02_blast_hits	strong_ortholog	Ribosomal silencing factor RsfS	rsfS ABUW_3310	unreviewed	NAMED_function_unreviewed
+A1S_0576	hypothetical protein	272	V5VGE6	99.6	100.0	02_blast_hits	strong_ortholog	Predicted 3'-5' exonuclease PolB-like domain-containing protein	ABUW_3304	unreviewed	NAMED_function_unreviewed
+A1S_0581	hypothetical protein (MazG family)	268	A0ABX6CER6	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoside triphosphate pyrophosphohydrolase (EC 3.6.1.8)	mazG FQU82_00635	unreviewed	NAMED_function_unreviewed
+A1S_0588	hypothetical protein	283	V5VGD7	100.0	100.0	02_blast_hits	strong_ortholog	Protein in PtsN-ptsO intergenic region	ABUW_3294	unreviewed	NAMED_function_unreviewed
+A1S_0590	hypothetical protein	178	A0ABX6CC28	100.0	100.0	02_blast_hits	strong_ortholog	Ribosome-associated protein	FQU82_00643	unreviewed	NAMED_function_unreviewed
+A1S_3504	hypothetical protein	57					no_ortholog				NO_ORTHOLOG
+A1S_3505	hypothetical protein	63	A0ABX6CDF2	96.6	92.1	02_blast_hits	strong_ortholog	NADAR domain-containing protein	FQU82_00652	unreviewed	NAMED_function_unreviewed
+A1S_0598	hypothetical protein	105	A0ABX6CDF2	97.1	100.0	02_blast_hits	strong_ortholog	NADAR domain-containing protein	FQU82_00652	unreviewed	NAMED_function_unreviewed
+A1S_0599	hypothetical protein	167	A0ABX6CC53	97.6	100.0	02_blast_hits	strong_ortholog	N-acetyltransferase domain-containing protein	FQU82_00653	unreviewed	NAMED_function_unreviewed
+A1S_0600	hypothetical protein	189	A0ABX6CCC1	97.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00654	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3506	hypothetical protein	83					no_ortholog				NO_ORTHOLOG
+A1S_0606	hypothetical protein	108	V5VGM8	100.0	100.0	02_blast_hits	strong_ortholog	Thioredoxin	trxA trx A7M90_00090 ABR2091_0633 APD06_14520 APD33_09665 AUO97_10470 B9W25_05585 B9X95_03020 C5U34_04145 CBE85_16175 CPI82_17410 CV954_016750 DOL94_09865 EA686_03725 EA722_13720 EJ062_03285 F2P40_14880 F4T83_09870 FJU42_08565 FPK63_00090 FPK81_08660 FPK87_00090 FQZ18_16075 G3N53_03035 GNY86_07950 GSE42_03270 IAG11_09315 IHV20_04100 IMO23_03100 J6E47_16335 JHZ39_000469 LV35_02204 P9867_003245 P9867_10895 SAMEA104305318_00023 SAMEA4394745_03115	unreviewed	NAMED_function_unreviewed
+A1S_0615	hypothetical protein	273	V5VGV2	100.0	100.0	02_blast_hits	strong_ortholog	DUF432 domain-containing protein	ABUW_3267	unreviewed	NAMED_function_unreviewed
+A1S_0617	hypothetical protein	143	A0ABX6CDY6	100.0	100.0	02_blast_hits	strong_ortholog	Organic hydroperoxide resistance protein OhrB	ohrB FQU82_00671	unreviewed	NAMED_function_unreviewed
+A1S_0618	hypothetical protein	145	A0ABX6CC46	100.0	100.0	02_blast_hits	strong_ortholog	Organic hydroperoxide resistance transcriptional regulator	ohrR FQU82_00672	unreviewed	NAMED_function_unreviewed
+A1S_3507	hypothetical protein	125	V5VI47	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3263	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0626	hypothetical protein	299	A0ABX6CCP8	33.7	110.0	02_blast_hits	weak_ortholog	YcaO domain-containing protein	FQU82_00081	unreviewed	NAMED_function_unreviewed
+A1S_3508	hypothetical protein	161					no_ortholog				NO_ORTHOLOG
+A1S_3509	hypothetical protein	189	A0A1E3M4M0	100.0	100.0	02_blast_hits	strong_ortholog	TetR family transcriptional regulator (TetR/AcrR family transcriptional regulator)	AUO97_08420 FJU42_13590	unreviewed	NAMED_function_unreviewed
+A1S_3510	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3511	hypothetical protein	263					no_ortholog				NO_ORTHOLOG
+A1S_0627	hypothetical protein	460					no_ortholog				NO_ORTHOLOG
+A1S_3512	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_3513	hypothetical protein	99					no_ortholog				NO_ORTHOLOG
+A1S_3514	hypothetical protein	93					no_ortholog				NO_ORTHOLOG
+A1S_3515	hypothetical protein	574					no_ortholog				NO_ORTHOLOG
+A1S_3516	hypothetical protein	51					no_ortholog				NO_ORTHOLOG
+A1S_3517	hypothetical protein	216					no_ortholog				NO_ORTHOLOG
+A1S_3518	hypothetical protein	458					no_ortholog				NO_ORTHOLOG
+A1S_0629	hypothetical protein	1516					no_ortholog				NO_ORTHOLOG
+A1S_3519	hypothetical protein	504					no_ortholog				NO_ORTHOLOG
+A1S_3520	hypothetical protein	683					no_ortholog				NO_ORTHOLOG
+A1S_3521	hypothetical protein	216					no_ortholog				NO_ORTHOLOG
+A1S_3522	hypothetical protein	348					no_ortholog				NO_ORTHOLOG
+A1S_3523	hypothetical protein	263					no_ortholog				NO_ORTHOLOG
+A1S_0630	hypothetical protein	375					no_ortholog				NO_ORTHOLOG
+A1S_0631	hypothetical protein	377					no_ortholog				NO_ORTHOLOG
+A1S_3524	hypothetical protein	217					no_ortholog				NO_ORTHOLOG
+A1S_3525	hypothetical protein	497					no_ortholog				NO_ORTHOLOG
+A1S_3526	hypothetical protein	165					no_ortholog				NO_ORTHOLOG
+A1S_3527	hypothetical protein	189					no_ortholog				NO_ORTHOLOG
+A1S_0633	hypothetical protein	884					no_ortholog				NO_ORTHOLOG
+A1S_0634	hypothetical protein	610					no_ortholog				NO_ORTHOLOG
+A1S_3528	hypothetical protein	94					no_ortholog				NO_ORTHOLOG
+A1S_0635	hypothetical bacteriophage protein	445					no_ortholog				NO_ORTHOLOG
+A1S_0638	hypothetical protein	331					no_ortholog				NO_ORTHOLOG
+A1S_3529	hypothetical protein	293					no_ortholog				NO_ORTHOLOG
+A1S_3530	hypothetical protein	63					no_ortholog				NO_ORTHOLOG
+A1S_3531	hypothetical protein	105					no_ortholog				NO_ORTHOLOG
+A1S_3532	hypothetical protein	322					no_ortholog				NO_ORTHOLOG
+A1S_3533	hypothetical protein	285					no_ortholog				NO_ORTHOLOG
+A1S_0640	hypothetical protein	314					no_ortholog				NO_ORTHOLOG
+A1S_0641	hypothetical protein	456					no_ortholog				NO_ORTHOLOG
+A1S_3534	hypothetical protein	249					no_ortholog				NO_ORTHOLOG
+A1S_0642	hypothetical protein	352					no_ortholog				NO_ORTHOLOG
+A1S_0643	hypothetical protein	429	A0A7U3Y5S0	33.5	52.2	02_blast_hits	weak_ortholog	Twitching motility protein PilT	AB57_0945	unreviewed	NAMED_function_unreviewed
+A1S_0644	hypothetical protein	272					no_ortholog				NO_ORTHOLOG
+A1S_3535	hypothetical protein	156					no_ortholog				NO_ORTHOLOG
+A1S_3536	hypothetical protein	634					no_ortholog				NO_ORTHOLOG
+A1S_3537	hypothetical protein	110					no_ortholog				NO_ORTHOLOG
+A1S_3538	hypothetical protein	100					no_ortholog				NO_ORTHOLOG
+A1S_3539	hypothetical protein	238					no_ortholog				NO_ORTHOLOG
+A1S_0645	hypothetical protein	376					no_ortholog				NO_ORTHOLOG
+A1S_3540	hypothetical protein	543					no_ortholog				NO_ORTHOLOG
+A1S_3541	hypothetical protein	284					no_ortholog				NO_ORTHOLOG
+A1S_3542	hypothetical protein	192					no_ortholog				NO_ORTHOLOG
+A1S_3543	hypothetical protein	139					no_ortholog				NO_ORTHOLOG
+A1S_3544	hypothetical protein	252					no_ortholog				NO_ORTHOLOG
+A1S_3545	hypothetical protein	339					no_ortholog				NO_ORTHOLOG
+A1S_3546	hypothetical protein	136					no_ortholog				NO_ORTHOLOG
+A1S_3547	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_3548	hypothetical protein	390					no_ortholog				NO_ORTHOLOG
+A1S_3549	hypothetical protein	97					no_ortholog				NO_ORTHOLOG
+A1S_3550	hypothetical protein	209					no_ortholog				NO_ORTHOLOG
+A1S_0648	hypothetical protein	153	A0A076G3P3	49.3	98.0	02_blast_hits	weak_ortholog	Micrococcal nuclease (EC 3.1.31.1)	M3Q_pABCC89	unreviewed	NAMED_function_unreviewed
+A1S_3551	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_3552	hypothetical protein	243					no_ortholog				NO_ORTHOLOG
+A1S_3553	hypothetical protein	97					no_ortholog				NO_ORTHOLOG
+A1S_3554	hypothetical protein	254					no_ortholog				NO_ORTHOLOG
+A1S_3555	hypothetical protein	367					no_ortholog				NO_ORTHOLOG
+A1S_3557	hypothetical protein	595	G5CPI9	100.0	100.0	02_blast_hits	strong_ortholog	Orf4b	orf4b AUO97_07955 B9W25_13535 CBE85_18665 CPI82_16780 EJ062_16805 FJU42_19710 FPK87_13420 FQZ18_18010 G3N53_18915 J6E47_19785 JHZ39_001770 MKP18_003492	unreviewed	NAMED_function_unreviewed
+A1S_3556	hypothetical protein	53					no_ortholog				NO_ORTHOLOG
+A1S_0656	hypothetical protein	309	H8PG23	80.7	98.7	02_blast_hits	weak_ortholog	Probable transposition protein (TniE)	tniE	unreviewed	NAMED_function_unreviewed
+A1S_0659	hypothetical protein	336	A0A7U3Y453	88.1	100.0	02_blast_hits	weak_ortholog	TniD	tniD AB57_06200	unreviewed	NAMED_function_unreviewed
+A1S_3558	hypothetical protein	58					no_ortholog				NO_ORTHOLOG
+A1S_3559	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_0667	hypothetical protein	74	A0ABX6CCR0	100.0	100.0	02_blast_hits	strong_ortholog	Type I toxin-antitoxin system ptaRNA1 family toxin	FQU82_00095	unreviewed	NAMED_function_unreviewed
+A1S_0704	hypothetical protein	90	A0ABX6CCG2	100.0	100.0	02_blast_hits	strong_ortholog	DUF2218 domain-containing protein	FQU82_00704	unreviewed	NAMED_function_unreviewed
+A1S_3560	hypothetical protein	131	A0A0D5YM83	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3229	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0712	hypothetical protein	406	A0A7U3Y5F4	99.5	100.0	02_blast_hits	strong_ortholog	Arginine biosynthesis bifunctional protein ArgJ [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGSase)]	argJ AB57_0761	unreviewed	NAMED_function_unreviewed
+A1S_0725	hypothetical protein	468	A0ABX6CC92	98.7	100.0	02_blast_hits	strong_ortholog	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)	ifcA FQU82_00728	unreviewed	NAMED_function_unreviewed
+A1S_0736	hypothetical protein	328	V5VHZ3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3198	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0741	hypothetical protein	90	A3M2N7	100.0	100.0	02_blast_hits	strong_ortholog	Darcynin 1	A1S_0741	reviewed	CHARACTERIZED_reviewed
+A1S_0743	hypothetical protein	109	A3M2N9	100.0	100.0	02_blast_hits	strong_ortholog	Darcynin 2	A1S_0743	reviewed	CHARACTERIZED_reviewed
+A1S_0745	hypothetical protein	873	A0A7U4DG26	97.1	101.9	02_blast_hits	strong_ortholog	Outermembrane protein exposed to the bacterial surface	AB57_0791	unreviewed	NAMED_function_unreviewed
+A1S_3562	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_3563	hypothetical protein	44	V5VHV7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3184	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0750	hypothetical protein	117	V5VHV3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3179	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0770	hypothetical protein	140	V5VG21	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3159	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3564	hypothetical protein	75	V5VHT3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3158	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3565	hypothetical protein	56	A0ABX6CCS1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00775	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3566	hypothetical protein	51	A0A7U4DG34	100.0	76.5	02_blast_hits	strong_ortholog	1-aminocyclopropane-1-carboxylate deaminase	AB57_0823	unreviewed	NAMED_function_unreviewed
+A1S_3567	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_3568	hypothetical protein	58	A0ABX6CCI4	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_00782	unreviewed	NAMED_function_unreviewed
+A1S_0779	hypothetical protein	166	A0A7U4DG01	98.8	100.0	02_blast_hits	strong_ortholog	Apolipoprotein A1/A4/E domain protein	AB57_0830	unreviewed	NAMED_function_unreviewed
+A1S_0785	hypothetical protein	446	A0ABX6CCT6	57.6	104.3	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_00790	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0788	hypothetical protein	803	A0ABX6CDE2	99.9	100.0	02_blast_hits	strong_ortholog	DUF6160 domain-containing protein	FQU82_00793	unreviewed	NAMED_function_unreviewed
+A1S_3569	hypothetical protein	317	A0ABX6CF57	98.4	100.0	02_blast_hits	strong_ortholog	DUF6160 domain-containing protein	FQU82_00794	unreviewed	NAMED_function_unreviewed
+A1S_0789	hypothetical protein	307	A0ABX6CCH3	99.7	100.0	02_blast_hits	strong_ortholog	tRNA-dihydrouridine(16) synthase (EC 1.3.1.-) (U16-specific dihydrouridine synthase) (U16-specific Dus) (tRNA-dihydrouridine synthase C)	dusC FQU82_00795	unreviewed	NAMED_function_unreviewed
+A1S_0794	hypothetical protein	250	A0ABX6CDA5	98.4	100.0	02_blast_hits	strong_ortholog	Bifunctional ligase/repressor BirA (EC 6.3.4.15)	birA FQU82_00799	unreviewed	NAMED_function_unreviewed
+A1S_3570	hypothetical protein	33	A0A0D5YLR0	97.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3126	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0811	hypothetical protein	198	V5VFW6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	scpB ABUW_3115	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0812	hypothetical protein	255	A0A7U3Y5M0	99.2	100.0	02_blast_hits	strong_ortholog	Segregation and condensation protein A	AB57_0864	unreviewed	NAMED_function_unreviewed
+A1S_0813	hypothetical protein	205	V5VHP3	100.0	100.0	02_blast_hits	strong_ortholog	Sua5/YciO/YrdC/YwlC family protein	ABUW_3113	unreviewed	NAMED_function_unreviewed
+A1S_0814	hypothetical protein	220	V5VGD2	99.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3112	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0815	hypothetical protein	186	A0ABX6CCJ1	100.0	100.0	02_blast_hits	strong_ortholog	Large ribosomal RNA subunit accumulation protein YceD (23S rRNA accumulation protein YceD)	yceD FQU82_00819	unreviewed	NAMED_function_unreviewed
+A1S_0817	hypothetical protein	328	A0ABX6CCJ6	99.7	100.0	02_blast_hits	strong_ortholog	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fabD_1 FQU82_00821	unreviewed	NAMED_function_unreviewed
+A1S_0818	hypothetical protein	244	A0ABX6CCK8	100.0	100.0	02_blast_hits	strong_ortholog	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	fabG_2 FQU82_00822	unreviewed	NAMED_function_unreviewed
+A1S_0821	hypothetical protein	255	A0ABX6CCK6	98.8	100.0	02_blast_hits	strong_ortholog	hydroxymethylpyrimidine kinase (EC 2.7.1.49)	thiD FQU82_00825	unreviewed	NAMED_function_unreviewed
+A1S_3571	hypothetical protein	199	A0A7U3Y5T4	96.9	96.5	02_blast_hits	strong_ortholog	DUF2157 domain-containing protein	AB57_0877	unreviewed	NAMED_function_unreviewed
+A1S_3572	hypothetical protein	291	A0ABX6CCS6	97.6	100.0	02_blast_hits	strong_ortholog	DUF2157 domain-containing protein	FQU82_00828	unreviewed	NAMED_function_unreviewed
+A1S_3573	hypothetical protein	25					no_ortholog				NO_ORTHOLOG
+A1S_0842	hypothetical protein	245	A0ABX6CCM0	99.6	100.0	02_blast_hits	strong_ortholog	Peptidoglycan editing factor PgeF (PG-editing factor)	yfiH FQU82_00844	unreviewed	NAMED_function_unreviewed
+A1S_0857	hypothetical protein	342	A0ABX6CDI6	99.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00859	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0860	hypothetical protein	178	A0ABX6CCN7	100.0	100.0	02_blast_hits	strong_ortholog	Zinc protease	FQU82_00861	unreviewed	NAMED_function_unreviewed
+A1S_0865	hypothetical protein	441	A0ABX6CDH5	99.8	100.0	02_blast_hits	strong_ortholog	EcsC family protein	FQU82_00865	unreviewed	NAMED_function_unreviewed
+A1S_3574	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_3575	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_0878	hypothetical protein	95	V5VHJ4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3051	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0889	hypothetical protein	260	A0ABX6CDL5	100.0	100.0	02_blast_hits	strong_ortholog	L-ornithine N(alpha)-acyltransferase (EC 2.3.2.30)	FQU82_00889	unreviewed	NAMED_function_unreviewed
+A1S_0893	hypothetical protein	107	A0A7U3Y5W8	99.1	100.0	02_blast_hits	strong_ortholog	UPF0125 protein AB57_0941	AB57_0941	unreviewed	NAMED_function_unreviewed
+A1S_0898	hypothetical protein	230	A0ABX6CCT2	98.3	100.0	02_blast_hits	strong_ortholog	Pyridoxal phosphate homeostasis protein (PLP homeostasis protein)	yggS FQU82_00898	unreviewed	NAMED_function_unreviewed
+A1S_0901	hypothetical protein	163	A0ABX6CD42	98.2	100.0	02_blast_hits	strong_ortholog	OsmC/Ohr conserved domain-containing protein	FQU82_00901	unreviewed	NAMED_function_unreviewed
+A1S_0907	hypothetical protein	122	A0A7U4DG50	99.2	100.0	02_blast_hits	strong_ortholog	Thioesterase domain-containing protein	AB57_0955	unreviewed	NAMED_function_unreviewed
+A1S_0911	hypothetical protein	200					no_ortholog				NO_ORTHOLOG
+A1S_0913	hypothetical protein	368					no_ortholog				NO_ORTHOLOG
+A1S_0914	hypothetical protein	242					no_ortholog				NO_ORTHOLOG
+A1S_3576	hypothetical protein	94	A0A7U3Y5S2	95.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_0979	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3577	hypothetical protein	448	A0ABX6CD80	97.3	100.0	02_blast_hits	strong_ortholog	Outer membrane porin, OprD family	FQU82_00947	unreviewed	NAMED_function_unreviewed
+A1S_3578	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_0918	hypothetical protein	57	V5VFL4	100.0	94.7	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2978	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0920	hypothetical protein	637	A0A7U3Y605	98.7	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_0997	unreviewed	NAMED_function_unreviewed
+A1S_3579	hypothetical protein	124	A0A7U4DG45	99.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1000	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3580	hypothetical protein	66	V5VFW8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2965	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0936	hypothetical protein	176	A0ABX6CCY3	100.0	100.0	02_blast_hits	strong_ortholog	YaeQ family protein	yaeQ FQU82_00973	unreviewed	NAMED_function_unreviewed
+A1S_3581	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_0943	hypothetical protein	99	A0A077GHT8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2955	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0946	hypothetical protein	99	A0ABX6CE94	100.0	100.0	02_blast_hits	strong_ortholog	Recombinase-like domain-containing protein	FQU82_00983	unreviewed	NAMED_function_unreviewed
+A1S_0953	hypothetical protein	173	V5VG06	100.0	100.0	02_blast_hits	strong_ortholog	Cupin type-2 domain-containing protein	ABUW_2946	unreviewed	NAMED_function_unreviewed
+A1S_3582	hypothetical protein	411					no_ortholog				NO_ORTHOLOG
+A1S_3583	hypothetical protein	92	A0A7U3Y5V5	98.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1042	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3584	hypothetical protein	63	A0A7U3Y5V5	90.0	95.2	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1042	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0974	hypothetical protein	89	A0A7U4DG82	98.8	95.5	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1053	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0975	hypothetical protein	402	A0ABX6CFS6	99.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01011	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3585	hypothetical protein	54	V5VFG1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2922	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0976	hypothetical protein	335	A0ABX6CEB7	98.2	100.0	02_blast_hits	strong_ortholog	Hercynine oxygenase (EC 1.14.99.-)	egtB FQU82_01013	unreviewed	NAMED_function_unreviewed
+A1S_3586	hypothetical protein	42	A0A0D5YL66	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2919	unreviewed	TRULY_UNCHARACTERIZED
+A1S_0982	hypothetical protein	309	A0ABX6CD29	99.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01018	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3587	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_0988	hypothetical protein	269	A0ABX6CD49	96.7	100.0	02_blast_hits	strong_ortholog	Rhomboid protease AarA (EC 3.4.21.105)	aarA FQU82_01024	unreviewed	NAMED_function_unreviewed
+A1S_0991	hypothetical protein	196	A0A7U4DGB4	99.5	100.0	02_blast_hits	strong_ortholog	Cell division protein	AB57_1070	unreviewed	NAMED_function_unreviewed
+A1S_0996	hypothetical protein	145	A0A7U4DG70	99.3	100.0	02_blast_hits	strong_ortholog	ATPase	AB57_1075	unreviewed	NAMED_function_unreviewed
+A1S_0997	hypothetical protein	162	V5VH69	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2900	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1002	hypothetical protein	182	A0A7U4DG71	100.0	100.0	02_blast_hits	strong_ortholog	DUF2239 family protein	AB57_1082	unreviewed	NAMED_function_unreviewed
+A1S_1003	hypothetical protein	160	V5VFV8	92.4	98.1	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2893	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1010	hypothetical protein	107	A0A7U3Y5Y2	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_1089	unreviewed	NAMED_function_unreviewed
+A1S_3588	hypothetical protein	154					no_ortholog				NO_ORTHOLOG
+A1S_3589	hypothetical protein	31	B7I8T8	90.0	96.8	02_blast_hits	strong_ortholog	Urease accessory protein UreG	ureG AB57_1097	reviewed	CHARACTERIZED_reviewed
+A1S_3590	hypothetical protein	50	A0A0D5YLA5	96.2	52.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2872	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1028	hypothetical protein	258	A0A7U3Y611	99.6	100.0	02_blast_hits	strong_ortholog	Dioxygenase	AB57_1109	unreviewed	NAMED_function_unreviewed
+A1S_1029	hypothetical protein	159	A0ABX6CD73	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase H (EC 2.1.1.177) (23S rRNA (pseudouridine1915-N3)-methyltransferase) (23S rRNA m3Psi1915 methyltransferase) (rRNA (pseudouridine-N3-)-methyltransferase RlmH)	rlmH FQU82_01065	unreviewed	NAMED_function_unreviewed
+A1S_1032	hypothetical protein	1873	A3M3H0	100.0	100.0	02_blast_hits	strong_ortholog	Adhesin Ata autotransporter (Acinetobacter trimeric autotransporter) (Type 5 secretion system autotransporter Ata)	ata A1S_1032	reviewed	CHARACTERIZED_reviewed
+A1S_1035	hypothetical protein	113	A0A7U3Y633	96.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1113	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3591	hypothetical protein	105	A0ABX6CD91	98.1	100.0	02_blast_hits	strong_ortholog	Signal peptide-containing protein	FQU82_01072	unreviewed	NAMED_function_unreviewed
+A1S_1036	hypothetical protein	94	R4L444	100.0	100.0	02_blast_hits	strong_ortholog	Cell division protein ZapA (Z-ring-associated protein)	zapA A7M90_09305 ABR2091_1023 APD06_02845 APD33_20115 AUO97_12405 B9X95_03730 C5U34_07140 CBE85_12095 CPI82_13690 CV954_013880 DOL94_11795 EA722_14220 EJ062_17140 F2P40_11605 FJU42_01780 G3N53_17995 GNY86_02275 GSE42_05725 IHV20_06500 IMO23_05110 J6E47_13990 JHZ39_001220 LV35_01549 MKP18_003339 MRSN3942C25_150 P9867_005370 P9867_04035 SAMEA104305318_00687	unreviewed	NAMED_function_unreviewed
+A1S_1037	hypothetical protein	186	R4LBY7	100.0	100.0	02_blast_hits	strong_ortholog	Chromosome partition protein Smc	A7M90_09300 APD33_20120 AUO97_12410 B9W25_13370 C5U34_07145 CBE85_12090 CPI82_13685 CV954_013875 EA686_24760 EA722_14215 EJ062_17145 F2P40_11600 FPK63_10200 FPK87_15135 FQZ18_13690 G3N53_17990 GNY86_02270 IAG11_14710 IHV20_06495 IMO23_05115 J6E47_13985 JHZ39_001219 MRSN3942C25_160 SAMEA104305318_00686	unreviewed	NAMED_function_unreviewed
+A1S_1038	hypothetical protein	210	R4LDG0	100.0	100.0	02_blast_hits	strong_ortholog	UPF0149 family protein (YecA family protein)	APD06_02835 APD33_20125 AUO97_12415 CPI82_13680 CV954_013870 EA686_09360 EA722_14210 EJ062_17150 F2P40_11595 FJU42_01770 GNY86_02265 IAG11_19940 IHV20_06490 JHZ39_001218 LV35_01551 MKP18_003341 MRSN3942C25_170 P9867_005380 P9867_04025 SAMEA104305318_00685	unreviewed	NAMED_function_unreviewed
+A1S_1042	hypothetical protein	83	V5VF16	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator SutA RNAP-binding domain-containing protein	ABUW_2853	unreviewed	NAMED_function_unreviewed
+A1S_3592	hypothetical protein	128	A0A7U3Y4X7	100.0	100.0	02_blast_hits	strong_ortholog	Hemin receptor	AB57_1128	unreviewed	NAMED_function_unreviewed
+A1S_1049	hypothetical protein	173	V5VGV5	100.0	76.9	02_blast_hits	strong_ortholog	UPF0102 protein ABUW_2846	ABUW_2846	unreviewed	NAMED_function_unreviewed
+A1S_1053	hypothetical protein	547	A0A7U3Y4T7	98.2	100.0	02_blast_hits	strong_ortholog	Chemotaxis protein	AB57_1134	unreviewed	NAMED_function_unreviewed
+A1S_1054	hypothetical protein	497	A0A7U3Y4U3	99.8	92.4	02_blast_hits	strong_ortholog	Ribonuclease H (RNase H) (EC 3.1.26.4)	rnhA AB57_1135	unreviewed	NAMED_function_unreviewed
+A1S_1055	hypothetical protein	1071	A0A7U4DFL8	99.8	100.0	02_blast_hits	strong_ortholog	Lytic transglycosylase	AB57_1136	unreviewed	NAMED_function_unreviewed
+A1S_3594	hypothetical protein	102					no_ortholog				NO_ORTHOLOG
+A1S_3595	hypothetical protein	203					no_ortholog				NO_ORTHOLOG
+A1S_3596	hypothetical protein	38	Q2FD77	52.6	100.0	02_blast_hits	weak_ortholog	Membrane fusion protein (MFP) family protein	ABUW_2642	unreviewed	NAMED_function_unreviewed
+A1S_1072	hypothetical protein	254	A0ABX6CFG2	80.7	100.0	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_01362	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3597	hypothetical protein	196					no_ortholog				NO_ORTHOLOG
+A1S_1074	hypothetical protein	119	V5VHN1	48.3	99.2	02_blast_hits	weak_ortholog	Endoribonuclease L-PSP family protein	ABUW_3787	unreviewed	NAMED_function_unreviewed
+A1S_1077	hypothetical protein	475					no_ortholog				NO_ORTHOLOG
+A1S_1078	hypothetical protein	272					no_ortholog				NO_ORTHOLOG
+A1S_3598	hypothetical protein	46					no_ortholog				NO_ORTHOLOG
+A1S_3599	hypothetical protein	156	A0ABX6CDL3	96.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01214	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1082	hypothetical protein	119	V5VEY9	100.0	100.0	02_blast_hits	strong_ortholog	Glycine zipper domain-containing protein	ABUW_2809	unreviewed	NAMED_function_unreviewed
+A1S_1086	hypothetical protein	235	A0ABX6CGE0	96.2	100.0	02_blast_hits	strong_ortholog	Histidine kinase	FQU82_01222	unreviewed	NAMED_function_unreviewed
+A1S_1088	hypothetical protein	256	V5VGS0	99.6	100.0	02_blast_hits	strong_ortholog	SnoaL-like domain-containing protein	ABUW_2803	unreviewed	NAMED_function_unreviewed
+A1S_1089	hypothetical protein	476	A0A7U3Y503	99.6	100.0	02_blast_hits	strong_ortholog	Salicylaldehyde dehydrogenase (EC 1.2.1.65)	AB57_1171	unreviewed	NAMED_function_unreviewed
+A1S_3600	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_1096	hypothetical protein	356	A0A7U3Y4S5	96.1	100.0	02_blast_hits	strong_ortholog	AraC family transcriptional regulator	AB57_1179	unreviewed	NAMED_function_unreviewed
+A1S_1105	hypothetical protein	129	A0A7U3Y4X3	98.5	100.0	02_blast_hits	strong_ortholog	Medium/long-chain acyl-CoA thioesterase YigI (EC 3.1.2.20)	AB57_1189	unreviewed	NAMED_function_unreviewed
+A1S_1106	hypothetical protein	178	A0A7U4DFN0	97.8	100.0	02_blast_hits	strong_ortholog	UPF0311 protein AB57_1190	AB57_1190	unreviewed	NAMED_function_unreviewed
+A1S_3601	hypothetical protein	36					no_ortholog				NO_ORTHOLOG
+A1S_1128	hypothetical protein	319	A0ABX6CGI8	100.0	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	FQU82_01267	unreviewed	NAMED_function_unreviewed
+A1S_1129	hypothetical repressor protein	207	V5VFA7	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	ABUW_2761	unreviewed	NAMED_function_unreviewed
+A1S_3602	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_1131	hypothetical protein	320	A0A7U3Y4W4	100.0	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	AB57_1214	unreviewed	NAMED_function_unreviewed
+A1S_3603	hypothetical protein	135	A0ABX6CDH4	99.3	100.0	02_blast_hits	strong_ortholog	Phage protein	FQU82_01075	unreviewed	NAMED_function_unreviewed
+A1S_3604	hypothetical protein	83	A0ABX6CE40	98.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01076	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3605	hypothetical protein	319	A0ABX6CDZ1	75.5	112.5	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_01285	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3606	hypothetical protein	255					no_ortholog				NO_ORTHOLOG
+A1S_1143	hypothetical protein	146	A0ABX6CD87	93.2	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01081	unreviewed	NAMED_function_unreviewed
+A1S_3607	hypothetical protein	166	A0ABX6CE75	100.0	100.0	02_blast_hits	strong_ortholog	XRE family transcriptional regulator	FQU82_01293	unreviewed	NAMED_function_unreviewed
+A1S_3608	hypothetical protein	95	A0ABX6CDW5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01294	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3609	hypothetical protein	316	A0ABX6CEM5	100.0	100.0	02_blast_hits	strong_ortholog	DUF1376 domain-containing protein	FQU82_01296	unreviewed	NAMED_function_unreviewed
+A1S_3610	hypothetical protein	249	A0ABX6CGL9	96.8	99.6	02_blast_hits	strong_ortholog	Replication protein P	FQU82_01297	unreviewed	NAMED_function_unreviewed
+A1S_3611	hypothetical protein	135					no_ortholog				NO_ORTHOLOG
+A1S_3612	hypothetical protein	133					no_ortholog				NO_ORTHOLOG
+A1S_3613	hypothetical protein	71	A0ABX6CDD5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01094	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1148	hypothetical protein	133	A0ABX6CDA1	95.4	97.7	02_blast_hits	strong_ortholog	DUF559 domain-containing protein	FQU82_01095	unreviewed	NAMED_function_unreviewed
+A1S_3614	hypothetical protein	244					no_ortholog				NO_ORTHOLOG
+A1S_1149	hypothetical protein	142	A0A7U4DHD6	64.1	102.1	02_blast_hits	weak_ortholog	DUF559 domain-containing protein	AB57_2707	unreviewed	NAMED_function_unreviewed
+A1S_1150	hypothetical protein	213	A0ABX6CDV9	97.7	100.0	02_blast_hits	strong_ortholog	Putative phage metallopeptidase domain-containing protein	FQU82_01307	unreviewed	NAMED_function_unreviewed
+A1S_1151	hypothetical protein	158	A0ABX6CE88	98.7	100.0	02_blast_hits	strong_ortholog	DUF2280 domain-containing protein	FQU82_01308	unreviewed	NAMED_function_unreviewed
+A1S_3615	hypothetical protein	183	A0ABX6CGN4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01312	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3616	hypothetical protein	99	A0ABX6CDY9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01313	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1156	hypothetical protein	156	A0ABX6CE53	100.0	100.0	02_blast_hits	strong_ortholog	Bacteriophage protein	FQU82_01316	unreviewed	NAMED_function_unreviewed
+A1S_1157	hypothetical protein	324	A0ABX6CFC5	100.0	100.0	02_blast_hits	strong_ortholog	DUF2184 domain-containing protein	FQU82_01317	unreviewed	NAMED_function_unreviewed
+A1S_1159	hypothetical protein	127	A0ABX6CDX7	100.0	100.0	02_blast_hits	strong_ortholog	DUF4054 domain-containing protein	FQU82_01319	unreviewed	NAMED_function_unreviewed
+A1S_3617	hypothetical protein	63	A0ABX6CE09	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01320	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1160	hypothetical protein	160	A0ABX6CDX9	100.0	100.0	02_blast_hits	strong_ortholog	HK97 gp10 family phage protein	FQU82_01321	unreviewed	NAMED_function_unreviewed
+A1S_1161	hypothetical protein	147	A0ABX6CDX3	100.0	100.0	02_blast_hits	strong_ortholog	DUF3168 domain-containing protein	FQU82_01322	unreviewed	NAMED_function_unreviewed
+A1S_1162	hypothetical protein	255	A0ABX6CE98	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01323	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3618	hypothetical protein	104	A0ABX6CDZ4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01324	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1163	hypothetical protein	78	A0ABX6CE12	100.0	96.2	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01325	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3619	hypothetical protein	166	A0ABX6CEQ2	100.0	100.0	02_blast_hits	strong_ortholog	Zinc ribbon domain-containing protein	FQU82_01326	unreviewed	NAMED_function_unreviewed
+A1S_1166	hypothetical protein	217	A0ABX6CE04	100.0	100.0	02_blast_hits	strong_ortholog	DUF2460 domain-containing protein	FQU82_01328	unreviewed	NAMED_function_unreviewed
+A1S_1167	hypothetical protein	285	A0ABX6CF61	100.0	100.0	02_blast_hits	strong_ortholog	Bacteriophage phiJL001 Gp84 C-terminal domain-containing protein	FQU82_01329	unreviewed	NAMED_function_unreviewed
+A1S_1168	hypothetical protein	600	A0ABX6CE36	100.0	100.0	02_blast_hits	strong_ortholog	Sialate O-acetylesterase domain-containing protein	FQU82_01330	unreviewed	NAMED_function_unreviewed
+A1S_3620	hypothetical protein	256	A0ABX6CE67	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01331	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1169	hypothetical protein	93	A0ABX6CFV0	92.2	96.8	02_blast_hits	strong_ortholog	Fibronectin type-III domain-containing protein	FQU82_01333	unreviewed	NAMED_function_unreviewed
+A1S_1170	hypothetical protein	658	A0ABX6CFV0	98.9	100.0	02_blast_hits	strong_ortholog	Fibronectin type-III domain-containing protein	FQU82_01333	unreviewed	NAMED_function_unreviewed
+A1S_3621	hypothetical protein	129	R4LDF6	91.5	100.0	02_blast_hits	strong_ortholog	Putative bacteriophage protein	A7M90_14055 B9W25_19070 C5U34_17110 F2P40_20605 FPK63_10240 FPK87_19180 FQZ18_13735 IAG11_17685 IHV20_06550 MKP18_003332 MRSN3942C25_090 SAMEA104305318_00695	unreviewed	NAMED_function_unreviewed
+A1S_1171	hypothetical protein	180	A0ABX6CE23	92.2	99.4	02_blast_hits	strong_ortholog	Secretion activating protein	FQU82_01335	unreviewed	NAMED_function_unreviewed
+A1S_3622	hypothetical protein	327					no_ortholog				NO_ORTHOLOG
+A1S_3623	hypothetical protein	31	B0VL32	92.6	87.1	02_blast_hits	strong_ortholog	ATP phosphoribosyltransferase regulatory subunit	hisZ ABSDF1436	reviewed	CHARACTERIZED_reviewed
+A1S_1183	hypothetical protein	140	V5VF39	100.0	100.0	02_blast_hits	strong_ortholog	OsmC-like protein	ABUW_2740	unreviewed	NAMED_function_unreviewed
+A1S_3624	hypothetical protein	138	A0A0D5YJL3	99.3	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2735	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3625	hypothetical protein	114	A0ABX6CES3	97.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01356	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1194	hypothetical protein	259	A0A7U3Y566	96.1	100.0	02_blast_hits	strong_ortholog	F420-dependent NADP oxidoreductase	AB57_1331	unreviewed	NAMED_function_unreviewed
+A1S_3626	hypothetical protein	114	A0ABX6CED5	100.0	100.0	02_blast_hits	strong_ortholog	Protein tolA	FQU82_01368	unreviewed	NAMED_function_unreviewed
+A1S_1202	hypothetical protein	72	A0ABX6CE52	100.0	100.0	02_blast_hits	strong_ortholog	DUF1653 domain-containing protein	FQU82_01370	unreviewed	NAMED_function_unreviewed
+A1S_1204	hypothetical protein	71	V5VEZ8	100.0	100.0	02_blast_hits	strong_ortholog	KTSC domain-containing protein	ABUW_2720	unreviewed	NAMED_function_unreviewed
+A1S_1208	hypothetical protein	368	A0ABX6CE76	100.0	100.0	02_blast_hits	strong_ortholog	Beta-ketodecanoyl-[acyl-carrier-protein] synthase (EC 2.3.1.207)	FQU82_01375	unreviewed	NAMED_function_unreviewed
+A1S_3627	hypothetical protein	64	V5VEP4	100.0	100.0	02_blast_hits	strong_ortholog	Heavy metal transport/detoxification protein	ABUW_2708	unreviewed	NAMED_function_unreviewed
+A1S_3628	hypothetical protein	108	A0ABX6CFC0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01389	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3629	hypothetical protein	74	V5VF22	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2700	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1221	hypothetical protein	64	V5VEX5	98.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2699	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3630	hypothetical protein	129	A0A7U3Y544	99.2	100.0	02_blast_hits	strong_ortholog	Bacteriophage protein	AB57_1364	unreviewed	NAMED_function_unreviewed
+A1S_1226	hypothetical protein	181	A0ABX6CEF9	99.4	100.0	02_blast_hits	strong_ortholog	Glycosyl hydrolase 108 family protein	FQU82_01399	unreviewed	NAMED_function_unreviewed
+A1S_3631	hypothetical protein	75	A0ABX6CEX2	100.0	97.3	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01402	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3632	hypothetical protein	152	A0ABX6CFE1	99.3	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01405	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3633	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_3634	hypothetical protein	109	A0A7U3Y595	100.0	100.0	02_blast_hits	strong_ortholog	Signal peptide-containing protein	AB57_1376	unreviewed	NAMED_function_unreviewed
+A1S_1233	hypothetical protein	197	A0ABX6CE64	99.5	100.0	02_blast_hits	strong_ortholog	DUF4142 domain-containing protein	FQU82_01412	unreviewed	NAMED_function_unreviewed
+A1S_3636	hypothetical protein	140	A0ABX6CE59	99.3	96.4	02_blast_hits	strong_ortholog	Glycine zipper family protein	FQU82_01413	unreviewed	NAMED_function_unreviewed
+A1S_3635	hypothetical protein	37					no_ortholog				NO_ORTHOLOG
+A1S_3637	hypothetical protein	74	A0ABX6CE59	95.9	100.0	02_blast_hits	strong_ortholog	Glycine zipper family protein	FQU82_01413	unreviewed	NAMED_function_unreviewed
+A1S_3638	hypothetical protein	38					no_ortholog				NO_ORTHOLOG
+A1S_1238	hypothetical protein	182	V5VGB4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2647	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1244	hypothetical protein	199	V5VEZ4	99.5	100.0	02_blast_hits	strong_ortholog	Thymidylate synthase	ABUW_2641	unreviewed	NAMED_function_unreviewed
+A1S_1248	hypothetical protein	223	A0A7U4DFT8	100.0	100.0	02_blast_hits	strong_ortholog	Peptidase M15	AB57_1421	unreviewed	NAMED_function_unreviewed
+A1S_1254	hypothetical protein	395	A0ABX6CFP3	98.7	100.0	02_blast_hits	strong_ortholog	EAL domain-containing protein	FQU82_01496	unreviewed	NAMED_function_unreviewed
+A1S_3639	hypothetical protein	229					no_ortholog				NO_ORTHOLOG
+A1S_1258	hypothetical protein	145	A0A7U3Y5C4	98.6	100.0	02_blast_hits	strong_ortholog	DUF2147 domain-containing protein	AB57_1433	unreviewed	NAMED_function_unreviewed
+A1S_1260	hypothetical protein	245	A0A0D5YJB8	93.5	100.0	02_blast_hits	strong_ortholog	DUF1826 domain-containing protein	ABUW_2624	unreviewed	NAMED_function_unreviewed
+A1S_3640	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_3641	hypothetical protein	152	V5VES2	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2621	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3642	hypothetical protein	105	A0A7U3Y5H1	98.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1450	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1268	hypothetical protein	268	A3M452	100.0	100.0	02_blast_hits	strong_ortholog	Putative hydro-lyase A1S_1268 (EC 4.2.1.-)	A1S_1268	reviewed	CHARACTERIZED_reviewed
+A1S_1270	hypothetical protein	572	A0A7U3Y5J1	98.1	100.0	02_blast_hits	strong_ortholog	Biotin carboxylase (Acetyl-coenzyme A carboxylase biotin carboxylase subunit A)	AB57_1456	unreviewed	NAMED_function_unreviewed
+A1S_3643	hypothetical protein	375					no_ortholog				NO_ORTHOLOG
+A1S_1273	hypothetical protein	143	V5VER0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2595	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1275	hypothetical protein	246	A0ABX6CFA6	99.2	100.0	02_blast_hits	strong_ortholog	DUF1989 domain-containing protein	FQU82_01523	unreviewed	NAMED_function_unreviewed
+A1S_1276	hypothetical protein	220	V5VG69	95.8	98.2	02_blast_hits	strong_ortholog	Urea carboxylase-associated protein 1	ABUW_2592	unreviewed	NAMED_function_unreviewed
+A1S_1279	hypothetical protein	178	A0A7U3Y5B4	99.4	100.0	02_blast_hits	strong_ortholog	Flavodoxin	AB57_1468	unreviewed	NAMED_function_unreviewed
+A1S_3644	hypothetical protein	444					no_ortholog				NO_ORTHOLOG
+A1S_3645	hypothetical protein	41	A0A0D5YJ86	92.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2588	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3646	hypothetical protein	133	A0A7U3Y5A2	95.5	100.0	02_blast_hits	strong_ortholog	DUF4440 domain-containing protein	AB57_1477	unreviewed	NAMED_function_unreviewed
+A1S_1290	hypothetical protein	1001					no_ortholog				NO_ORTHOLOG
+A1S_1291	hypothetical protein	292					no_ortholog				NO_ORTHOLOG
+A1S_3647	hypothetical protein	38					no_ortholog				NO_ORTHOLOG
+A1S_1293	hypothetical protein	49	R9RIN9	97.6	83.7	02_blast_hits	strong_ortholog	TssB (Type VI secretion protein) (Type VI secretion system contractile sheath small subunit) (Type VI secretion system-associated protein)	tssB A7M90_06270 ABR2091_1293 APD33_04070 AUO97_13965 B9W25_12495 CBE85_11310 CV954_012210 EA686_02225 EJ062_14365 F2P40_19005 FJU42_19310 FPK87_07640 FQZ18_12400 G3N53_03295 GNY86_07570 GSE42_07540 IAG11_10430 IHV20_02975 IHV20_14295 J6E47_12235 JHZ39_003203 LV35_00513 MKP18_002699 SAMEA104305318_01420	unreviewed	NAMED_function_unreviewed
+A1S_1294	hypothetical protein	79	R9RIN9	98.7	100.0	02_blast_hits	strong_ortholog	TssB (Type VI secretion protein) (Type VI secretion system contractile sheath small subunit) (Type VI secretion system-associated protein)	tssB A7M90_06270 ABR2091_1293 APD33_04070 AUO97_13965 B9W25_12495 CBE85_11310 CV954_012210 EA686_02225 EJ062_14365 F2P40_19005 FJU42_19310 FPK87_07640 FQZ18_12400 G3N53_03295 GNY86_07570 GSE42_07540 IAG11_10430 IHV20_02975 IHV20_14295 J6E47_12235 JHZ39_003203 LV35_00513 MKP18_002699 SAMEA104305318_01420	unreviewed	NAMED_function_unreviewed
+A1S_1295	hypothetical protein	493	V5VEF2	99.8	100.0	02_blast_hits	strong_ortholog	Type VI secretion protein, EvpB/family	ABUW_2579	unreviewed	NAMED_function_unreviewed
+A1S_1296	hypothetical protein	167	A0A0M3KKY9	100.0	100.0	02_blast_hits	strong_ortholog	Type VI secretion system effector, Hcp1 family	AB57_1481	unreviewed	NAMED_function_unreviewed
+A1S_1297	hypothetical protein	158	V5VES8	100.0	100.0	02_blast_hits	strong_ortholog	Type VI secretion system lysozyme-related protein	ABUW_2577	unreviewed	NAMED_function_unreviewed
+A1S_1298	hypothetical protein	185	A0A0D5YIZ1	97.3	98.4	02_blast_hits	strong_ortholog	Type VI secretion system baseplate subunit TssF	ABUW_2576	unreviewed	NAMED_function_unreviewed
+A1S_1299	hypothetical protein	231	A0A7U4DFX5	99.6	100.0	02_blast_hits	strong_ortholog	Type VI secretion system protein ImpG	AB57_1483	unreviewed	NAMED_function_unreviewed
+A1S_1300	hypothetical protein	332	A0A0D7RSA1	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2575	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1304	hypothetical protein	319	A0ABX6CGH9	100.0	100.0	02_blast_hits	strong_ortholog	Type VI secretion system-associated protein TagF	FQU82_01545	unreviewed	NAMED_function_unreviewed
+A1S_1306	hypothetical protein	87	A0ABX6CEL6	100.0	100.0	02_blast_hits	strong_ortholog	PAAR domain-containing protein	FQU82_01547	unreviewed	NAMED_function_unreviewed
+A1S_1308	hypothetical protein	365	V5VG41	99.7	100.0	02_blast_hits	strong_ortholog	Type VI secretion-associated protein, ImpA family	ABUW_2568	unreviewed	NAMED_function_unreviewed
+A1S_1309	hypothetical protein	454	A0A7U3Y5B0	99.8	100.0	02_blast_hits	strong_ortholog	Type VI secretion system-associated protein	AB57_1492	unreviewed	NAMED_function_unreviewed
+A1S_1310	hypothetical protein	268	A0ABX6CEJ3	100.0	100.0	02_blast_hits	strong_ortholog	Type IV / VI secretion system DotU domain-containing protein	FQU82_01551	unreviewed	NAMED_function_unreviewed
+A1S_3648	hypothetical protein	200	A0A7U3Y5J0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1494	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1317	hypothetical protein	385	A0A7U3Y5D0	98.4	100.0	02_blast_hits	strong_ortholog	Winged helix-turn-helix domain-containing protein	AB57_1500	unreviewed	NAMED_function_unreviewed
+A1S_1319	hypothetical protein	189	A0A7U4DFW9	99.5	100.0	02_blast_hits	strong_ortholog	Epoxyqueuosine reductase QueH (EC 1.17.99.6) (Queuosine biosynthesis protein QueH)	queH AB57_1502	unreviewed	NAMED_function_unreviewed
+A1S_3649	hypothetical protein	32	A0ABX6CEY0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01565	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1323	hypothetical protein	302	A0ABX6CFF5	100.0	100.0	02_blast_hits	strong_ortholog	EamA domain-containing protein	FQU82_01568	unreviewed	NAMED_function_unreviewed
+A1S_1324	hypothetical protein	227	V5VE83	99.6	100.0	02_blast_hits	strong_ortholog	HTH gntR-type domain-containing protein	ABUW_2549	unreviewed	NAMED_function_unreviewed
+A1S_1325	hypothetical protein	310	A3M4A9	100.0	100.0	02_blast_hits	strong_ortholog	4-hydroxyproline 2-epimerase (4Hyp 2-epimerase) (4HypE) (EC 5.1.1.8)	A1S_1325	reviewed	CHARACTERIZED_reviewed
+A1S_1326	hypothetical protein	367	A0A7U4DFW1	97.3	100.0	02_blast_hits	strong_ortholog	D-amino-acid oxidase	AB57_1510	unreviewed	NAMED_function_unreviewed
+A1S_1327	hypothetical protein	76	A0ABX6CEQ0	98.7	100.0	02_blast_hits	strong_ortholog	2Fe-2S ferredoxin-type domain-containing protein	FQU82_01572	unreviewed	NAMED_function_unreviewed
+A1S_1330	hypothetical protein	250	A0ABX6CG38	99.6	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional activator RhaS	rhaS_1 FQU82_01574	unreviewed	NAMED_function_unreviewed
+A1S_3650	hypothetical protein	27					no_ortholog				NO_ORTHOLOG
+A1S_1336	hypothetical protein	312	V5VEB3	99.7	100.0	02_blast_hits	strong_ortholog	Phenylacetate-CoA oxygenase, PaaG subunit	paaG ABUW_2535	unreviewed	NAMED_function_unreviewed
+A1S_1338	hypothetical protein	251	A0ABX6CEN0	99.2	100.0	02_blast_hits	strong_ortholog	1,2-phenylacetyl-CoA epoxidase, subunit C	paaC FQU82_01582	unreviewed	NAMED_function_unreviewed
+A1S_3651	hypothetical protein	63					no_ortholog				NO_ORTHOLOG
+A1S_3652	hypothetical protein	119					no_ortholog				NO_ORTHOLOG
+A1S_3653	hypothetical protein	398					no_ortholog				NO_ORTHOLOG
+A1S_3654	hypothetical protein	208	A0A7U3Y686	97.6	100.0	02_blast_hits	strong_ortholog	Aminotransferase	AB57_1535	unreviewed	NAMED_function_unreviewed
+A1S_1358	hypothetical protein	240	A0A7U4DG95	99.6	100.0	02_blast_hits	strong_ortholog	GntR family transcriptional regulator	AB57_1567	unreviewed	NAMED_function_unreviewed
+A1S_3655	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_1363	hypothetical protein	384	A0A7U3Y653	95.3	100.0	02_blast_hits	strong_ortholog	Monomeric sarcosine oxidase	AB57_1571	unreviewed	NAMED_function_unreviewed
+A1S_1367	hypothetical protein	266	A0ABX6CEU4	98.5	100.0	02_blast_hits	strong_ortholog	Thioesterase family protein	FQU82_01651	unreviewed	NAMED_function_unreviewed
+A1S_1372	hypothetical protein	300	A0ABX6CET6	99.3	100.0	02_blast_hits	strong_ortholog	hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	liuE FQU82_01654	unreviewed	NAMED_function_unreviewed
+A1S_3656	hypothetical protein	60	A0ABX6CGV5	98.3	98.3	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01665	unreviewed	NAMED_function_unreviewed
+A1S_3657	hypothetical protein	56					no_ortholog				NO_ORTHOLOG
+A1S_3658	hypothetical protein	47	A0ABX6CEY1	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01667	unreviewed	NAMED_function_unreviewed
+A1S_3659	hypothetical protein	142	A0A7U3Y6D1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1611	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3660	hypothetical protein	86	A0ABX6CEV3	100.0	84.9	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01669	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3661	hypothetical protein	73	V5VEB1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2439	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1385	hypothetical protein	469	A0A0D5YJQ1	99.6	100.0	02_blast_hits	strong_ortholog	Heme oxygenase-like protein	ABUW_2437	unreviewed	NAMED_function_unreviewed
+A1S_3662	hypothetical protein	234	A0A7U3Y6B6	98.3	51.7	02_blast_hits	strong_ortholog	Stress-induced protein	AB57_1621	unreviewed	NAMED_function_unreviewed
+A1S_1388	hypothetical protein	78	V5VE35	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2432	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1390	hypothetical protein	203	A0A7U4DGE0	97.5	100.0	02_blast_hits	strong_ortholog	Lysine transporter LysE	AB57_1624	unreviewed	NAMED_function_unreviewed
+A1S_1395	hypothetical protein	94	V5VEF1	100.0	100.0	02_blast_hits	strong_ortholog	Acetyltransferase, gnat family	ABUW_2425	unreviewed	NAMED_function_unreviewed
+A1S_3663	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3664	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3665	hypothetical protein	34	A0ABX6CEY2	97.1	100.0	02_blast_hits	strong_ortholog	Disulfide-bond oxidoreductase YghU (EC 1.8.4.-)	yghU FQU82_01699	unreviewed	NAMED_function_unreviewed
+A1S_3666	hypothetical protein	143	A0A7U3Y6D7	99.3	100.0	02_blast_hits	strong_ortholog	CidA/LrgA family protein	AB57_1647	unreviewed	NAMED_function_unreviewed
+A1S_1432	hypothetical protein	472	A0A7U4DGC3	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	AB57_1664	unreviewed	NAMED_function_unreviewed
+A1S_1435	hypothetical protein	291	A0ABX6CGJ4	95.6	93.1	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01724	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3667	hypothetical protein	26					no_ortholog				NO_ORTHOLOG
+A1S_1450	hypothetical protein	228	A0ABX6CF67	99.6	100.0	02_blast_hits	strong_ortholog	Hydrolase YcaC (EC 4.-.-.-)	ycaC_1 FQU82_01737	unreviewed	NAMED_function_unreviewed
+A1S_1451	hypothetical protein	624	A0A7U3Y680	99.4	100.0	02_blast_hits	strong_ortholog	Amidohydrolase	AB57_1683	unreviewed	NAMED_function_unreviewed
+A1S_3668	hypothetical protein	40	A0A7U3Y519	89.7	72.5	02_blast_hits	weak_ortholog	Alkyl hydroperoxide reductase subunit F	AB57_1337	unreviewed	NAMED_function_unreviewed
+A1S_1461	hypothetical protein	609	A0A7U4DGF8	100.0	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_1692	unreviewed	NAMED_function_unreviewed
+A1S_1462	hypothetical protein	313	V5VDR1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2363	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3669	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_1476	hypothetical protein	129	A0A7U4DGG3	99.2	100.0	02_blast_hits	strong_ortholog	Tautomerase	AB57_1707	unreviewed	NAMED_function_unreviewed
+A1S_3670	hypothetical protein	113	A0ABX6CG07	100.0	100.0	02_blast_hits	strong_ortholog	L-valine transporter subunit YgaH	FQU82_01763	unreviewed	NAMED_function_unreviewed
+A1S_1478	hypothetical protein	156	V5VFJ7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2346	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3671	hypothetical protein	111	A0ABX6CGG2	97.3	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01766	unreviewed	NAMED_function_unreviewed
+A1S_1479	hypothetical protein	230	A0ABX6CF99	98.3	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional regulator Cmr	cmr FQU82_01767	unreviewed	NAMED_function_unreviewed
+A1S_3672	hypothetical protein	42	A0ABX6CH92	96.6	69.0	02_blast_hits	strong_ortholog	D-methionine transport system permease protein MetI	metI FQU82_01770	unreviewed	NAMED_function_unreviewed
+A1S_1496	hypothetical protein	249	A3M4T0	100.0	100.0	02_blast_hits	strong_ortholog	Probable transcriptional regulatory protein A1S_1496	A1S_1496	reviewed	CHARACTERIZED_reviewed
+A1S_1499	hypothetical protein	287	A0A7U3Y6H9	97.2	100.0	02_blast_hits	strong_ortholog	Iron-containing redox enzyme family protein	AB57_1734	unreviewed	NAMED_function_unreviewed
+A1S_3673	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_3674	hypothetical protein	147	A0ABX6CFC4	95.7	93.9	02_blast_hits	strong_ortholog	Core-binding (CB) domain-containing protein	FQU82_01799	unreviewed	NAMED_function_unreviewed
+A1S_1502	hypothetical protein	299	A0ABX6CHC7	99.3	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional activator AllS	allS FQU82_01801	unreviewed	NAMED_function_unreviewed
+A1S_3675	hypothetical protein	141	A0ABX6CF71	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01804	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3676	hypothetical protein	59	A0ABX6CF68	100.0	100.0	02_blast_hits	strong_ortholog	DUF1328 domain-containing protein	FQU82_01807	unreviewed	NAMED_function_unreviewed
+A1S_3677	hypothetical protein	70	A7FBB4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein		unreviewed	TRULY_UNCHARACTERIZED
+A1S_1515	hypothetical protein	197	A3M4U8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein		unreviewed	TRULY_UNCHARACTERIZED
+A1S_3678	hypothetical protein	38	V5XXN7	100.0	100.0	02_blast_hits	strong_ortholog	Phosphinothricin acetyltransferase	yncA ABUW_2301	unreviewed	NAMED_function_unreviewed
+A1S_3679	hypothetical protein	61	A0ABX6CF82	95.1	100.0	02_blast_hits	strong_ortholog	DUF2986 domain-containing protein	FQU82_01822	unreviewed	NAMED_function_unreviewed
+A1S_3680	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_1524	hypothetical protein	196	A0ABX6CFF6	100.0	100.0	02_blast_hits	strong_ortholog	LRAT domain-containing protein	FQU82_01828	unreviewed	NAMED_function_unreviewed
+A1S_1525	hypothetical protein	248	A0A7U3Y6J7	99.6	100.0	02_blast_hits	strong_ortholog	Phosphodiester glycosidase domain-containing protein	AB57_1766	unreviewed	NAMED_function_unreviewed
+A1S_1526	hypothetical protein	76	V5XVR5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2290	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1528	hypothetical protein	1250	A0ABX6CFF2	99.7	100.0	02_blast_hits	strong_ortholog	Bifunctional protein PutA [Includes: Proline dehydrogenase (EC 1.5.5.2) (Proline oxidase); Delta-1-pyrroline-5-carboxylate dehydrogenase (P5C dehydrogenase) (EC 1.2.1.88) (L-glutamate gamma-semialdehyde dehydrogenase)]	putA FQU82_01833	unreviewed	NAMED_function_unreviewed
+A1S_1541	hypothetical protein	387	A0A7U4DGG2	99.2	100.0	02_blast_hits	strong_ortholog	Cupin	AB57_1784	unreviewed	NAMED_function_unreviewed
+A1S_3681	hypothetical protein	39	V5VDN6	95.8	61.5	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2272	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3682	hypothetical protein	80	A0ABX6CFC2	98.8	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01850	unreviewed	NAMED_function_unreviewed
+A1S_1570	hypothetical protein	147	V5VDP9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2244	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3683	hypothetical protein	83					no_ortholog				NO_ORTHOLOG
+A1S_3684	hypothetical protein	89					no_ortholog				NO_ORTHOLOG
+A1S_3685	hypothetical protein	176					no_ortholog				NO_ORTHOLOG
+A1S_3686	hypothetical protein	210					no_ortholog				NO_ORTHOLOG
+A1S_3687	hypothetical protein	145					no_ortholog				NO_ORTHOLOG
+A1S_1583	hypothetical protein	98					no_ortholog				NO_ORTHOLOG
+A1S_1584	hypothetical protein	294					no_ortholog				NO_ORTHOLOG
+A1S_3688	hypothetical protein	200					no_ortholog				NO_ORTHOLOG
+A1S_3689	hypothetical protein	166	A0ABX6CJ86	37.0	76.5	02_blast_hits	weak_ortholog	Phage antitermination protein Q	FQU82_02691	unreviewed	NAMED_function_unreviewed
+A1S_3690	hypothetical protein	238					no_ortholog				NO_ORTHOLOG
+A1S_3691	hypothetical protein	40					no_ortholog				NO_ORTHOLOG
+A1S_3692	hypothetical protein	142					no_ortholog				NO_ORTHOLOG
+A1S_3693	hypothetical protein	132					no_ortholog				NO_ORTHOLOG
+A1S_3694	hypothetical protein	176	A0ABX6CJ10	41.3	94.9	02_blast_hits	weak_ortholog	NinB family protein	FQU82_02687	unreviewed	NAMED_function_unreviewed
+A1S_3695	hypothetical protein	60					no_ortholog				NO_ORTHOLOG
+A1S_3696	hypothetical protein	87					no_ortholog				NO_ORTHOLOG
+A1S_3697	hypothetical protein	160					no_ortholog				NO_ORTHOLOG
+A1S_3698	hypothetical protein	64					no_ortholog				NO_ORTHOLOG
+A1S_1589	hypothetical protein	408					no_ortholog				NO_ORTHOLOG
+A1S_3699	hypothetical protein	58					no_ortholog				NO_ORTHOLOG
+A1S_1593	hypothetical protein	161					no_ortholog				NO_ORTHOLOG
+A1S_1594	hypothetical protein	124					no_ortholog				NO_ORTHOLOG
+A1S_1595	hypothetical protein	159					no_ortholog				NO_ORTHOLOG
+A1S_3700	hypothetical protein	138					no_ortholog				NO_ORTHOLOG
+A1S_3701	hypothetical protein	133	A0A7U3Y7M7	44.4	93.2	02_blast_hits	weak_ortholog	Lipoprotein	AB57_3206	unreviewed	NAMED_function_unreviewed
+A1S_1596	hypothetical protein	365	A0ABX6CGP8	41.1	55.3	02_blast_hits	weak_ortholog	Phage tail protein	FQU82_01327	unreviewed	NAMED_function_unreviewed
+A1S_3702	hypothetical protein	168	R4LDD9	39.8	98.8	02_blast_hits	weak_ortholog	DUF1833 domain-containing protein	MRSN3942C17_030	unreviewed	NAMED_function_unreviewed
+A1S_1598	hypothetical protein	952	R4LBW5	35.8	60.2	02_blast_hits	weak_ortholog	Putative bacteriophage protein	MRSN3942C17_050	unreviewed	NAMED_function_unreviewed
+A1S_1599	hypothetical protein	618	A0ABX6CE36	57.4	86.6	02_blast_hits	weak_ortholog	Sialate O-acetylesterase domain-containing protein	FQU82_01330	unreviewed	NAMED_function_unreviewed
+A1S_3703	hypothetical protein	259	A0ABX6CF41	60.6	100.0	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_01462	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3704	hypothetical protein	102					no_ortholog				NO_ORTHOLOG
+A1S_3705	hypothetical protein	120					no_ortholog				NO_ORTHOLOG
+A1S_3706	hypothetical protein	65	A0A0D5YFX4	55.7	93.8	02_blast_hits	weak_ortholog	Uncharacterized protein	ABUW_1441	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1602	hypothetical protein	149					no_ortholog				NO_ORTHOLOG
+A1S_3708	hypothetical protein	238	A0ABX6CH01	100.0	100.0	02_blast_hits	strong_ortholog	Protein TonB	FQU82_01890	unreviewed	NAMED_function_unreviewed
+A1S_3707	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_1606	hypothetical protein	165	A0A7U4DGH4	68.5	101.8	02_blast_hits	weak_ortholog	TonB-dependent receptor	AB57_1831	unreviewed	NAMED_function_unreviewed
+A1S_1614	hypothetical protein	244	A0ABX6CGE7	98.8	100.0	02_blast_hits	strong_ortholog	Abasic site processing protein (EC 3.4.-.-)	FQU82_01899	unreviewed	NAMED_function_unreviewed
+A1S_3709	hypothetical protein	122	V5VF77	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2219	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1616	hypothetical protein	244	V5VDN1	100.0	100.0	02_blast_hits	strong_ortholog	Phosphoglycerate mutase	ABUW_2217	unreviewed	NAMED_function_unreviewed
+A1S_1618	hypothetical protein	221	A0A7U3Y6P5	98.6	100.0	02_blast_hits	strong_ortholog	Nucleoside-diphosphate sugar epimerase	AB57_1843	unreviewed	NAMED_function_unreviewed
+A1S_1620	hypothetical protein	259	A0ABX6CHN0	98.8	100.0	02_blast_hits	strong_ortholog	GST N-terminal domain-containing protein	FQU82_01906	unreviewed	NAMED_function_unreviewed
+A1S_3710	hypothetical protein	44	A0A7U3Y6S2	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1847	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1622	hypothetical protein	77	A0ABX6CFM4	98.6	94.8	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01908	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1624	hypothetical protein	141	V5VF69	99.3	100.0	02_blast_hits	strong_ortholog	Histidine triad protein	ABUW_2209	unreviewed	NAMED_function_unreviewed
+A1S_1627	hypothetical protein	112	V5VDM2	100.0	100.0	02_blast_hits	strong_ortholog	2Fe-2S ferredoxin	fdx ABUW_2207	unreviewed	NAMED_function_unreviewed
+A1S_1630	hypothetical protein	106	A0A7U3Y6Q3	100.0	100.0	02_blast_hits	strong_ortholog	Iron-binding protein IscA (Iron-sulfur cluster assembly protein)	AB57_1854	unreviewed	NAMED_function_unreviewed
+A1S_1644	hypothetical protein	457	A0ABX6CFI9	99.8	100.0	02_blast_hits	strong_ortholog	Protein kinase UbiB (EC 2.7.-.-)	ubiB_3 FQU82_01927	unreviewed	NAMED_function_unreviewed
+A1S_1645	hypothetical protein	92	A0A0D5YJ07	97.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2191	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1646	hypothetical protein	154	A0A7U3Y6I2	98.7	100.0	02_blast_hits	strong_ortholog	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase (EC 4.2.-.-)	AB57_1868	unreviewed	NAMED_function_unreviewed
+A1S_1650	hypothetical protein	223	A0ABX6CFQ8	98.7	100.0	02_blast_hits	strong_ortholog	Aerobactin synthase (EC 6.3.2.39)	iucC FQU82_01933	unreviewed	NAMED_function_unreviewed
+A1S_1651	hypothetical protein	319	A0ABX6CFQ8	99.1	100.0	02_blast_hits	strong_ortholog	Aerobactin synthase (EC 6.3.2.39)	iucC FQU82_01933	unreviewed	NAMED_function_unreviewed
+A1S_1652	hypothetical protein	636	A0ABX6CFQ2	98.0	100.0	02_blast_hits	strong_ortholog	IucA/IucC family siderophore biosynthesis protein	FQU82_01934	unreviewed	NAMED_function_unreviewed
+A1S_1653	hypothetical protein	239	A0ABX6CH46	98.7	100.0	02_blast_hits	strong_ortholog	(2Fe-2S)-binding protein	FQU82_01935	unreviewed	NAMED_function_unreviewed
+A1S_3711	hypothetical protein	145	A0A7U3Y6S8	99.3	100.0	02_blast_hits	strong_ortholog	2'-5' RNA ligase	AB57_1883	unreviewed	NAMED_function_unreviewed
+A1S_1662	hypothetical protein	522	A0ABX6CGZ2	99.2	100.0	02_blast_hits	strong_ortholog	Multiple inositol polyphosphate phosphatase 1 (EC 3.1.3.62) (EC 3.1.3.80) (2,3-bisphosphoglycerate 3-phosphatase)	FQU82_01947	unreviewed	NAMED_function_unreviewed
+A1S_3712	hypothetical protein	100	A0A7U5RJA2	95.9	98.0	02_blast_hits	strong_ortholog	DUF1634 domain-containing protein	AB57_05520	unreviewed	NAMED_function_unreviewed
+A1S_1674	hypothetical protein	289	A0A7U4DGM1	99.3	100.0	02_blast_hits	strong_ortholog	DUF2797 domain-containing protein	AB57_1895	unreviewed	NAMED_function_unreviewed
+A1S_1675	hypothetical protein	153	V5VD64	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2162	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1676	hypothetical protein	101	A0A7U4DGQ5	97.0	99.0	02_blast_hits	strong_ortholog	DUF937 domain-containing protein	AB57_1897	unreviewed	NAMED_function_unreviewed
+A1S_1680	hypothetical protein	66	A0ABX6CFS9	100.0	100.0	02_blast_hits	strong_ortholog	Serine kinase/phosphatase	FQU82_01968	unreviewed	NAMED_function_unreviewed
+A1S_3713	hypothetical protein	71	A0ABX6CFN3	97.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01969	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3714	hypothetical protein	78	V5VDK3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2149	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1684	hypothetical protein	109	V5VDD6	100.0	100.0	02_blast_hits	strong_ortholog	Nucleoid-associated protein ABUW_2148	ABUW_2148	unreviewed	NAMED_function_unreviewed
+A1S_3715	hypothetical protein	88	A0A7U4DGR2	98.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_1912	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3716	hypothetical protein	111	A0A0D5YJ00	98.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2144	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1688	hypothetical protein	101	V5VD39	100.0	100.0	02_blast_hits	strong_ortholog	YcgL domain-containing protein ABUW_2142	ABUW_2142	unreviewed	NAMED_function_unreviewed
+A1S_1691	hypothetical protein	395	A0A7U3Y6U0	99.2	100.0	02_blast_hits	strong_ortholog	VWA domain-containing protein	AB57_1920	unreviewed	NAMED_function_unreviewed
+A1S_1696	hypothetical protein	250	V5VDI9	99.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_2134	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3717	hypothetical protein	34	A0ABX6CFP9	97.1	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	FQU82_01982	unreviewed	NAMED_function_unreviewed
+A1S_3718	hypothetical protein	39	A0A7U3Y6L4	94.9	100.0	02_blast_hits	strong_ortholog	Bestrophin	AB57_1934	unreviewed	NAMED_function_unreviewed
+A1S_1709	hypothetical protein	551	A0A7U3Y6Q7	99.3	100.0	02_blast_hits	strong_ortholog	TIGR01244 family protein	AB57_1937	unreviewed	NAMED_function_unreviewed
+A1S_1718	hypothetical protein	577	A0A7U4DGS3	99.7	100.0	02_blast_hits	strong_ortholog	Fumarate reductase/succinate dehydrogenase flavoprotein subunit	AB57_1946	unreviewed	NAMED_function_unreviewed
+A1S_1720	hypothetical protein	476	A0A7U3Y6W0	99.0	100.0	02_blast_hits	strong_ortholog	Putative aliphatic sulfonates-binding protein	AB57_1948	unreviewed	NAMED_function_unreviewed
+A1S_3719	hypothetical protein	61	A0ABX6CFT1	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_02012	unreviewed	NAMED_function_unreviewed
+A1S_1734	hypothetical protein	275	A0ABX6CH57	99.3	100.0	02_blast_hits	strong_ortholog	DUF3298 domain-containing protein	FQU82_02022	unreviewed	NAMED_function_unreviewed
+A1S_3720	hypothetical protein	55	A0ABX6CG01	98.1	98.2	02_blast_hits	strong_ortholog	DoxX family protein	FQU82_02023	unreviewed	NAMED_function_unreviewed
+A1S_1735	hypothetical protein	84	A0ABX6CG01	98.8	95.2	02_blast_hits	strong_ortholog	DoxX family protein	FQU82_02023	unreviewed	NAMED_function_unreviewed
+A1S_3721	hypothetical protein	204	A0ABX6CFZ0	99.5	100.0	02_blast_hits	strong_ortholog	HTH tetR-type domain-containing protein	FQU82_02024	unreviewed	NAMED_function_unreviewed
+A1S_3722	hypothetical protein	100	A0A7U3Y707	96.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2018 AB57_2031 AB57_2038 AB57_2053	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3723	hypothetical protein	233	G8E498	37.0	94.0	02_blast_hits	weak_ortholog	Lipoprotein	A7M90_12500 FPK87_10120 MKP18_002208	unreviewed	NAMED_function_unreviewed
+A1S_3724	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_1760	hypothetical protein	248	G8E499	51.8	103.6	02_blast_hits	weak_ortholog	PAAR domain-containing protein family protein		unreviewed	NAMED_function_unreviewed
+A1S_3725	hypothetical protein	224	A0A7U4DGU9	33.8	99.1	02_blast_hits	weak_ortholog	Lipoprotein	AB57_2148	unreviewed	NAMED_function_unreviewed
+A1S_3726	hypothetical protein	171					no_ortholog				NO_ORTHOLOG
+A1S_1762	hypothetical protein	360	A0A7U3Y4V3	30.2	101.9	02_blast_hits	weak_ortholog	Transcriptional regulator	AB57_0665	unreviewed	NAMED_function_unreviewed
+A1S_3727	hypothetical protein	206					no_ortholog				NO_ORTHOLOG
+A1S_3728	hypothetical protein	32	A0ABX6CHJ3	65.6	100.0	02_blast_hits	weak_ortholog	HTH tetR-type domain-containing protein	FQU82_02085	unreviewed	NAMED_function_unreviewed
+A1S_1765	hypothetical protein	443					no_ortholog				NO_ORTHOLOG
+A1S_3729	hypothetical protein	146	A0A7U3Y741	98.6	100.0	02_blast_hits	strong_ortholog	Phosphohydrolase	AB57_2100	unreviewed	NAMED_function_unreviewed
+A1S_3730	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_1766	Hypothetical protein	214	A0ABX6CG58	97.7	100.0	02_blast_hits	strong_ortholog	Signal peptide containing protein	FQU82_02088	unreviewed	NAMED_function_unreviewed
+A1S_1768	hypothetical protein	386	A0ABX6CG34	96.4	100.3	02_blast_hits	strong_ortholog	N-acetyltransferase domain-containing protein	FQU82_02090	unreviewed	NAMED_function_unreviewed
+A1S_1770	hypothetical protein	528	A0A7U3Y761	97.7	100.0	02_blast_hits	strong_ortholog	GH3 auxin-responsive promoter	AB57_2105	unreviewed	NAMED_function_unreviewed
+A1S_1771	hypothetical protein	273	A0ABX6CG14	100.0	100.0	02_blast_hits	strong_ortholog	GNAT family N-acetyltransferase	FQU82_02093	unreviewed	NAMED_function_unreviewed
+A1S_1782	hypothetical protein	267	A0ABX6CG65	98.9	100.0	02_blast_hits	strong_ortholog	Probable membrane transporter protein	FQU82_02114	unreviewed	NAMED_function_unreviewed
+A1S_1794	hypothetical protein	391	A0A7U3Y772	99.0	100.0	02_blast_hits	strong_ortholog	Fumarylacetoacetate hydrolase	AB57_2122	unreviewed	NAMED_function_unreviewed
+A1S_1802	hypothetical protein	152	A0A7U3Y763	97.4	99.3	02_blast_hits	strong_ortholog	DMT family transporter	AB57_2128	unreviewed	NAMED_function_unreviewed
+A1S_1803	hypothetical protein	144	A0ABX6CG66	97.9	100.0	02_blast_hits	strong_ortholog	DMT family transporter	FQU82_02135	unreviewed	NAMED_function_unreviewed
+A1S_1808	hypothetical protein	429	V5VCW0	99.5	100.0	02_blast_hits	strong_ortholog	Dicarboxylate carrier MatC N-terminal domain-containing protein	ABUW_1923	unreviewed	NAMED_function_unreviewed
+A1S_1811	hypothetical protein	248	A0A7U3Y787	91.5	100.0	02_blast_hits	strong_ortholog	DUF2314 domain-containing protein	AB57_2137	unreviewed	NAMED_function_unreviewed
+A1S_3732	hypothetical protein	81	A0A7U5LZV4	96.3	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_05615	unreviewed	NAMED_function_unreviewed
+A1S_1812	hypothetical protein	285					no_ortholog				NO_ORTHOLOG
+A1S_3733	hypothetical protein	153					no_ortholog				NO_ORTHOLOG
+A1S_3734	hypothetical protein	234	A0A7U3Y757	97.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2143	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3735	hypothetical protein	171	A0A7U3Y762	97.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2144	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3736	hypothetical protein	38					no_ortholog				NO_ORTHOLOG
+A1S_3737	hypothetical protein	56	A0ABX6CG72	96.4	100.0	02_blast_hits	strong_ortholog	Pantothenates transporter PanS	panS_1 FQU82_02149	unreviewed	NAMED_function_unreviewed
+A1S_1824	hypothetical protein	339	A0ABX6CGA8	97.9	100.0	02_blast_hits	strong_ortholog	Metallo-beta-lactamase domain-containing protein	FQU82_02159	unreviewed	NAMED_function_unreviewed
+A1S_1825	hypothetical protein	182	A0ABX6CHS3	100.0	100.0	02_blast_hits	strong_ortholog	HTH-type transcriptional regulator IscR	iscR_2 FQU82_02160	unreviewed	NAMED_function_unreviewed
+A1S_1827	hypothetical protein	230	A0ABX6CG87	97.8	100.0	02_blast_hits	strong_ortholog	DJ-1/PfpI domain-containing protein	FQU82_02162	unreviewed	NAMED_function_unreviewed
+A1S_1829	hypothetical protein	268	A0ABX6CG84	98.1	100.0	02_blast_hits	strong_ortholog	DJ-1/PfpI domain-containing protein	FQU82_02164	unreviewed	NAMED_function_unreviewed
+A1S_1831	hypothetical protein	355	A0A7U3Y714	96.9	99.7	02_blast_hits	strong_ortholog	Saccharopine dehydrogenase NADP binding domain-containing protein	AB57_2168	unreviewed	NAMED_function_unreviewed
+A1S_1833	hypothetical protein	276	A0ABX6CG88	97.5	100.0	02_blast_hits	strong_ortholog	Non-heme chloroperoxidase (EC 1.11.1.10)	cpo FQU82_02167	unreviewed	NAMED_function_unreviewed
+A1S_1834	hypothetical protein	298	A0ABX6CG82	95.6	100.0	02_blast_hits	strong_ortholog	Acetoacetate decarboxylase	FQU82_02168	unreviewed	NAMED_function_unreviewed
+A1S_3738	hypothetical protein	44					no_ortholog				NO_ORTHOLOG
+A1S_1836	hypothetical protein	332	A0A7U3Y777	98.8	100.0	02_blast_hits	strong_ortholog	FAH family protein	AB57_2173	unreviewed	NAMED_function_unreviewed
+A1S_1841	hypothetical protein	264	A0A7U3Y7A3	99.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2177	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3739	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_1853	hypothetical protein	425	A0A7U3Y790	97.6	100.0	02_blast_hits	strong_ortholog	TynE	AB57_2188	unreviewed	NAMED_function_unreviewed
+A1S_3740	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_3741	hypothetical protein	67	A0A7U3Y798	98.5	100.0	02_blast_hits	strong_ortholog	Ring hydroxylating beta subunit	AB57_2194	unreviewed	NAMED_function_unreviewed
+A1S_1862	hypothetical protein	175	A0A7U4DGW4	97.7	100.0	02_blast_hits	strong_ortholog	Polyketide cyclase	AB57_2196	unreviewed	NAMED_function_unreviewed
+A1S_1863	hypothetical protein	119	V5VCV9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1859	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3742	hypothetical protein	41					no_ortholog				NO_ORTHOLOG
+A1S_1879	hypothetical protein	155	V5VE93	100.0	100.0	02_blast_hits	strong_ortholog	DUF6438 domain-containing protein	ABUW_1844	unreviewed	NAMED_function_unreviewed
+A1S_3743	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_1897	hypothetical protein	225	A0ABX6CGV9	100.0	100.0	02_blast_hits	strong_ortholog	DUF421 domain-containing protein	FQU82_02226	unreviewed	NAMED_function_unreviewed
+A1S_3744	hypothetical protein	162	V5VE58	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1824	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1901	hypothetical protein	281	A0ABX6CGF9	100.0	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	FQU82_02231	unreviewed	NAMED_function_unreviewed
+A1S_1902	hypothetical protein	364	A0A7U3Y7C2	99.7	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_2236	unreviewed	NAMED_function_unreviewed
+A1S_1903	hypothetical protein	238	A0ABX6CGJ9	99.2	100.0	02_blast_hits	strong_ortholog	SGNH hydrolase-type esterase domain-containing protein	FQU82_02233	unreviewed	NAMED_function_unreviewed
+A1S_1904	hypothetical protein	135	A0ABX6CGI7	98.5	100.0	02_blast_hits	strong_ortholog	SnoaL-like domain-containing protein	FQU82_02234	unreviewed	NAMED_function_unreviewed
+A1S_1906	hypothetical protein	186	V5VCT1	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator, PadR family	ABUW_1818	unreviewed	NAMED_function_unreviewed
+A1S_1912	hypothetical protein	250	A0ABX6CGG4	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_02242	unreviewed	NAMED_function_unreviewed
+A1S_3745	hypothetical protein	506	A0A7U3Y7A6	93.3	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_2250	unreviewed	NAMED_function_unreviewed
+A1S_1914	hypothetical protein	226	A0A7U4DGU3	98.2	100.0	02_blast_hits	strong_ortholog	YgjP-like metallopeptidase domain-containing protein	AB57_2249	unreviewed	NAMED_function_unreviewed
+A1S_1931	hypothetical protein	108	A0ABX6CI28	99.1	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_02265	unreviewed	NAMED_function_unreviewed
+A1S_1932	hypothetical protein	119	V5VE25	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1787	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1933	hypothetical protein	77	V5VCQ2	100.0	100.0	02_blast_hits	strong_ortholog	Sel1 repeat family protein	ABUW_1786	unreviewed	NAMED_function_unreviewed
+A1S_1934	hypothetical protein	141	A0ABX6CGP6	100.0	100.0	02_blast_hits	strong_ortholog	DUF2750 domain-containing protein	FQU82_02268	unreviewed	NAMED_function_unreviewed
+A1S_1935	hypothetical protein	143	V5VC67	100.0	100.0	02_blast_hits	strong_ortholog	CBS domain containing protein	ABUW_1783	unreviewed	NAMED_function_unreviewed
+A1S_1938	hypothetical protein	107	A0ABX6CGJ5	98.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02272	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1942	hypothetical protein	139	V5VE15	99.3	100.0	02_blast_hits	strong_ortholog	Glycolate/propanediol utilization protein	ABUW_1776	unreviewed	NAMED_function_unreviewed
+A1S_3746	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_1951	hypothetical protein	480	A0ABX6CGK0	99.8	100.0	02_blast_hits	strong_ortholog	GdhB (EC 1.1.5.2)	gdhB FQU82_02288	unreviewed	NAMED_function_unreviewed
+A1S_1952	hypothetical protein	209	A0ABX6CHH8	99.5	100.0	02_blast_hits	strong_ortholog	Abasic site processing protein (EC 3.4.-.-)	FQU82_02289	unreviewed	NAMED_function_unreviewed
+A1S_1955	hypothetical protein	248	A0ABX6CHY1	98.0	100.0	02_blast_hits	strong_ortholog	BD-FAE-like domain-containing protein	FQU82_02292	unreviewed	NAMED_function_unreviewed
+A1S_3747	hypothetical protein	97	A0ABX6CGL2	99.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02297	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3748	hypothetical protein	78	A0ABX6CGS5	97.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02298	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1966	hypothetical protein	161	V5VCB2	100.0	100.0	02_blast_hits	strong_ortholog	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase)	fabZ ABUW_1744	unreviewed	NAMED_function_unreviewed
+A1S_1967	hypothetical protein	356	V5VDY4	100.0	100.0	02_blast_hits	strong_ortholog	UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.191)	lpxD ABUW_1743	unreviewed	NAMED_function_unreviewed
+A1S_1976	hypothetical protein	447	B2I330	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal protein uS12 methylthiotransferase RimO (uS12 MTTase) (uS12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein uS12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO)	rimO ACICU_02099	reviewed	CHARACTERIZED_reviewed
+A1S_1981	hypothetical protein	174	A0A7U3Y8Q3	98.3	100.0	02_blast_hits	strong_ortholog	Protein tyrosine phosphatase family protein	AB57_2328	unreviewed	NAMED_function_unreviewed
+A1S_3749	hypothetical protein	48					no_ortholog				NO_ORTHOLOG
+A1S_1985	hypothetical protein	163	V5VC25	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1725	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3750	hypothetical protein	98	A0ABX6CGQ2	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02327	unreviewed	TRULY_UNCHARACTERIZED
+A1S_1989	hypothetical protein	116	A0ABX6CH61	98.3	100.0	02_blast_hits	strong_ortholog	Sulfurtransferase complex subunit TusC	FQU82_02331	unreviewed	NAMED_function_unreviewed
+A1S_1990	hypothetical protein	94	A0A7U3Y8U3	100.0	100.0	02_blast_hits	strong_ortholog	DsrH like protein	AB57_2338	unreviewed	NAMED_function_unreviewed
+A1S_1994	hypothetical protein	160	A0A7U3Y8N6	100.0	100.0	02_blast_hits	strong_ortholog	Transcriptional regulator	AB57_2341	unreviewed	NAMED_function_unreviewed
+A1S_1996	hypothetical protein	307	A0ABX6CGU6	99.7	100.0	02_blast_hits	strong_ortholog	MoaB/Mog domain-containing protein	FQU82_02338	unreviewed	NAMED_function_unreviewed
+A1S_1998	hypothetical protein	84	V5VC14	100.0	100.0	02_blast_hits	strong_ortholog	ThiS family protein (Molybdopterin synthase sulfur carrier subunit) (Thiamine biosynthesis protein ThiS)	A7M90_01945 APD06_12235 APD33_05710 AUO97_17890 B9X95_01385 C5U34_06455 CBE85_15825 CPI82_05460 CV954_007635 DOL94_17635 FJU42_15500 G3N53_05430 GNY86_22780 IHV20_10890 IHV20_21055 J6E47_08175 MKP18_002230 P9867_010700 P9867_14140 SAMEA104305318_03234	unreviewed	NAMED_function_unreviewed
+A1S_3751	hypothetical protein	28	A0ABX6CIW2	92.6	96.4	02_blast_hits	strong_ortholog	GTP 3',8-cyclase (EC 4.1.99.22) (Molybdenum cofactor biosynthesis protein A)	moaA FQU82_02341	unreviewed	NAMED_function_unreviewed
+A1S_2000	hypothetical protein	757	A0A7U3Y8W1	95.9	100.0	02_blast_hits	strong_ortholog	Dehydrogenase	AB57_2349	unreviewed	NAMED_function_unreviewed
+A1S_3752	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3753	hypothetical protein	235					no_ortholog				NO_ORTHOLOG
+A1S_2014	hypothetical protein	260	A0A7U4DFV0	63.5	76.9	02_blast_hits	weak_ortholog	Abasic site processing protein (EC 3.4.-.-)	AB57_1307	unreviewed	NAMED_function_unreviewed
+A1S_3754	hypothetical protein	122					no_ortholog				NO_ORTHOLOG
+A1S_3755	hypothetical protein	91	A0A7U4DFQ9	36.3	100.0	02_blast_hits	weak_ortholog	Holin	AB57_1299	unreviewed	NAMED_function_unreviewed
+A1S_2017	hypothetical protein	1102	R4LBW5	98.4	100.0	02_blast_hits	strong_ortholog	Putative bacteriophage protein	MRSN3942C17_050	unreviewed	NAMED_function_unreviewed
+A1S_3757	hypothetical protein	120	R4L424	100.0	100.0	02_blast_hits	strong_ortholog	Putative bacteriophage protein	APD06_09275 AUO97_18010 CBE85_19735 F2P40_21045 J6E47_08030 MRSN3942C17_040	unreviewed	NAMED_function_unreviewed
+A1S_3756	hypothetical protein	29					no_ortholog				NO_ORTHOLOG
+A1S_3758	hypothetical protein	132	R4LBV8	97.0	100.0	02_blast_hits	strong_ortholog	Putative bacteriophage protein	MRSN3942C17_020	unreviewed	NAMED_function_unreviewed
+A1S_3759	hypothetical protein	120	A0A7U3Y7M7	65.5	99.2	02_blast_hits	weak_ortholog	Lipoprotein	AB57_3206	unreviewed	NAMED_function_unreviewed
+A1S_2019	hypothetical protein	134	B2C6U1	66.7	98.5	02_blast_hits	weak_ortholog	HicB-like antitoxin of toxin-antitoxin system domain-containing protein		unreviewed	NAMED_function_unreviewed
+A1S_2020	hypothetical protein	60					no_ortholog				NO_ORTHOLOG
+A1S_3760	hypothetical protein	171	A0A7U3Y973	98.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2686	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2021	hypothetical protein	305	A0A7U4DH63	94.1	100.0	02_blast_hits	strong_ortholog	Phage tail protein	AB57_2687 AB57_3211	unreviewed	NAMED_function_unreviewed
+A1S_3761	hypothetical protein	117	A0ABX6CIP2	95.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02669	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3762	hypothetical protein	72	A0ABX6CDH2	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01124	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2023	hypothetical protein	132	A0ABX6CDC6	88.6	100.0	02_blast_hits	weak_ortholog	Prophage PSSB64-02	FQU82_01123	unreviewed	NAMED_function_unreviewed
+A1S_3763	hypothetical protein	135	A0A7U4DHX5	95.5	99.3	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2693	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3764	hypothetical protein	129	A0A7U4DHZ6	97.7	100.0	02_blast_hits	strong_ortholog	DUF1320 domain-containing protein	AB57_2695	unreviewed	NAMED_function_unreviewed
+A1S_3765	hypothetical protein	221	A0A7U3Y845	97.3	100.0	02_blast_hits	strong_ortholog	Stress-responsive nuclear envelope protein	AB57_2696	unreviewed	NAMED_function_unreviewed
+A1S_2025	hypothetical protein	173	A0A7U4DH82	99.4	100.0	02_blast_hits	strong_ortholog	Phage capsid protein	AB57_2697	unreviewed	NAMED_function_unreviewed
+A1S_2026	hypothetical protein	75	A0A7U4DH82	91.3	92.0	02_blast_hits	strong_ortholog	Phage capsid protein	AB57_2697	unreviewed	NAMED_function_unreviewed
+A1S_2027	hypothetical protein	255	A0A7U3Y7Z0	100.0	100.0	02_blast_hits	strong_ortholog	DUF6651 domain-containing protein	AB57_2698	unreviewed	NAMED_function_unreviewed
+A1S_3766	hypothetical protein	63	A0A7U3Y7Y7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2699	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3767	hypothetical protein	142	A0A7U3Y867	99.3	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2701	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2029	hypothetical protein	483	A0A7U4DH93	98.8	100.0	02_blast_hits	strong_ortholog	DUF4055 domain-containing protein	AB57_2703	unreviewed	NAMED_function_unreviewed
+A1S_2030	hypothetical protein putative phage associatedprotein	475	A0A7U3Y857	96.0	100.0	02_blast_hits	strong_ortholog	Terminase	AB57_2704	unreviewed	NAMED_function_unreviewed
+A1S_2031	hypothetical protein	156	A0A7U4DHB3	89.1	100.0	02_blast_hits	weak_ortholog	DUF2280 domain-containing protein	AB57_2705	unreviewed	NAMED_function_unreviewed
+A1S_2032	hypothetical protein	213	A0ABX6CE68	94.8	100.0	02_blast_hits	strong_ortholog	Putative phage metallopeptidase domain-containing protein	FQU82_01106	unreviewed	NAMED_function_unreviewed
+A1S_2033	hypothetical protein	142	A0A7U4DHD6	66.9	102.1	02_blast_hits	weak_ortholog	DUF559 domain-containing protein	AB57_2707	unreviewed	NAMED_function_unreviewed
+A1S_2034	hypothetical protein	266	A0ABX6CK03	75.3	98.9	02_blast_hits	weak_ortholog	Bro-N domain-containing protein	FQU82_02722	unreviewed	NAMED_function_unreviewed
+A1S_3768	hypothetical protein	145	A0ABX6CFA9	88.9	93.1	02_blast_hits	weak_ortholog	Antitermination protein	FQU82_01302	unreviewed	NAMED_function_unreviewed
+A1S_3769	hypothetical protein	136					no_ortholog				NO_ORTHOLOG
+A1S_2035	hypothetical protein	157					no_ortholog				NO_ORTHOLOG
+A1S_3770	hypothetical protein	249	A0ABX6CGL9	96.4	99.6	02_blast_hits	strong_ortholog	Replication protein P	FQU82_01297	unreviewed	NAMED_function_unreviewed
+A1S_3771	hypothetical protein	316	A0ABX6CEM5	96.2	100.0	02_blast_hits	strong_ortholog	DUF1376 domain-containing protein	FQU82_01296	unreviewed	NAMED_function_unreviewed
+A1S_3772	hypothetical protein	94	A0ABX6CDW5	54.5	93.6	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_01294	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3773	hypothetical protein	58	A0A7U3Y7L6	96.6	100.0	02_blast_hits	strong_ortholog	Bacteriophage regulatory protein	AB57_3250	unreviewed	NAMED_function_unreviewed
+A1S_3774	hypothetical protein	296					no_ortholog				NO_ORTHOLOG
+A1S_3775	hypothetical protein	288					no_ortholog				NO_ORTHOLOG
+A1S_2038	hypothetical protein	146	A0ABX6CD87	96.6	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_01081	unreviewed	NAMED_function_unreviewed
+A1S_2039	hypothetical protein	373	A0ABX6CF97	99.7	100.0	02_blast_hits	strong_ortholog	ATP-binding protein	FQU82_01287	unreviewed	NAMED_function_unreviewed
+A1S_3776	hypothetical protein	402	A0ABX6CDZ1	51.7	102.5	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_01285	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3777	hypothetical protein	83	A0ABX6CE40	98.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_01076	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3778	hypothetical protein	135	A0ABX6CDH4	99.3	100.0	02_blast_hits	strong_ortholog	Phage protein	FQU82_01075	unreviewed	NAMED_function_unreviewed
+A1S_3779	hypothetical protein	28					no_ortholog				NO_ORTHOLOG
+A1S_2041	hypothetical protein	289	A0A0D5YGJ2	99.7	100.0	02_blast_hits	strong_ortholog	Heme oxygenase-like protein	ABUW_1693	unreviewed	NAMED_function_unreviewed
+A1S_2048	hypothetical protein	114	A0ABX6CGT6	100.0	100.0	02_blast_hits	strong_ortholog	DUF218 domain-containing protein	FQU82_02362	unreviewed	NAMED_function_unreviewed
+A1S_2049	hypothetical protein	199	A0ABX6CGT6	98.9	92.0	02_blast_hits	strong_ortholog	DUF218 domain-containing protein	FQU82_02362	unreviewed	NAMED_function_unreviewed
+A1S_2052	hypothetical protein	414	A0A7U3Y8W3	99.3	100.0	02_blast_hits	strong_ortholog	Lactonase	AB57_2373	unreviewed	NAMED_function_unreviewed
+A1S_3780	hypothetical protein	69					no_ortholog				NO_ORTHOLOG
+A1S_3781	hypothetical protein	65					no_ortholog				NO_ORTHOLOG
+A1S_3782	hypothetical protein	57	V5VBX4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1663	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3783	hypothetical protein	77	A0ABX6CH16	92.0	97.4	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02388	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2074	hypothetical protein	141	A0ABX6CHC0	98.6	100.0	02_blast_hits	strong_ortholog	Inhibitor of g-type lysozyme	pliG FQU82_02391	unreviewed	NAMED_function_unreviewed
+A1S_3784	hypothetical protein	156	V5VC40	98.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1651	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2088	hypothetical protein	339	A0A7U3Y8Y1	100.0	100.0	02_blast_hits	strong_ortholog	Spore coat protein SpoU	AB57_2420	unreviewed	NAMED_function_unreviewed
+A1S_2090	hypothetical protein	234	A0A7U3Y8Z0	99.1	100.0	02_blast_hits	strong_ortholog	Pilus assembly protein	AB57_2422	unreviewed	NAMED_function_unreviewed
+A1S_2093	hypothetical protein	85	V5VBN1	98.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1629	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2094	hypothetical protein	394	A0A7U3Y8V4	99.0	97.7	02_blast_hits	strong_ortholog	TFIIB-type zinc ribbon-containing protein	AB57_2426	unreviewed	NAMED_function_unreviewed
+A1S_2099	hypothetical protein	184	A0ABX6CGX9	98.3	97.3	02_blast_hits	strong_ortholog	Alpha/beta hydrolase domain-containing protein	FQU82_02420	unreviewed	NAMED_function_unreviewed
+A1S_2100	hypothetical protein	75	A0A7U3Y905	100.0	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_2433	unreviewed	NAMED_function_unreviewed
+A1S_3785	hypothetical protein	168	V5VC31	100.0	100.0	02_blast_hits	strong_ortholog	RNA-binding protein Hfq	hfq ABUW_1609	unreviewed	NAMED_function_unreviewed
+A1S_2116	hypothetical protein	151	A0A7U4DHR4	99.3	100.0	02_blast_hits	strong_ortholog	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaE)	AB57_2449	unreviewed	NAMED_function_unreviewed
+A1S_2118	hypothetical protein	102	V5VC27	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1604	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3786	hypothetical protein	72	V5VDH6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1601	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3787	hypothetical protein	142	A0ABX6CII6	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_02445	unreviewed	NAMED_function_unreviewed
+A1S_3788	hypothetical protein	144	A0ABX6CH81	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02448	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2129	hypothetical protein	119	A0A7U3Y8X6	99.2	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_2463	unreviewed	NAMED_function_unreviewed
+A1S_2130	hypothetical protein	1147	A0ABX6CHH6	99.9	99.3	02_blast_hits	strong_ortholog	Translocation and assembly module subunit TamB (Intermembrane phospholipid transporter TamB)	FQU82_02451	unreviewed	NAMED_function_unreviewed
+A1S_2131	hypothetical protein	280	A0ABX6CHH6	100.0	100.0	02_blast_hits	strong_ortholog	Translocation and assembly module subunit TamB (Intermembrane phospholipid transporter TamB)	FQU82_02451	unreviewed	NAMED_function_unreviewed
+A1S_2137	hypothetical protein	238	A0A7U3Y926	97.5	100.0	02_blast_hits	strong_ortholog	DNA-binding response regulator	AB57_2470	unreviewed	NAMED_function_unreviewed
+A1S_2138	hypothetical protein	884	A0A7U4DHN6	98.2	100.0	02_blast_hits	strong_ortholog	histidine kinase (EC 2.7.13.3)	AB57_2471	unreviewed	NAMED_function_unreviewed
+A1S_2139	hypothetical protein	201	A0A7U3Y8V5	93.5	100.0	02_blast_hits	strong_ortholog	Potassium-transporting ATPase KdpC subunit (ATP phosphohydrolase [potassium-transporting] C chain) (Potassium-binding and translocating subunit C) (Potassium-translocating ATPase C chain)	kdpC AB57_2472	unreviewed	NAMED_function_unreviewed
+A1S_3789	hypothetical protein	49					no_ortholog				NO_ORTHOLOG
+A1S_2142	hypothetical protein	326	A0ABX6CJ92	94.1	98.2	02_blast_hits	strong_ortholog	Potassium-transporting ATPase potassium-binding subunit (ATP phosphohydrolase [potassium-transporting] A chain) (Potassium-binding and translocating subunit A) (Potassium-translocating ATPase A chain)	kdpA FQU82_02461	unreviewed	NAMED_function_unreviewed
+A1S_3790	hypothetical protein	46					no_ortholog				NO_ORTHOLOG
+A1S_3791	hypothetical protein	167	V5VDE2	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1563	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2159	hypothetical protein	187	A0ABX6CH35	98.9	100.0	02_blast_hits	strong_ortholog	Baeyer-Villiger monooxygenase (EC 1.14.13.-)	FQU82_02480	unreviewed	NAMED_function_unreviewed
+A1S_3792	hypothetical protein	154	A0ABX6CHK6	99.4	100.0	02_blast_hits	strong_ortholog	PgaD	pgaD FQU82_02481	unreviewed	NAMED_function_unreviewed
+A1S_2162	hypothetical protein YcdS precursor	812	A0A7U5RL16	99.3	100.0	02_blast_hits	strong_ortholog	Poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA	AB57_05745	unreviewed	NAMED_function_unreviewed
+A1S_2163	hypothetical protein	278	B7IBB3	100.0	100.0	02_blast_hits	strong_ortholog	Putative phosphoenolpyruvate synthase regulatory protein (PEP synthase regulatory protein) (PSRP) (EC 2.7.11.33) (EC 2.7.4.28) (Pyruvate, water dikinase regulatory protein)	AB57_2500	reviewed	CHARACTERIZED_reviewed
+A1S_2179	hypothetical protein	198	A0ABX6CKB9	99.5	100.0	02_blast_hits	strong_ortholog	DUF403 domain-containing protein	FQU82_02500	unreviewed	NAMED_function_unreviewed
+A1S_2180	hypothetical protein	516	A0ABX6CH64	100.0	100.0	02_blast_hits	strong_ortholog	Circularly permuted ATP-grasp type 2 domain-containing protein	FQU82_02501	unreviewed	NAMED_function_unreviewed
+A1S_2185	hypothetical protein	280	V5VBR9	100.0	100.0	02_blast_hits	strong_ortholog	DUF3426 domain-containing protein	ABUW_1534	unreviewed	NAMED_function_unreviewed
+A1S_2187	hypothetical protein	237	A0ABX6CHE7	99.6	100.0	02_blast_hits	strong_ortholog	Bifunctional purine biosynthesis protein PurH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]	purH FQU82_02508	unreviewed	NAMED_function_unreviewed
+A1S_2188	hypothetical protein	126	A0ABX6CHE7	99.2	100.0	02_blast_hits	strong_ortholog	Bifunctional purine biosynthesis protein PurH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]	purH FQU82_02508	unreviewed	NAMED_function_unreviewed
+A1S_2195	hypothetical protein	67	V5VBV2	100.0	100.0	02_blast_hits	strong_ortholog	Type II toxin-antitoxin system HicA family toxin	ABUW_1526	unreviewed	NAMED_function_unreviewed
+A1S_3793	hypothetical protein	61	A0A7U3Y939	93.1	95.1	02_blast_hits	strong_ortholog	MFS transporter	AB57_2534	unreviewed	NAMED_function_unreviewed
+A1S_2201	hypothetical protein	303	A0ABX6CIR1	99.3	100.0	02_blast_hits	strong_ortholog	Aromatic amino acid exporter YddG	yddG FQU82_02520	unreviewed	NAMED_function_unreviewed
+A1S_3794	hypothetical protein	164	A0A7U3Y8Z3	95.7	100.0	02_blast_hits	strong_ortholog	GNAT family N-acetyltransferase	AB57_2539	unreviewed	NAMED_function_unreviewed
+A1S_2203	hypothetical protein	236	A0A7U3Y900	92.8	99.6	02_blast_hits	strong_ortholog	ABC-type transport auxiliary lipoprotein component domain-containing protein	AB57_2554	unreviewed	NAMED_function_unreviewed
+A1S_2210	hypothetical protein	252	A0ABX6CKH0	95.6	100.0	02_blast_hits	strong_ortholog	HD domain-containing protein	FQU82_02545	unreviewed	NAMED_function_unreviewed
+A1S_3795	hypothetical protein	77	A0ABX6CHF1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02548	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3796	hypothetical protein	212	A0ABX6CHT4	99.5	100.0	02_blast_hits	strong_ortholog	HTH tetR-type domain-containing protein	FQU82_02556	unreviewed	NAMED_function_unreviewed
+A1S_2220	hypothetical protein	300	A0ABX6CIA2	100.0	100.0	02_blast_hits	strong_ortholog	ATP-binding protein	FQU82_02559	unreviewed	NAMED_function_unreviewed
+A1S_2225	hypothetical protein	156	V5VB82	100.0	100.0	02_blast_hits	strong_ortholog	BLUF domain-containing protein (BLUF domain/cyclic diguanylate phosphodiesterase) (Blue light sensor protein)	ycgF AUO97_00025 B9W25_06225 CV954_006495 EJ062_20320 FPK63_19655 FPK87_16345 FQZ18_06845 IAG11_01980 IHV20_11935 SAMEA4394745_02028	unreviewed	NAMED_function_unreviewed
+A1S_3797	hypothetical protein	45	A0ABX6CJJ5	97.8	100.0	02_blast_hits	strong_ortholog	NirD/YgiW/YdeI family stress tolerance protein	FQU82_02566	unreviewed	NAMED_function_unreviewed
+A1S_2228	hypothetical protein	264	A0ABX6CHC5	99.6	100.0	02_blast_hits	strong_ortholog	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase (EC 3.5.1.103)	mshB FQU82_02569	unreviewed	NAMED_function_unreviewed
+A1S_2230	hypothetical protein	77	V5VBM8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1466	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2233	hypothetical protein	277	A0ABX6CIB9	99.3	100.0	02_blast_hits	strong_ortholog	Beta-alanine--pyruvate aminotransferase (EC 2.6.1.18)	bauA FQU82_02574	unreviewed	NAMED_function_unreviewed
+A1S_2234	hypothetical protein	115	A0ABX6CIB9	98.9	81.7	02_blast_hits	strong_ortholog	Beta-alanine--pyruvate aminotransferase (EC 2.6.1.18)	bauA FQU82_02574	unreviewed	NAMED_function_unreviewed
+A1S_2241	hypothetical protein	502	V5VBT0	100.0	100.0	02_blast_hits	strong_ortholog	Patatin family phospholipase	ABUW_1456	unreviewed	NAMED_function_unreviewed
+A1S_3798	hypothetical protein	81	A0ABX6CHG9	93.3	74.1	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02583	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2243	hypothetical protein	158	A0ABX6CHG9	98.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02583	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2246	hypothetical protein	148	A0ABX6CHE4	100.0	100.0	02_blast_hits	strong_ortholog	GatB/YqeY domain-containing protein	yqeY FQU82_02586	unreviewed	NAMED_function_unreviewed
+A1S_2249	hypothetical protein	216	A0ABX6CHD4	99.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02589	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2254	hypothetical protein	159	A0ABX6CKL4	99.4	100.0	02_blast_hits	strong_ortholog	Type II secretion system (T2SS) protein M C-terminal domain-containing protein	FQU82_02594	unreviewed	NAMED_function_unreviewed
+A1S_2266	hypothetical protein	207	A0ABX6CHJ1	96.1	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	FQU82_02607	unreviewed	NAMED_function_unreviewed
+A1S_2267	hypothetical protein	257	A3M6Z6	100.0	100.0	02_blast_hits	strong_ortholog	UPF0246 protein A1S_2267	A1S_2267	reviewed	CHARACTERIZED_reviewed
+A1S_2272	hypothetical protein	152	B2C6S4	74.8	99.3	02_blast_hits	weak_ortholog	DIP1984 family protein (Septicolysin)	B9W25_18800 C5U34_16645 EA686_00250 EJ062_02165 F2P40_20115 FJU42_18595 FPK63_18505 FPK87_19820 FQZ18_19335 G3N53_19225 GNY86_18015 IAG11_17545 JHZ39_003704 MKP18_004096 MKP18_004097 pAB120_07	unreviewed	NAMED_function_unreviewed
+A1S_2275	hypothetical protein	127	A0ABX6CHL2	99.2	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02612	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2276	hypothetical protein	756	A0ABX6CHJ8	100.0	100.0	02_blast_hits	strong_ortholog	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)	aroA FQU82_02613	unreviewed	NAMED_function_unreviewed
+A1S_2277	hypothetical protein	369	V5VBH2	100.0	100.0	02_blast_hits	strong_ortholog	Bifunctional chorismate mutase/prephenate dehydratase (EC 4.2.1.51) (EC 5.4.99.5) (Chorismate mutase-prephenate dehydratase) (p-protein)	pheA ABUW_1365	unreviewed	NAMED_function_unreviewed
+A1S_2282	hypothetical protein	90	V5VBG7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1360	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2284	hypothetical protein	798	A0A7U5LZX9	99.9	100.0	02_blast_hits	strong_ortholog	Penicillin-binding protein 1B (PBP-1b) (PBP1b) (Murein polymerase)	AB57_2639	unreviewed	NAMED_function_unreviewed
+A1S_2285	hypothetical protein	183	V5VBL6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1357	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2286	hypothetical protein	299	A0ABX6CIK3	100.0	100.0	02_blast_hits	strong_ortholog	8-oxo-dGTP diphosphatase (EC 3.6.1.55) (7,8-dihydro-8-oxoguanine-triphosphatase) (Mutator protein MutT) (dGTP pyrophosphohydrolase)	thiE_1 FQU82_02623	unreviewed	NAMED_function_unreviewed
+A1S_2291	hypothetical protein	422	A0A7U3Y9B2	98.8	100.0	02_blast_hits	strong_ortholog	Mg2+ transporter-C, MgtC family protein	AB57_2647	unreviewed	NAMED_function_unreviewed
+A1S_2292	hypothetical protein	231	A0ABX6CJR3	99.6	100.0	02_blast_hits	strong_ortholog	tRNA (Adenine(37)-N6)-methyltransferase (EC 2.1.1.-)	trmO FQU82_02630	unreviewed	NAMED_function_unreviewed
+A1S_2294	hypothetical protein	289	A0A7U4DHT1	97.9	100.0	02_blast_hits	strong_ortholog	Phenazine biosynthesis protein PhzF	AB57_2650	unreviewed	NAMED_function_unreviewed
+A1S_2308	hypothetical protein	409	A0A7U3Y9C8	91.0	100.0	02_blast_hits	strong_ortholog	Triacylglycerol lipase	AB57_2667	unreviewed	NAMED_function_unreviewed
+A1S_3799	hypothetical protein	210	A0A7U3Y962	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_2669	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2321	hypothetical protein	161	A0A7U4DHC2	100.0	100.0	02_blast_hits	strong_ortholog	DUF3465 domain-containing protein	AB57_2754	unreviewed	NAMED_function_unreviewed
+A1S_2327	hypothetical protein	390	A0A7U3Y823	99.5	100.0	02_blast_hits	strong_ortholog	MFS transporter	AB57_2760	unreviewed	NAMED_function_unreviewed
+A1S_2333	hypothetical protein	178	A0A7U3Y888	98.9	100.0	02_blast_hits	strong_ortholog	Peptidase C39	AB57_2766	unreviewed	NAMED_function_unreviewed
+A1S_2336	hypothetical protein	240	A0ABX6CHX5	99.2	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193)	rsmE_1 FQU82_02750	unreviewed	NAMED_function_unreviewed
+A1S_2338	hypothetical protein (MaeB)	756	A0A7U3Y891	100.0	100.0	02_blast_hits	strong_ortholog	NADP-dependent malic enzyme (EC 1.1.1.40)	AB57_2773	unreviewed	NAMED_function_unreviewed
+A1S_2342	hypothetical protein	252	A0A7U3Y842	100.0	100.0	02_blast_hits	strong_ortholog	Nif3-like dinuclear metal center hexameric protein	AB57_2776	unreviewed	NAMED_function_unreviewed
+A1S_2347	hypothetical protein	147	V5VBA1	98.6	100.0	02_blast_hits	strong_ortholog	DUF2726 domain-containing protein	ABUW_1212	unreviewed	NAMED_function_unreviewed
+A1S_3800	hypothetical protein	66	V5VCV1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1211	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2348	hypothetical protein	485	A0A7U4DHB2	97.3	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_2780	unreviewed	NAMED_function_unreviewed
+A1S_2361	hypothetical protein	231	A0A7U3Y851	99.6	100.0	02_blast_hits	strong_ortholog	DNA mismatch repair protein MutS	AB57_2791	unreviewed	NAMED_function_unreviewed
+A1S_2368	hypothetical protein	630	M1RLF5	99.4	100.0	02_blast_hits	strong_ortholog	Orf		unreviewed	NAMED_function_unreviewed
+A1S_3801	hypothetical protein	66	A0A076E9K7	100.0	100.0	02_blast_hits	strong_ortholog	DUF3015 domain-containing protein	CV954_005760	unreviewed	NAMED_function_unreviewed
+A1S_3802	hypothetical protein	30	A0ABX6CHY3	100.0	100.0	02_blast_hits	strong_ortholog	DUF3015 domain-containing protein	FQU82_02780	unreviewed	NAMED_function_unreviewed
+A1S_3803	hypothetical protein	51					no_ortholog				NO_ORTHOLOG
+A1S_2371	hypothetical protein	415	A0A0D5YF77	100.0	100.0	02_blast_hits	strong_ortholog	ErfK/YbiS/YcfS/YnhG family	ABUW_1189	unreviewed	NAMED_function_unreviewed
+A1S_2393	hypothetical protein	207	Q76HK7	99.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1167	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2395	hypothetical protein	228	A0ABX6CI06	99.1	100.0	02_blast_hits	strong_ortholog	Quercetin 2,3-dioxygenase (EC 1.13.11.24)	yhhW_2 FQU82_02806	unreviewed	NAMED_function_unreviewed
+A1S_3804	hypothetical protein	342	A0ABX6CJ33	100.0	100.0	02_blast_hits	strong_ortholog	Phage protein	FQU82_02808	unreviewed	NAMED_function_unreviewed
+A1S_3805	hypothetical protein	63					no_ortholog				NO_ORTHOLOG
+A1S_2400	hypothetical protein	315	A0ABX6CLE1	37.3	97.1	02_blast_hits	weak_ortholog	Metal-dependent hydrolase	FQU82_03409	unreviewed	NAMED_function_unreviewed
+A1S_2401	hypothetical protein	50					no_ortholog				NO_ORTHOLOG
+A1S_2404	hypothetical protein	307					no_ortholog				NO_ORTHOLOG
+A1S_2406	hypothetical protein	226	V5V8H4	46.9	86.7	02_blast_hits	weak_ortholog	Isochorismate hydrolase	ABUW_0206	unreviewed	NAMED_function_unreviewed
+A1S_2407	hypothetical protein	131	A0ABX6CGF9	36.0	103.8	02_blast_hits	weak_ortholog	Metal-dependent hydrolase	FQU82_02231	unreviewed	NAMED_function_unreviewed
+A1S_2408	hypothetical protein	97	A0ABX6CND0	45.3	77.3	02_blast_hits	weak_ortholog	Metal-dependent hydrolase	FQU82_03503	unreviewed	NAMED_function_unreviewed
+A1S_2409	hypothetical protein	330	A0ABX6CK09	45.9	99.1	02_blast_hits	weak_ortholog	Fatty acid desaturase domain-containing protein	FQU82_03130	unreviewed	NAMED_function_unreviewed
+A1S_2412	hypothetical protein	288	A0ABX6CIW1	57.5	90.6	02_blast_hits	weak_ortholog	PaaX family transcriptional regulator	FQU82_03129	unreviewed	NAMED_function_unreviewed
+A1S_3806	hypothetical protein	46					no_ortholog				NO_ORTHOLOG
+A1S_2416	hypothetical protein	100	A0ABX6CJD4	100.0	100.0	02_blast_hits	strong_ortholog	YbdD/YjiX family protein	FQU82_02812	unreviewed	NAMED_function_unreviewed
+A1S_2421	hypothetical protein	537	A0ABX6CK94	100.0	100.0	02_blast_hits	strong_ortholog	GTPase	FQU82_02816	unreviewed	NAMED_function_unreviewed
+A1S_3807	hypothetical protein	40					no_ortholog				NO_ORTHOLOG
+A1S_2422	hypothetical protein	707	A0A7U5RL27	98.7	100.0	02_blast_hits	strong_ortholog	Diguanylate phosphodiesterase	AB57_2852	unreviewed	NAMED_function_unreviewed
+A1S_3808	hypothetical protein	123	V5VAN6	99.2	100.0	02_blast_hits	strong_ortholog	DUF7944 domain-containing protein	ABUW_1129	unreviewed	NAMED_function_unreviewed
+A1S_3809	hypothetical protein	58	A0ABX6CI38	94.0	86.2	02_blast_hits	strong_ortholog	Aromatic amino acid transport protein AroP	aroP_2 FQU82_02841	unreviewed	NAMED_function_unreviewed
+A1S_3810	hypothetical protein	234	A0A7U3Y8G5	97.0	100.0	02_blast_hits	strong_ortholog	Isochorismatase	AB57_2894	unreviewed	NAMED_function_unreviewed
+A1S_2466	hypothetical protein	125	A0A7U3Y897	99.2	100.0	02_blast_hits	strong_ortholog	DUF962 domain-containing protein	AB57_2907	unreviewed	NAMED_function_unreviewed
+A1S_2467	hypothetical protein	487	A0ABX6CJQ4	98.2	100.0	02_blast_hits	strong_ortholog	CYTH and CHAD domain-containing protein	FQU82_02860	unreviewed	NAMED_function_unreviewed
+A1S_2468	hypothetical protein	210	A0ABX6CKE0	99.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02861	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2469	hypothetical protein	127	V5VAY5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1083	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3811	hypothetical protein	136	A0ABX6CI74	98.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02868	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2486	hypothetical protein	278	A0A7U3Y8G4	100.0	92.8	02_blast_hits	strong_ortholog	Cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB	AB57_2931	unreviewed	NAMED_function_unreviewed
+A1S_2487	hypothetical protein	182	A0A7U3Y8G4	100.0	100.0	02_blast_hits	strong_ortholog	Cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB	AB57_2931	unreviewed	NAMED_function_unreviewed
+A1S_2488	hypothetical protein	301	A0ABX6CI77	98.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02882	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2495	hypothetical protein	402	A0A7U4DHK0	100.0	100.0	02_blast_hits	strong_ortholog	DUF1615 domain-containing protein	AB57_2938	unreviewed	NAMED_function_unreviewed
+A1S_2499	hypothetical protein	224	V5VCG0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1052	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2500	hypothetical protein	246	A0ABX6CIH6	99.6	99.2	02_blast_hits	strong_ortholog	MFS transporter	FQU82_02893	unreviewed	NAMED_function_unreviewed
+A1S_2505	hypothetical protein	263	A0ABX6CIA6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02898	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2507	hypothetical protein	59	V5VAH5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1044	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2512	hypothetical protein	142	A0ABX6CKJ3	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02906	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3812	hypothetical protein	66	A0A7U3Y8F0	97.0	100.0	02_blast_hits	strong_ortholog	NF038104 family lipoprotein	AB57_2959	unreviewed	NAMED_function_unreviewed
+A1S_2529	hypothetical protein	356	A0ABX6CIB4	100.0	100.0	02_blast_hits	strong_ortholog	Endolytic murein transglycosylase (EC 4.2.2.29) (Peptidoglycan lytic transglycosylase) (Peptidoglycan polymerization terminase)	mltG FQU82_02923	unreviewed	NAMED_function_unreviewed
+A1S_3813	hypothetical protein	32	A0ABX6CIC9	88.9	84.4	02_blast_hits	weak_ortholog	Sulfate-binding protein	sbp_1 FQU82_02925	unreviewed	NAMED_function_unreviewed
+A1S_2542	hypothetical protein	223	A0A7U4DHJ4	100.0	100.0	02_blast_hits	strong_ortholog	7-cyano-7-deazaguanine synthase (EC 6.3.4.20) (7-cyano-7-carbaguanine synthase) (PreQ(0) synthase) (Queuosine biosynthesis protein QueC)	queC AB57_2982	unreviewed	NAMED_function_unreviewed
+A1S_2544	hypothetical protein	228	A0ABX6CJX7	99.1	100.0	02_blast_hits	strong_ortholog	Diphthine--ammonia ligase	FQU82_02936	unreviewed	NAMED_function_unreviewed
+A1S_2549	hypothetical protein	105	V5VCB8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_1005	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3814	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_2556	hypothetical protein	528	Q3LUF7	30.8	99.6	02_blast_hits	weak_ortholog	TnsE (Transcriptional antiterminator) (Transposition site target selection protein E)	tnsE GNY86_15200	unreviewed	NAMED_function_unreviewed
+A1S_2557	hypothetical protein	131					no_ortholog				NO_ORTHOLOG
+A1S_3815	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_3816	hypothetical protein	112					no_ortholog				NO_ORTHOLOG
+A1S_2559	hypothetical protein	382					no_ortholog				NO_ORTHOLOG
+A1S_2560	hypothetical protein	421					no_ortholog				NO_ORTHOLOG
+A1S_2561	hypothetical protein	705					no_ortholog				NO_ORTHOLOG
+A1S_3817	hypothetical protein	48					no_ortholog				NO_ORTHOLOG
+A1S_2569	hypothetical protein	59	A0A0S2CET4	51.7	98.3	02_blast_hits	weak_ortholog	Transposase	SAMEA104305318_00905	unreviewed	NAMED_function_unreviewed
+A1S_3818	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_2583	hypothetical protein	218	A0A7U3Y5Y6	62.8	91.3	02_blast_hits	weak_ortholog	NTPase KAP	AB57_0974	unreviewed	NAMED_function_unreviewed
+A1S_3819	hypothetical protein	38					no_ortholog				NO_ORTHOLOG
+A1S_3820	hypothetical protein	191					no_ortholog				NO_ORTHOLOG
+A1S_2599	hypothetical protein	106	V5VAD0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0987	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2600	hypothetical protein	129	A0ABX6CJK4	99.2	100.0	02_blast_hits	strong_ortholog	DUF3106 domain-containing protein	FQU82_02960	unreviewed	NAMED_function_unreviewed
+A1S_2602	hypothetical protein	617	A0ABX6CIF8	82.8	100.0	02_blast_hits	weak_ortholog	Rhombotarget A	FQU82_02962	unreviewed	NAMED_function_unreviewed
+A1S_2615	hypothetical protein	155	B2HWW1	100.0	100.0	02_blast_hits	strong_ortholog	UPF0178 protein ACICU_02858	ACICU_02858	reviewed	CHARACTERIZED_reviewed
+A1S_2616	hypothetical protein	313	A0ABX6CJM9	99.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_02975	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2623	hypothetical protein	264	A0ABX6CKU7	97.3	100.0	02_blast_hits	strong_ortholog	Chitooligosaccharide deacetylase (EC 3.5.1.-)	chbG FQU82_02982	unreviewed	NAMED_function_unreviewed
+A1S_3821	hypothetical protein	74	A0ABX6CIL8	98.6	100.0	02_blast_hits	strong_ortholog	Prokaryotic lipo-attachment site family protein	FQU82_02995	unreviewed	NAMED_function_unreviewed
+A1S_2638	hypothetical protein	130	V5VAK0	100.0	100.0	02_blast_hits	strong_ortholog	DUF1232 domain-containing protein	ABUW_0946	unreviewed	NAMED_function_unreviewed
+A1S_3822	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_2645	hypothetical repressor protein	178	V5VFA7	35.7	94.4	02_blast_hits	weak_ortholog	Transcriptional regulator	ABUW_2761	unreviewed	NAMED_function_unreviewed
+A1S_3823	hypothetical protein	201					no_ortholog				NO_ORTHOLOG
+A1S_3824	hypothetical protein	102	A0A0M4BS50	70.6	100.0	02_blast_hits	weak_ortholog	Uncharacterized protein	APD33_05435 DOL94_01020 MKP18_004049 MKP18_004050	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2648	Hypothetical protein	169					no_ortholog				NO_ORTHOLOG
+A1S_3825	hypothetical protein	260					no_ortholog				NO_ORTHOLOG
+A1S_3826	hypothetical protein	139					no_ortholog				NO_ORTHOLOG
+A1S_3827	hypothetical protein	176	A0A7U3Y8P1	97.9	80.7	02_blast_hits	strong_ortholog	DUF4440 domain-containing protein	AB57_3067	unreviewed	NAMED_function_unreviewed
+A1S_2655	hypothetical protein	127	V5VC23	100.0	100.0	02_blast_hits	strong_ortholog	SCP2 domain-containing protein	ABUW_0927	unreviewed	NAMED_function_unreviewed
+A1S_2656	hypothetical protein	301	B0VT10	100.0	100.0	02_blast_hits	strong_ortholog	tRNA-cytidine(32) 2-sulfurtransferase (EC 2.8.1.-) (Two-thiocytidine biosynthesis protein A) (tRNA 2-thiocytidine biosynthesis protein TtcA)	ttcA ABSDF0830	reviewed	CHARACTERIZED_reviewed
+A1S_2667	hypothetical protein	312	V5VAM6	99.7	100.0	02_blast_hits	strong_ortholog	DAGKc domain-containing protein	ABUW_0914	unreviewed	NAMED_function_unreviewed
+A1S_2673	hypothetical protein	222	A0ABX6CJS6	98.6	100.0	02_blast_hits	strong_ortholog	Ribosomal protein L11 methyltransferase (EC 2.1.1.-)	prmA_2 FQU82_03036	unreviewed	NAMED_function_unreviewed
+A1S_2674	hypothetical protein	282	D0CBC8	100.0	100.0	02_blast_hits	strong_ortholog	Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]	folD HMPREF0010_02058	unreviewed	NAMED_function_unreviewed
+A1S_3828	hypothetical protein	121	A0A7U4DH02	97.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3093	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2679	hypothetical protein	104	V5VAL7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0901	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2683	hypothetical protein	107	V5VAM8	100.0	100.0	02_blast_hits	strong_ortholog	CRM domain-containing protein	ABUW_0897	unreviewed	NAMED_function_unreviewed
+A1S_2684	hypothetical protein	178	V5VAL2	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0896	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2685	hypothetical protein	195	V5VA16	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0895	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2690	hypothetical protein	130	V5V988	36.4	76.2	02_blast_hits	weak_ortholog	Uncharacterized protein	ABUW_0308	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3829	hypothetical protein	238	V5VBZ0	100.0	100.0	02_blast_hits	strong_ortholog	Metalloprotease	ABUW_0888	unreviewed	NAMED_function_unreviewed
+A1S_2695	hypothetical protein	551	A0A0D5YFY6	98.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0886	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2696	hypothetical protein	2101	A0ABX6CIS4	94.2	94.9	02_blast_hits	strong_ortholog	Bap	bap FQU82_03059	unreviewed	NAMED_function_unreviewed
+A1S_2703	hypothetical protein	177	A0A7U3Y7L0	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3140	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2705	hypothetical protein	95	V5VAC4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0861	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3830	hypothetical protein	68	V5VAI1	100.0	100.0	02_blast_hits	strong_ortholog	Acidic transcription factor A	ABUW_0863	unreviewed	NAMED_function_unreviewed
+A1S_2707	hypothetical protein	174	V5VAK1	100.0	100.0	02_blast_hits	strong_ortholog	YgfB/YecA family protein	ABUW_0864	unreviewed	NAMED_function_unreviewed
+A1S_3831	hypothetical protein	373					no_ortholog				NO_ORTHOLOG
+A1S_2708	hypothetical protein	310	B0VEG5	100.0	100.0	02_blast_hits	strong_ortholog	tRNA uridine(34) hydroxylase (EC 1.14.-.-) (tRNA hydroxylation protein O)	trhO ABAYE0771	reviewed	CHARACTERIZED_reviewed
+A1S_2709	hypothetical protein	155	A0A7U4DGX4	98.7	100.0	02_blast_hits	strong_ortholog	DUF1289 domain-containing protein	AB57_3133	unreviewed	NAMED_function_unreviewed
+A1S_2710	hypothetical protein	424	V5V9Y8	100.0	100.0	02_blast_hits	strong_ortholog	Citrate synthase	gltA ABUW_0867	unreviewed	NAMED_function_unreviewed
+A1S_3832	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_3833	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_2728	hypothetical protein	262	V5VAB3	99.6	100.0	02_blast_hits	strong_ortholog	DUF3298 domain-containing protein	ABUW_0851	unreviewed	NAMED_function_unreviewed
+A1S_2738	hypothetical protein	116	A0ABX6CJY1	97.4	100.0	02_blast_hits	strong_ortholog	UPF0145 protein FQU82_03099	FQU82_03099	unreviewed	NAMED_function_unreviewed
+A1S_2739	hypothetical protein	81	A0A7U3Y7L7	98.8	100.0	02_blast_hits	strong_ortholog	Metal-binding protein	AB57_3161	unreviewed	NAMED_function_unreviewed
+A1S_3834	hypothetical protein	144	A0A7U4DH18	100.0	100.0	02_blast_hits	strong_ortholog	Polyketide cyclase	AB57_3160	unreviewed	NAMED_function_unreviewed
+A1S_2741	hypothetical protein	68	A0ABX6CIX1	98.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03103	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3835	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_2749	hypothetical protein	232	A0A7U3Y7K8	99.6	100.0	02_blast_hits	strong_ortholog	Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein	AB57_3171	unreviewed	NAMED_function_unreviewed
+A1S_2759	hypothetical protein YbdF	122	A0ABX6CKH1	100.0	100.0	02_blast_hits	strong_ortholog	MmcQ/YjbR family DNA-binding protein	FQU82_03120	unreviewed	NAMED_function_unreviewed
+A1S_2761	hypothetical protein	395	A0A7U3Y7I4	99.5	100.0	02_blast_hits	strong_ortholog	Methylaconitate Delta-isomerase PrpF	AB57_3183	unreviewed	NAMED_function_unreviewed
+A1S_2769	hypothetical protein	266	A0ABX6CIW1	99.6	100.0	02_blast_hits	strong_ortholog	PaaX family transcriptional regulator	FQU82_03129	unreviewed	NAMED_function_unreviewed
+A1S_2776	hypothetical protein	461	A0ABX6CKI4	99.8	100.0	02_blast_hits	strong_ortholog	diacylglycerol O-acyltransferase (EC 2.3.1.20)	wax-dgaT FQU82_03136	unreviewed	NAMED_function_unreviewed
+A1S_2787	hypothetical protein	355	A0ABX6CKI2	97.2	100.0	02_blast_hits	strong_ortholog	DUF1176 domain-containing protein	FQU82_03148	unreviewed	NAMED_function_unreviewed
+A1S_3836	hypothetical protein	93	A0A7U4DH54	100.0	72.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3296	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2798	hypothetical protein	848	A0ABX6CIY8	99.8	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03159	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3837	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_2806	hypothetical protein	167	A0ABX6CN83	100.0	100.0	02_blast_hits	strong_ortholog	L,D-TPase catalytic domain-containing protein	FQU82_03167	unreviewed	NAMED_function_unreviewed
+A1S_2808	hypothetical protein	302	A0A7U3Y7T4	98.7	100.0	02_blast_hits	strong_ortholog	DUF1853 family protein	AB57_3305	unreviewed	NAMED_function_unreviewed
+A1S_3838	hypothetical protein	30					no_ortholog				NO_ORTHOLOG
+A1S_3839	hypothetical protein	154	A0A7U4DH90	97.4	100.0	02_blast_hits	strong_ortholog	CheW-like domain-containing protein	AB57_3310	unreviewed	NAMED_function_unreviewed
+A1S_2816	hypothetical protein	180	A0A7U3Y7R1	98.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3316	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2820	hypothetical protein	113	V5VA25	100.0	100.0	02_blast_hits	strong_ortholog	DUF1508 domain-containing protein	ABUW_0673	unreviewed	NAMED_function_unreviewed
+A1S_2822	hypothetical protein	118	A0ABX6CKK9	97.5	100.0	02_blast_hits	strong_ortholog	DUF488 domain-containing protein	FQU82_03184	unreviewed	NAMED_function_unreviewed
+A1S_2823	hypothetical protein	149	V5VA80	100.0	100.0	02_blast_hits	strong_ortholog	Activator of HSP90 ATPase	ABUW_0667	unreviewed	NAMED_function_unreviewed
+A1S_2824	hypothetical protein	240	A0ABX6CJ47	99.6	100.0	02_blast_hits	strong_ortholog	tRNA-modifying protein YgfZ	ygfZ FQU82_03186	unreviewed	NAMED_function_unreviewed
+A1S_2833	hypothetical protein	117	A0A7U3Y7R2	98.3	100.0	02_blast_hits	strong_ortholog	Gamma-glutamylcyclotransferase AIG2-like domain-containing protein	AB57_3334	unreviewed	NAMED_function_unreviewed
+A1S_2839	hypothetical protein	401	A0ABX6CJ57	99.3	100.0	02_blast_hits	strong_ortholog	3'-phosphate/5'-hydroxy nucleic acid ligase (EC 6.5.1.8)	rtcB FQU82_03201	unreviewed	NAMED_function_unreviewed
+A1S_2843	hypothetical protein	147	A0ABX6CJ91	98.6	100.0	02_blast_hits	strong_ortholog	Glyoxalase/fosfomycin resistance/dioxygenase domain-containing protein	FQU82_03206	unreviewed	NAMED_function_unreviewed
+A1S_2845	hypothetical protein	161	V5VA53	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0644	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2855	hypothetical protein	84	A0ABX6CJ75	100.0	100.0	02_blast_hits	strong_ortholog	Sugar porter family MFS transporter	FQU82_03216	unreviewed	NAMED_function_unreviewed
+A1S_2864	hypothetical protein	172	A0ABX6CJ37	98.3	100.0	02_blast_hits	strong_ortholog	Metallo-hydrolase (EC 3.-.-.-)	FQU82_03225	unreviewed	NAMED_function_unreviewed
+A1S_2866	hypothetical protein	354	A0ABX6CNI4	99.7	100.0	02_blast_hits	strong_ortholog	SPOR domain-containing protein	FQU82_03227	unreviewed	NAMED_function_unreviewed
+A1S_2867	hypothetical protein	89	A0A7U3Y7S9	100.0	100.0	02_blast_hits	strong_ortholog	Dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12) (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase-dihydrofolate synthetase) (Folylpolyglutamate synthetase) (Tetrahydrofolylpolyglutamate synthase)	AB57_3371	unreviewed	NAMED_function_unreviewed
+A1S_2868	hypothetical protein	275	A0ABX6CJ38	97.7	95.6	02_blast_hits	strong_ortholog	Dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12) (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase-dihydrofolate synthetase) (Folylpolyglutamate synthetase) (Tetrahydrofolylpolyglutamate synthase)	folC FQU82_03228	unreviewed	NAMED_function_unreviewed
+A1S_2872	hypothetical protein	291	A0A7U5LZZ0	99.7	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	AB57_3375	unreviewed	NAMED_function_unreviewed
+A1S_2873	hypothetical protein	331	A0ABX6CM72	99.4	100.0	02_blast_hits	strong_ortholog	DUF2804 domain-containing protein	FQU82_03233	unreviewed	NAMED_function_unreviewed
+A1S_3840	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_2874	hypothetical protein	170	A0ABX6CJ54	98.8	100.0	02_blast_hits	strong_ortholog	DUF1543 domain-containing protein	FQU82_03234	unreviewed	NAMED_function_unreviewed
+A1S_2878	hypothetical protein	192	A0ABX6CJR0	99.5	100.0	02_blast_hits	strong_ortholog	Corrinoid adenosyltransferase (EC 2.5.1.17) (Cob(II)alamin adenosyltransferase) (Cob(II)yrinic acid a,c-diamide adenosyltransferase) (Cobinamide/cobalamin adenosyltransferase)	cobO FQU82_03238	unreviewed	NAMED_function_unreviewed
+A1S_2882	hypothetical protein	480	A0A7U4DH51	99.6	100.0	02_blast_hits	strong_ortholog	Protein nucleotidyltransferase YdiU (EC 2.7.7.-) (Protein adenylyltransferase YdiU) (EC 2.7.7.108) (Protein uridylyltransferase YdiU) (EC 2.7.7.-)	ydiU selO AB57_3386	unreviewed	NAMED_function_unreviewed
+A1S_2890	hypothetical protein	148	A0ABX6CJ65	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03252	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2896	hypothetical protein	234	A0A097I598	100.0	100.0	02_blast_hits	strong_ortholog	GtrOC9	gtrOC9	unreviewed	NAMED_function_unreviewed
+A1S_3841	hypothetical protein	271	A0A0D5YEE9	99.6	100.0	02_blast_hits	strong_ortholog	LPS glycosyltransferase subfamily	ABUW_0594	unreviewed	NAMED_function_unreviewed
+A1S_2898	hypothetical protein	297	A0A7U3Y7U7	98.3	100.0	02_blast_hits	strong_ortholog	Ghy	ghy AB57_3404	unreviewed	NAMED_function_unreviewed
+A1S_2902	hypothetical protein	342	N0ABE1	99.7	100.0	02_blast_hits	strong_ortholog	Glycosyltransferase (GtrOC2)	gtrOC2 B9W25_07205 DOL94_08115 FPK63_11360 FPK87_11520 FQZ18_03175 IAG11_13890 IMO23_15255 SAMEA104305318_01592	unreviewed	NAMED_function_unreviewed
+A1S_2903	hypothetical protein	296	N0A448	99.0	100.0	02_blast_hits	strong_ortholog	GtrOC1 (Nucleoside-diphosphate sugar epimerase)	gtrOC1 EA686_10425 GNY86_14950	unreviewed	NAMED_function_unreviewed
+A1S_3842	hypothetical protein	71	A0A0D5YF08	66.2	100.0	02_blast_hits	weak_ortholog	Uncharacterized protein	ABUW_0550	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3843	hypothetical protein	296					no_ortholog				NO_ORTHOLOG
+A1S_2907	hypothetical protein	1250					no_ortholog				NO_ORTHOLOG
+A1S_3844	hypothetical protein	258					no_ortholog				NO_ORTHOLOG
+A1S_3845	hypothetical protein	180					no_ortholog				NO_ORTHOLOG
+A1S_3846	hypothetical protein	342	A0ABX6CNQ0	98.2	100.0	02_blast_hits	strong_ortholog	DUF3137 domain-containing protein	FQU82_03273	unreviewed	NAMED_function_unreviewed
+A1S_2917	hypothetical protein	417	V5V9S5	99.5	100.0	02_blast_hits	strong_ortholog	Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein) (Phosphopantothenoylcysteine synthetase/decarboxylase) (PPCS-PPCDC) [Includes: Phosphopantothenoylcysteine decarboxylase (PPC decarboxylase) (PPC-DC) (EC 4.1.1.36) (CoaC); Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (CoaB) (Phosphopantothenoylcysteine synthetase) (PPC synthetase) (PPC-S)]	coaBC ABUW_0529	unreviewed	NAMED_function_unreviewed
+A1S_2922	hypothetical protein	100	V5V9S1	100.0	100.0	02_blast_hits	strong_ortholog	YCII-related protein	ABUW_0524	unreviewed	NAMED_function_unreviewed
+A1S_3847	hypothetical protein	100					no_ortholog				NO_ORTHOLOG
+A1S_3848	hypothetical protein	159	A0ABX6CJA2	100.0	100.0	02_blast_hits	strong_ortholog	SH3 domain protein	FQU82_03285	unreviewed	NAMED_function_unreviewed
+A1S_2923	hypothetical protein	623	A3M8T4	100.0	100.0	02_blast_hits	strong_ortholog	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC (tRNA mnm(5)s(2)U biosynthesis bifunctional protein) [Includes: tRNA (mnm(5)s(2)U34)-methyltransferase (EC 2.1.1.61); FAD-dependent cmnm(5)s(2)U34 oxidoreductase (EC 1.5.-.-)]	mnmC A1S_2923	reviewed	CHARACTERIZED_reviewed
+A1S_2925	hypothetical protein	109	V5V9C0	99.1	99.1	02_blast_hits	strong_ortholog	Nucleotide-binding protein ABUW_0520	ABUW_0520	unreviewed	NAMED_function_unreviewed
+A1S_2926	hypothetical protein	62	V5V9C0	98.2	91.9	02_blast_hits	strong_ortholog	Nucleotide-binding protein ABUW_0520	ABUW_0520	unreviewed	NAMED_function_unreviewed
+A1S_2928	hypothetical protein	895					no_ortholog				NO_ORTHOLOG
+A1S_3849	hypothetical protein	41	F1JTS4	76.3	92.7	02_blast_hits	weak_ortholog	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	trkA	unreviewed	NAMED_function_unreviewed
+A1S_3850	hypothetical protein	86	A0ABX6CB31	54.4	66.3	02_blast_hits	weak_ortholog	Ferrous iron transporter FeoA-like domain-containing protein	FQU82_00314	unreviewed	NAMED_function_unreviewed
+A1S_2931	hypothetical protein	120					no_ortholog				NO_ORTHOLOG
+A1S_2942	hypothetical protein	349	A0A7U3Y4M4	92.5	99.7	02_blast_hits	strong_ortholog	DUF932 domain-containing protein	AB57_0656	unreviewed	NAMED_function_unreviewed
+A1S_3851	hypothetical protein	98	A0A7U5LZU3	80.6	100.0	02_blast_hits	weak_ortholog	Uncharacterized protein	AB57_05175	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3852	hypothetical protein	109					no_ortholog				NO_ORTHOLOG
+A1S_3853	hypothetical protein	208					no_ortholog				NO_ORTHOLOG
+A1S_3854	hypothetical protein	357	A0A0D5YM88	63.9	100.0	02_blast_hits	weak_ortholog	Molecular chaperone DnaJ	ABUW_3333	unreviewed	NAMED_function_unreviewed
+A1S_3855	hypothetical protein	48	A0A0D5YL34	71.4	102.1	02_blast_hits	weak_ortholog	Uncharacterized protein	ABUW_3334	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3856	hypothetical protein	72	A0A7U3Y4U4	92.9	97.2	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_0648	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3857	hypothetical protein	67					no_ortholog				NO_ORTHOLOG
+A1S_2943	hypothetical protein	401	A0A7U3Y4N7	45.3	98.0	02_blast_hits	weak_ortholog	Inovirus Gp2 family protein	AB57_0646	unreviewed	NAMED_function_unreviewed
+A1S_2944	hypothetical protein	365					no_ortholog				NO_ORTHOLOG
+A1S_3858	hypothetical protein	163					no_ortholog				NO_ORTHOLOG
+A1S_3859	hypothetical protein	239					no_ortholog				NO_ORTHOLOG
+A1S_3860	hypothetical protein	351					no_ortholog				NO_ORTHOLOG
+A1S_2945	hypothetical protein	379					no_ortholog				NO_ORTHOLOG
+A1S_3861	hypothetical protein	328					no_ortholog				NO_ORTHOLOG
+A1S_2946	hypothetical protein	164	A0ABX6CJ93	99.4	100.0	02_blast_hits	strong_ortholog	DUF4442 domain-containing protein	FQU82_03289	unreviewed	NAMED_function_unreviewed
+A1S_2947	hypothetical protein	140	A0A7U3Y7U5	100.0	100.0	02_blast_hits	strong_ortholog	Acyl-CoA thioesterase	AB57_3431	unreviewed	NAMED_function_unreviewed
+A1S_2949	hypothetical protein	98	A0A7U3Y817	92.6	96.9	02_blast_hits	strong_ortholog	Thioredoxin	AB57_3432	unreviewed	NAMED_function_unreviewed
+A1S_2950	hypothetical protein	298	V5V9X0	99.7	100.0	02_blast_hits	strong_ortholog	Alpha/beta fold family hydrolase	ABUW_0516	unreviewed	NAMED_function_unreviewed
+A1S_3863	hypothetical protein	397	A0ABX6CMF8	99.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	FQU82_03294	unreviewed	NAMED_function_unreviewed
+A1S_3862	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_3864	hypothetical protein	108	A0A7U3Y3Q8	99.1	100.0	02_blast_hits	strong_ortholog	Lipoprotein	AB57_0053	unreviewed	NAMED_function_unreviewed
+A1S_3865	hypothetical protein	76	V5VJH1	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein, putative	ABUW_3875	unreviewed	NAMED_function_unreviewed
+A1S_3866	hypothetical protein	305	A0A7U4DF43	98.7	100.0	02_blast_hits	strong_ortholog	Peptidase	AB57_0047	unreviewed	NAMED_function_unreviewed
+A1S_3867	hypothetical protein	123	A0A7U3Y3T6	99.2	99.2	02_blast_hits	strong_ortholog	Dual-action HEIGH metallo-peptidase	AB57_0046	unreviewed	NAMED_function_unreviewed
+A1S_3868	hypothetical protein	62	A0A7U3Y3T6	100.0	100.0	02_blast_hits	strong_ortholog	Dual-action HEIGH metallo-peptidase	AB57_0046	unreviewed	NAMED_function_unreviewed
+A1S_2961	hypothetical protein	124	V5VHW4	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3882	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3869	hypothetical protein	65	A0A7U5LZQ2	96.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_04895	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3870	hypothetical protein	107	A0ABX6CA46	100.0	99.1	02_blast_hits	strong_ortholog	Low temperature requirement protein A	FQU82_00032	unreviewed	NAMED_function_unreviewed
+A1S_2967	hypothetical protein	207	A0A7U4DF36	99.0	95.2	02_blast_hits	strong_ortholog	Low temperature requirement protein A	AB57_0039	unreviewed	NAMED_function_unreviewed
+A1S_3871	hypothetical protein	121	A0A7U3Y3S3	97.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_0036	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2970	hypothetical protein	386	A0A7U4DF40	98.7	100.0	02_blast_hits	strong_ortholog	Carboxylate--amine ligase	AB57_0035	unreviewed	NAMED_function_unreviewed
+A1S_3872	hypothetical protein	30	A0ABX6CA19	96.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_00025	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3873	hypothetical protein	76					no_ortholog				NO_ORTHOLOG
+A1S_2978	hypothetical protein	87	V5VJI9	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_3901	unreviewed	TRULY_UNCHARACTERIZED
+A1S_2980	hypothetical protein	164	A0ABX6CBN7	100.0	100.0	02_blast_hits	strong_ortholog	Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC)	yidC FQU82_00018	unreviewed	NAMED_function_unreviewed
+A1S_2982	hypothetical protein	106	V5VI82	100.0	100.0	02_blast_hits	strong_ortholog	Putative membrane protein insertion efficiency factor	ABUW_3904	unreviewed	NAMED_function_unreviewed
+A1S_2985	hypothetical protein	153	A0ABX6CJM3	99.3	100.0	02_blast_hits	strong_ortholog	YfiR family protein	FQU82_03301	unreviewed	NAMED_function_unreviewed
+A1S_3874	hypothetical protein	77	A0ABX6CJB2	100.0	93.5	02_blast_hits	strong_ortholog	Cardiolipin synthase C (EC 2.7.8.-)	clsC_2 FQU82_03305	unreviewed	NAMED_function_unreviewed
+A1S_2994	hypothetical protein	123	V5V9A7	100.0	100.0	02_blast_hits	strong_ortholog	LrgA family protein	ABUW_0500	unreviewed	NAMED_function_unreviewed
+A1S_2996	hypothetical signal peptide protein	147	V5VBB1	100.0	100.0	02_blast_hits	strong_ortholog	DUF2147 domain-containing protein	ABUW_0498	unreviewed	NAMED_function_unreviewed
+A1S_3004	hypothetical protein	218	A0ABX6CJC3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03318	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3010	hypothetical protein	601	A0A7U3Y828	99.0	100.0	02_blast_hits	strong_ortholog	Terpene utilization protein AtuA	AB57_3461	unreviewed	NAMED_function_unreviewed
+A1S_3013	hypothetical protein	187	A0ABX6CJH5	99.5	100.0	02_blast_hits	strong_ortholog	DUF4256 domain-containing protein	FQU82_03327	unreviewed	NAMED_function_unreviewed
+A1S_3014	hypothetical protein	116	A0ABX6CL51	100.0	100.0	02_blast_hits	strong_ortholog	CENP-V/GFA domain-containing protein	FQU82_03328	unreviewed	NAMED_function_unreviewed
+A1S_3016	hypothetical protein	355	A0ABX6CMK1	99.4	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03334	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3021	hypothetical protein	285	V5V9T8	100.0	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.266) (23S rRNA (adenine(2030)-N6)-methyltransferase) (23S rRNA m6A2030 methyltransferase)	rlmJ ABUW_0471	unreviewed	NAMED_function_unreviewed
+A1S_3022	hypothetical protein	201	A0A7U3Y832	98.5	100.0	02_blast_hits	strong_ortholog	Oxidoreductase	AB57_3471	unreviewed	NAMED_function_unreviewed
+A1S_3024	hypothetical protein	81	A0A7U3Y848	100.0	100.0	02_blast_hits	strong_ortholog	DUF2789 domain-containing protein	AB57_3473	unreviewed	NAMED_function_unreviewed
+A1S_3026	hypothetical protein	220	V5V9T3	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0466	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3031	hypothetical protein	158	B2HZ57	100.0	100.0	02_blast_hits	strong_ortholog	Endoribonuclease YbeY (EC 3.1.-.-)	ybeY ACICU_03227	reviewed	CHARACTERIZED_reviewed
+A1S_3033	hypothetical protein	223	A0ABX6CJJ6	99.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03347	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3034	hypothetical protein	237	A0ABX6CL71	99.6	100.0	02_blast_hits	strong_ortholog	DUF3108 domain-containing protein	FQU82_03348	unreviewed	NAMED_function_unreviewed
+A1S_3875	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_3043	hypothetical protein	788	A0A7U4DHZ3	97.2	102.4	02_blast_hits	strong_ortholog	Outer membrane protein A (190 kDa antigen)	AB57_3491	unreviewed	NAMED_function_unreviewed
+A1S_3044	hypothetical protein	197	A0A7U3Y9I1	97.5	100.0	02_blast_hits	strong_ortholog	Hydrolase	AB57_3492	unreviewed	NAMED_function_unreviewed
+A1S_3048	hypothetical protein	69	A0ABX6CJN8	100.0	100.0	02_blast_hits	strong_ortholog	YheV family metal-binding protein	FQU82_03365	unreviewed	NAMED_function_unreviewed
+A1S_3876	hypothetical protein	143	A0A7U3Y9B3	98.6	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3496	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3051	hypothetical protein	361	V5VB63	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	ABUW_0438	unreviewed	NAMED_function_unreviewed
+A1S_3877	hypothetical protein	33	A0ABX6CJT7	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03370	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3878	hypothetical protein	129	A0A7U3Y9A7	95.3	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3500	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3052	hypothetical protein	85	V5V966	100.0	100.0	02_blast_hits	strong_ortholog	FAD assembly factor SdhE	ABUW_0435	unreviewed	NAMED_function_unreviewed
+A1S_3084	hypothetical protein	515	A0ABX6CJJ7	100.0	100.0	02_blast_hits	strong_ortholog	Helicase HerA-like C-terminal domain-containing protein	FQU82_03405	unreviewed	NAMED_function_unreviewed
+A1S_3086	hypothetical protein	158	A0A7U4DI01	97.9	89.9	02_blast_hits	strong_ortholog	Transcriptional regulator	AB57_3536	unreviewed	NAMED_function_unreviewed
+A1S_3088	hypothetical protein	315	A0ABX6CLE1	99.4	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	FQU82_03409	unreviewed	NAMED_function_unreviewed
+A1S_3879	hypothetical protein	39	V5VB12	100.0	100.0	02_blast_hits	strong_ortholog	Magnesium and cobalt transport protein	corA ABUW_0388	unreviewed	NAMED_function_unreviewed
+A1S_3110	hypothetical protein	767	A0ABX6CJU1	97.9	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03431	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3112	hypothetical protein	215	A0ABX6CK97	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03433	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3113	hypothetical protein	84	A0ABX6CJP1	100.0	100.0	02_blast_hits	strong_ortholog	Phage shock protein PspC N-terminal domain-containing protein	FQU82_03434	unreviewed	NAMED_function_unreviewed
+A1S_3115	hypothetical protein	265	A0ABX6CKT9	98.9	100.0	02_blast_hits	strong_ortholog	DUF4130 domain-containing protein	FQU82_03436	unreviewed	NAMED_function_unreviewed
+A1S_3116	hypothetical protein	420	A0A7U5LZZ2	99.3	100.0	02_blast_hits	strong_ortholog	DNA modification/repair radical SAM protein	AB57_3569	unreviewed	NAMED_function_unreviewed
+A1S_3880	hypothetical protein	276					no_ortholog				NO_ORTHOLOG
+A1S_3120	hypothetical protein	59	A0A7U3Y9G0	93.2	100.0	02_blast_hits	strong_ortholog	GTP cyclohydrolase	AB57_3575	unreviewed	NAMED_function_unreviewed
+A1S_3121	hypothetical protein	371					no_ortholog				NO_ORTHOLOG
+A1S_3136	hypothetical protein	425	A0A7U3Y9H1	98.4	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_3591	unreviewed	NAMED_function_unreviewed
+A1S_3140	hypothetical protein	155	A0ABX6CK22	100.0	100.0	02_blast_hits	strong_ortholog	Holliday junction resolvase-related domain-containing protein	FQU82_03460	unreviewed	NAMED_function_unreviewed
+A1S_3149	hypothetical protein	104	V5V8X8	100.0	100.0	02_blast_hits	strong_ortholog	ABM domain-containing protein	ABUW_0334	unreviewed	NAMED_function_unreviewed
+A1S_3155	hypothetical protein	147	V5V9B8	100.0	100.0	02_blast_hits	strong_ortholog	Hemerythrin	ABUW_0328	unreviewed	NAMED_function_unreviewed
+A1S_3881	hypothetical protein	272	A0A7U3Y9I6	99.6	100.0	02_blast_hits	strong_ortholog	Pilus assembly protein	AB57_3622	unreviewed	NAMED_function_unreviewed
+A1S_3882	hypothetical protein	184	V5V8W2	100.0	100.0	02_blast_hits	strong_ortholog	Type IV pilus modification protein PilV	pilV ABUW_0314	unreviewed	NAMED_function_unreviewed
+A1S_3883	hypothetical protein	157	A0ABX6CJQ7	99.4	100.0	02_blast_hits	strong_ortholog	Type II secretion system protein H (General secretion pathway protein H)	FQU82_03489	unreviewed	NAMED_function_unreviewed
+A1S_3172	hypothetical protein (SpoT)	701	A0A0D5YCY1	100.0	100.0	02_blast_hits	strong_ortholog	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase (EC 3.1.7.2)	ABUW_0309	unreviewed	NAMED_function_unreviewed
+A1S_3173	hypothetical protein	127	V5V988	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0308	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3178	hypothetical protein	186	A0A7U4DI44	98.4	100.0	02_blast_hits	strong_ortholog	TPM domain-containing protein	AB57_3635	unreviewed	NAMED_function_unreviewed
+A1S_3181	hypothetical protein	295	A0A7U3Y9R0	99.3	100.0	02_blast_hits	strong_ortholog	Metal-dependent hydrolase	AB57_3638	unreviewed	NAMED_function_unreviewed
+A1S_3199	hypothetical protein	110	A0ABX6CM94	100.0	100.0	02_blast_hits	strong_ortholog	DUF7709 domain-containing protein	FQU82_03517	unreviewed	NAMED_function_unreviewed
+A1S_3212	hypothetical protein	286	A0ABX6CJT1	99.7	100.0	02_blast_hits	strong_ortholog	PGAP1-like family protein	FQU82_03530	unreviewed	NAMED_function_unreviewed
+A1S_3884	hypothetical protein	315	A0A7U3Y9S8	99.7	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3663	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3885	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3886	hypothetical protein	230	A0A7U3Y9K3	99.1	100.0	02_blast_hits	strong_ortholog	YidX conserved domain-containing protein	AB57_3670	unreviewed	NAMED_function_unreviewed
+A1S_3887	hypothetical protein	126	A0ABX6CJZ9	96.8	100.0	02_blast_hits	strong_ortholog	Sel1 repeat family protein	FQU82_03541	unreviewed	NAMED_function_unreviewed
+A1S_3888	hypothetical protein	141					no_ortholog				NO_ORTHOLOG
+A1S_3233	hypothetical protein	127	A0ABX6CME1	99.2	100.0	02_blast_hits	strong_ortholog	PanD maturation factor	panM FQU82_03553	unreviewed	NAMED_function_unreviewed
+A1S_3234	hypothetical protein	197	B0V8S1	100.0	100.0	02_blast_hits	strong_ortholog	Imidazoleglycerol-phosphate dehydratase (IGPD) (EC 4.2.1.19)	hisB ABAYE0254	reviewed	CHARACTERIZED_reviewed
+A1S_3239	hypothetical protein	183	A0A7U3Y9K8	98.9	100.0	02_blast_hits	strong_ortholog	Cro/Cl family transcriptional regulator	AB57_3688	unreviewed	NAMED_function_unreviewed
+A1S_3889	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_3240	hypothetical protein	300	A0ABX6CK07	99.0	100.0	02_blast_hits	strong_ortholog	EamA domain-containing protein	FQU82_03560	unreviewed	NAMED_function_unreviewed
+A1S_3246	hypothetical protein	212	A0ABX6CMA2	99.5	100.0	02_blast_hits	strong_ortholog	Fatty acid hydroxylase domain-containing protein	FQU82_03565	unreviewed	NAMED_function_unreviewed
+A1S_3250	hypothetical protein	80	A0ABX6CMG0	97.5	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03568	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3890	hypothetical protein	33					no_ortholog				NO_ORTHOLOG
+A1S_3257	hypothetical protein Patl_1499	318	A0ABX6CK23	98.7	100.0	02_blast_hits	strong_ortholog	Restriction endonuclease	FQU82_03576	unreviewed	NAMED_function_unreviewed
+A1S_3260	hypothetical protein	68	A0A7U3Y9Q7	94.1	100.0	02_blast_hits	strong_ortholog	Msl2237 protein	AB57_3708	unreviewed	NAMED_function_unreviewed
+A1S_3891	hypothetical protein	158	A0ABX6CBH8	45.9	100.6	02_blast_hits	weak_ortholog	Lipoprotein	FQU82_00174	unreviewed	NAMED_function_unreviewed
+A1S_3261	hypothetical protein	383					no_ortholog				NO_ORTHOLOG
+A1S_3892	hypothetical protein	207	A0ABX6CCC0	37.8	97.1	02_blast_hits	weak_ortholog	Uncharacterized protein	FQU82_00744	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3893	hypothetical protein	266					no_ortholog				NO_ORTHOLOG
+A1S_3265	hypothetical protein	300	A0A7U4DI45	100.0	100.0	02_blast_hits	strong_ortholog	AraC family transcriptional regulator	AB57_3713	unreviewed	NAMED_function_unreviewed
+A1S_3267	hypothetical exported protein	189	A0A7U3Y9V3	99.5	100.0	02_blast_hits	strong_ortholog	Aldo/keto reductase	AB57_3714	unreviewed	NAMED_function_unreviewed
+A1S_3268	hypothetical protein	130	A0ABX6CNQ1	99.2	100.0	02_blast_hits	strong_ortholog	Signal peptide-containing protein	FQU82_03585	unreviewed	NAMED_function_unreviewed
+A1S_3894	hypothetical protein	54	A0ABX6CJY8	86.8	70.4	02_blast_hits	weak_ortholog	Signal peptide-containing protein	FQU82_03586	unreviewed	NAMED_function_unreviewed
+A1S_3276	hypothetical protein	445	A0ABX6CLE3	100.0	100.0	02_blast_hits	strong_ortholog	Amine oxidase domain-containing protein	FQU82_03594	unreviewed	NAMED_function_unreviewed
+A1S_3895	hypothetical protein	32					no_ortholog				NO_ORTHOLOG
+A1S_3896	hypothetical protein	31					no_ortholog				NO_ORTHOLOG
+A1S_3303	hypothetical protein	255	V5V8F1	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0181	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3312	hypothetical protein	235	A0ABX6CLK3	98.3	100.0	02_blast_hits	strong_ortholog	Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193)	rsmE_2 FQU82_03639	unreviewed	NAMED_function_unreviewed
+A1S_3897	hypothetical protein	90	A0A7U3Y9S0	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	AB57_3775	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3338	hypothetical protein	70	V5VAD4	100.0	100.0	02_blast_hits	strong_ortholog	DUF1737 domain-containing protein	ABUW_0144	unreviewed	NAMED_function_unreviewed
+A1S_3343	hypothetical protein	161	A0ABX6CK72	90.1	87.6	02_blast_hits	strong_ortholog	DUF2147 domain-containing protein	FQU82_03671	unreviewed	NAMED_function_unreviewed
+A1S_3349	hypothetical protein	181	A0A0D5YD81	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0134	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3350	hypothetical protein	116	V5V8V8	100.0	100.0	02_blast_hits	strong_ortholog	HPF/RaiA family ribosome-associated protein (Ribosomal subunit interface protein) (Sigma 54 modulation protein / S30EA ribosomal protein)	A7M90_07285 ABR2091_3551 APD06_07330 APD33_08725 AUO97_05805 B9X95_07670 CBE85_12805 IHV20_01740 IMO23_17385 J6E47_00720 LV35_02468 MKP18_002321 P9867_018215 P9867_02435 SAMEA104305318_00475	unreviewed	NAMED_function_unreviewed
+A1S_3352	hypothetical protein	167	A0ABX6CKG7	100.0	100.0	02_blast_hits	strong_ortholog	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (EC 4.1.1.97)	uao FQU82_03679	unreviewed	NAMED_function_unreviewed
+A1S_3898	hypothetical protein	34					no_ortholog				NO_ORTHOLOG
+A1S_3355	hypothetical protein	241	A0A7U3Y9X4	97.5	100.0	02_blast_hits	strong_ortholog	Ion channel protein Tsx	AB57_3805	unreviewed	NAMED_function_unreviewed
+A1S_3361	hypothetical protein	447	A0ABX6CKF9	99.8	100.0	02_blast_hits	strong_ortholog	GPI inositol-deacylase PGAP1-like alpha/beta domain-containing protein	FQU82_03689	unreviewed	NAMED_function_unreviewed
+A1S_3362	hypothetical protein	218					no_ortholog				NO_ORTHOLOG
+A1S_3899	hypothetical protein	223					no_ortholog				NO_ORTHOLOG
+A1S_3900	hypothetical protein	241	A0A7U3Y9Z6	82.6	100.0	02_blast_hits	weak_ortholog	SH3 domain-containing protein	AB57_3812	unreviewed	NAMED_function_unreviewed
+A1S_3901	hypothetical protein	268					no_ortholog				NO_ORTHOLOG
+A1S_3902	hypothetical protein	580					no_ortholog				NO_ORTHOLOG
+A1S_3903	hypothetical protein	113					no_ortholog				NO_ORTHOLOG
+A1S_3904	hypothetical protein	69	A0ABX6CKI3	98.6	100.0	02_blast_hits	strong_ortholog	Glutamate--cysteine ligase (EC 6.3.2.2) (Gamma-ECS) (GCS) (Gamma-glutamylcysteine synthetase)	gshA FQU82_03694	unreviewed	NAMED_function_unreviewed
+A1S_3367	hypothetical protein	179	A0A7U3Y9T6	99.4	100.0	02_blast_hits	strong_ortholog	DUF924 domain-containing protein	AB57_3820	unreviewed	NAMED_function_unreviewed
+A1S_3905	hypothetical protein	39					no_ortholog				NO_ORTHOLOG
+A1S_3368	hypothetical protein	187	V5V8N4	100.0	100.0	02_blast_hits	strong_ortholog	Lipoprotein	ABUW_0112	unreviewed	NAMED_function_unreviewed
+A1S_3377	hypothetical protein	398	A0A7U4DI93	97.0	100.0	02_blast_hits	strong_ortholog	Alpha/beta hydrolase	AB57_3829	unreviewed	NAMED_function_unreviewed
+A1S_3906	hypothetical protein	37	A0ABX6CKJ7	100.0	100.0	02_blast_hits	strong_ortholog	Catalase (EC 1.11.1.6)	katB FQU82_03709	unreviewed	NAMED_function_unreviewed
+A1S_3384	hypothetical protein	159	A0ABX6CL38	100.0	100.0	02_blast_hits	strong_ortholog	SCP-2 sterol transfer family protein	FQU82_03711	unreviewed	NAMED_function_unreviewed
+A1S_3387	hypothetical protein	429	A0ABX6CM61	100.0	100.0	02_blast_hits	strong_ortholog	DUF4175 domain-containing protein	FQU82_03714	unreviewed	NAMED_function_unreviewed
+A1S_3388	hypothetical protein	373	V5V8R9	100.0	100.0	02_blast_hits	strong_ortholog	3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)	ribB ribBA A7M90_07480 ABR2091_3594 APD06_16235 APD33_07250 AUO97_07790 C5U34_14015 CBE85_14000 CPI82_04655 CV954_000550 DOL94_13630 EA722_13980 F4T83_08645 FPK81_06270 G3N53_07915 GSE42_19585 IHV20_01930 J6E47_00455 LV35_02426 MKP18_002287 P9867_018475 P9867_14305 SAMEA104305318_00510	unreviewed	NAMED_function_unreviewed
+A1S_3393	hypothetical protein	170	B0VPT6	99.4	98.8	02_blast_hits	strong_ortholog	Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)]	glmU ABSDF3568	reviewed	CHARACTERIZED_reviewed
+A1S_3394	hypothetical protein	120	B2I2B5	99.2	100.0	02_blast_hits	strong_ortholog	Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)]	glmU ACICU_03593	reviewed	CHARACTERIZED_reviewed
+A1S_3907	hypothetical protein	57	A0A7U3Y9W1	87.5	70.2	02_blast_hits	weak_ortholog	Uncharacterized protein	AB57_3852	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3908	hypothetical protein	404					no_ortholog				NO_ORTHOLOG
+A1S_3397	hypothetical protein	207	A0A7U4DFF7	32.0	98.1	02_blast_hits	weak_ortholog	Lysine transporter LysE	AB57_0512	unreviewed	NAMED_function_unreviewed
+A1S_3400	hypothetical protein	326	A0A7U3Y9T8	98.8	100.0	02_blast_hits	strong_ortholog	DUF885 domain-containing protein	AB57_3855	unreviewed	NAMED_function_unreviewed
+A1S_3401	hypothetical protein	211	A0A7U3Y9T8	89.7	96.7	02_blast_hits	weak_ortholog	DUF885 domain-containing protein	AB57_3855	unreviewed	NAMED_function_unreviewed
+A1S_3408	hypothetical protein	191	A0A7U3Y9W7	98.4	100.0	02_blast_hits	strong_ortholog	HutD family protein	AB57_3861	unreviewed	NAMED_function_unreviewed
+A1S_3412	hypothetical protein	227	A0ABX6CKK4	100.0	100.0	02_blast_hits	strong_ortholog	Peptidase M15A C-terminal domain-containing protein	FQU82_03734	unreviewed	NAMED_function_unreviewed
+A1S_3419	hypothetical protein	156	A0ABX6CL88	97.4	100.0	02_blast_hits	strong_ortholog	DUF523 domain-containing protein	FQU82_03741	unreviewed	NAMED_function_unreviewed
+A1S_3422	hypothetical protein	212	A0A7U3Y9E3	100.0	100.0	02_blast_hits	strong_ortholog	Nicotinamidase (EC 3.5.1.19) (Nicotinamide deamidase)	AB57_3875	unreviewed	NAMED_function_unreviewed
+A1S_3909	hypothetical protein	67	V5V8N5	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0058	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3429	hypothetical protein	119	A0ABX6CKY2	98.3	100.0	02_blast_hits	strong_ortholog	UPF0260 protein FQU82_03753	FQU82_03753	unreviewed	NAMED_function_unreviewed
+A1S_3910	hypothetical protein	52	V5V8N0	100.0	100.0	02_blast_hits	strong_ortholog	UPF0391 membrane protein ABUW_0053	ABUW_0053	unreviewed	NAMED_function_unreviewed
+A1S_3911	hypothetical protein	35					no_ortholog				NO_ORTHOLOG
+A1S_3434	hypothetical protein	81	V5V8M6	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0048	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3437	hypothetical protein	474	A0A7U3Y990	99.4	100.0	02_blast_hits	strong_ortholog	GntR family transcriptional regulator	AB57_3892	unreviewed	NAMED_function_unreviewed
+A1S_3912	hypothetical protein	124	A0A0D5YCZ5	98.4	100.0	02_blast_hits	strong_ortholog	Lipoprotein	ABUW_0044	unreviewed	NAMED_function_unreviewed
+A1S_3913	hypothetical protein	115	A0ABX6CKR4	99.1	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	FQU82_03769	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3454	hypothetical protein	429	V5V8K8	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0027	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3914	hypothetical protein	47	V5VA26	100.0	100.0	02_blast_hits	strong_ortholog	Uncharacterized protein	ABUW_0023	unreviewed	TRULY_UNCHARACTERIZED
+A1S_3915	hypothetical protein	47					no_ortholog				NO_ORTHOLOG
+A1S_3459	hypothetical protein	241	A0ABX6CKN7	99.6	95.4	02_blast_hits	strong_ortholog	TIGR04219 family outer membrane beta-barrel protein	FQU82_03785	unreviewed	NAMED_function_unreviewed
