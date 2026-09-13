@@ -6,6 +6,9 @@ A genome's /product field freezes at deposition. In the worked example, 96% of
 proteins labelled 'hypothetical' in a 2009 reference had acquired a name or a
 full functional assignment by the time of analysis. Filtering on the deposited
 label alone means screening proteins that are no longer uncharacterised.
+
+Author: Akhil <akhilvenkat197@gmail.com>
+Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 import re
 from utils import *

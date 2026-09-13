@@ -3,6 +3,9 @@
 
 Always resolve the model URL from the API. The filename version is not stable
 (it moved v4 -> v6 during development, and hand-built v4 URLs now 404).
+
+Author: Akhil <akhilvenkat197@gmail.com>
+Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *
 

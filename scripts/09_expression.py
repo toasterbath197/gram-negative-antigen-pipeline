@@ -6,6 +6,9 @@ dataset; that absence is a real limit on the pipeline, not a bug.
 
 TPM normalises by feature length, so short genes inflate. Percentiles are
 therefore reported both genome-wide and against a length-matched background.
+
+Author: Akhil <akhilvenkat197@gmail.com>
+Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 import bisect, statistics
 from utils import *

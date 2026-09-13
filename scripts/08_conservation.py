@@ -4,6 +4,9 @@
 Downloads complete RefSeq proteomes for the target taxon and BLASTs the
 candidates against all of them. An antigen absent from part of the population
 is not useful, so this step is a hard filter, not a nice-to-have.
+
+Author: Akhil <akhilvenkat197@gmail.com>
+Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *
 

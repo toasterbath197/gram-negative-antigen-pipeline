@@ -3,6 +3,9 @@
 
 WARNING: the /product field reflects the annotation as deposited, which may be
 many years old. Step 03 exists precisely because this label goes stale.
+
+Author: Akhil <akhilvenkat197@gmail.com>
+Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *
 

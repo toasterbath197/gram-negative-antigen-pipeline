@@ -5,9 +5,13 @@ annotation and narrows its unannotated proteins down to a ranked shortlist of
 plausible vaccine-antigen candidates — using structure, localization,
 conservation and infection-condition expression.
 
-It was built and validated on *Salmonella enterica* serovar Typhimurium **D23580**
-(ST313, African invasive non-typhoidal lineage), and is parameterised by config
-so it can be pointed at another organism.
+**Scope.** The pipeline is written for Gram-negative bacteria generally and is
+driven entirely by `config/config.yaml`. It has been *validated end to end on one
+organism* — *Salmonella enterica* serovar Typhimurium **D23580** (ST313, African
+invasive non-typhoidal lineage) — which is the worked example throughout. Running
+it on another Gram-negative should require only config changes, but that has not
+been tested, and the localization logic assumes a Gram-negative envelope
+(see *Running it on a different organism*).
 
 **What this pipeline does not do:** prove anything. Every output is a prediction.
 Nothing here establishes that a protein is surface-exposed in vivo, translated,
@@ -135,6 +139,26 @@ SignalP · NCBI BLAST+ · NCBI Datasets · UniProt.
 Worked-example expression data: GEO `GSE119724` (Canals et al., *PLOS Biology*
 2019).
 
+## Author
+
+**Akhil** — <akhilvenkat197@gmail.com>
+
+> Before publishing: replace with your full name and add your affiliation, and
+> an ORCID if you have one. The same applies in `CITATION.cff` and `LICENSE`.
+
+Developed as an independent research project. Not peer reviewed.
+
+## Citation
+
+```bibtex
+@software{akhil_gramneg_antigen_pipeline,
+  author  = {Akhil},
+  title   = {Gram-Negative Antigen Triage Pipeline},
+  year    = {2026},
+  url     = {https://github.com/<your-username>/gram-negative-antigen-pipeline}
+}
+```
+
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
