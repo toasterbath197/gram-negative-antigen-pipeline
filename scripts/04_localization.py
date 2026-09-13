@@ -5,7 +5,7 @@ DeepTMHMM runs on BioLib's cloud (no local install, no API key needed).
 The lipoprotein +2 sorting rule is Enterobacteriaceae-specific; disable it in
 config for anything outside that family.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 import re

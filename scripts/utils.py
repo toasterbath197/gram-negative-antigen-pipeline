@@ -1,6 +1,6 @@
 """Shared helpers for the antigen triage pipeline.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 import csv, gzip, json, os, subprocess, sys, time

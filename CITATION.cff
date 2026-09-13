@@ -3,10 +3,9 @@ title: Gram-Negative Antigen Triage Pipeline
 message: If you use this software, please cite it as below.
 type: software
 authors:
-  # TODO: replace with your full name, and add affiliation / orcid
-  - given-names: Akhil
+  - name: Akhil Venkatesh
     email: akhilvenkat197@gmail.com
-repository-code: "https://github.com/<your-username>/gram-negative-antigen-pipeline"
+repository-code: "https://github.com/<toasterbath197>/gram-negative-antigen-pipeline"
 abstract: >-
   A sequential, resumable pipeline that narrows the unannotated proteins of a
   Gram-negative bacterial genome to a ranked shortlist of candidate vaccine

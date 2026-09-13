@@ -5,7 +5,7 @@ reference proteome, so downstream steps have something to look structures up by.
 Skip entirely (orthologs.enabled: false) when your organism already has its own
 populated UniProtKB entries. D23580 does not, which is why this step exists.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *

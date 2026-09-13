@@ -5,7 +5,7 @@ web API (undocumented but stable endpoints).
 A hit is only called 'known fold' when probability AND E-value agree. A
 probability of 1.0 alongside an E-value of 0.02 is not a confident match.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *

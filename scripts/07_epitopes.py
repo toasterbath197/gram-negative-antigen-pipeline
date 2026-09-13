@@ -14,7 +14,7 @@ Read this before trusting any number this step produces.
    discriminating signal. The controls run by default. If your candidates do not
    separate from the controls, do not use these metrics.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from utils import *

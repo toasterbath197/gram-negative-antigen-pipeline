@@ -8,7 +8,7 @@ that a protein is an antigen.
 Epitope terms are OFF by default. Turn them on only if step 07's negative
 controls showed real separation for YOUR data.
 
-Author: Akhil <akhilvenkat197@gmail.com>
+Author: Akhil Venkatesh <akhilvenkat197@gmail.com>
 Part of the Gram-Negative Antigen Triage Pipeline. MIT licensed.
 """
 from collections import Counter

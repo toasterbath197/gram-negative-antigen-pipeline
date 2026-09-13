@@ -161,7 +161,7 @@ Worked-example expression data: GEO `GSE119724` (Canals et al., *PLOS Biology*
 
 ## Author
 
-**Akhil** — <akhilvenkat197@gmail.com>
+**Akhil Venkatesh** — <akhilvenkat197@gmail.com>
 
 > Before publishing: replace with your full name and add your affiliation, and
 > an ORCID if you have one. The same applies in `CITATION.cff` and `LICENSE`.
@@ -172,10 +172,10 @@ Developed as an independent research project. Not peer reviewed.
 
 ```bibtex
 @software{akhil_gramneg_antigen_pipeline,
-  author  = {Akhil},
+  author  = {Akhil Venkatesh},
   title   = {Gram-Negative Antigen Triage Pipeline},
   year    = {2026},
-  url     = {https://github.com/<your-username>/gram-negative-antigen-pipeline}
+  url     = {https://github.com/<toasterbath197>/gram-negative-antigen-pipeline}
 }
 ```
 
